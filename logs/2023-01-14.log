@@ -1,0 +1,713 @@
+[38;5;8m2023-01-14 01:09:57[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-14 01:09:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-14 01:09:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-14 01:09:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-14 01:09:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-14 01:09:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-14 01:09:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-14 01:09:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-14 01:09:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-14 01:09:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-14 01:09:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-14 01:10:01[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-14 01:10:01[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-ocr:2f9u0e[0m
+[38;5;8m2023-01-14 01:10:01[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-14 01:10:01[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-14 01:10:01[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-14 01:10:02[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-14 01:10:02[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 01:10:02[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 01:10:02[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 01:11:47[0m [W] [38;5;215;1mcommand[0m hlai.painter "loli, schoolsuit
+                        AxiosError: Request failed with status code 404
+                            at settle (D:\Project\koishinew\node_modules\axios\lib\core\settle.js:19:12)
+                            at IncomingMessage.handleStreamEnd (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:495:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1359:12)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-14 01:13:07[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-14 01:16:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-14 01:18:04[0m [W] [38;5;215;1mcommand[0m hlai.painter 1. In the broad snow, on the ice lake, in the afternoon, (panorama) an extremely delicate and beautiful young girl, (naked), (blue-pink long hair), exquisite and beautiful shining blue eyes, (exquisite eye description), (8-year-old girl) exquisite and long eyelashes, wearing a crown on her head, shining halo, silver earrings, (an extremely delicate and lovely face),. ((Detailed description of hair), ((long white hair)), (long white hair)), (exquisite petite breasts) (exquisite breast depiction), (exquisite nipples), (((showing perfect and delicate pussy))) ((exquisite pussy description))), (exquisite hair depiction), ((white pubic hair) There are super fine illustrations, very fine light, very fine light, very fine 8KCG wallpaper)) ((pornographic pictures, sex, 18+) ((panorama)) (ultra-high definition picture quality),
+                        TypeError [ERR_INVALID_URL]: Invalid URL
+                            at __node_internal_captureLargerStackTrace (node:internal/errors:484:5)
+                            at new NodeError (node:internal/errors:393:5)
+                            at URL.onParseError (node:internal/url:565:9)
+                            at new URL (node:internal/url:645:5)
+                            at dispatchHttpRequest (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:169:20)
+                            at new Promise (<anonymous>)
+                            at httpAdapter (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:105:10)
+                            at Axios.dispatchRequest (D:\Project\koishinew\node_modules\axios\lib\core\dispatchRequest.js:46:10)
+                            at Axios.request (D:\Project\koishinew\node_modules\axios\lib\core\Axios.js:140:33)
+                            at wrap (D:\Project\koishinew\node_modules\axios\lib\helpers\bind.js:5:15)
+                            at request (D:\Project\koishinew\node_modules\cordis-axios\src\index.ts:131:14)
+                            at http.axios (D:\Project\koishinew\node_modules\cordis-axios\src\index.ts:155:16)
+                            at _Command.<anonymous> (d:\Project\koishinew\plugins\huanlin-aipainter\src\index.tsx:116:28)
+                            at Array.<anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:282:27)
+                            at Object.argv.next (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:294:14)
+                            at _Command.execute (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:298:33)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:383:22)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-14 01:18:28[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-14 01:20:08[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-14 01:21:53[0m [I] [38;5;178;1mmarket[0m [1/4] Resolving packages...
+[38;5;8m2023-01-14 01:21:53[0m [I] [38;5;178;1mmarket[0m [2/4] Fetching packages...
+[38;5;8m2023-01-14 01:21:55[0m [I] [38;5;178;1mmarket[0m [3/4] Linking dependencies...
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-adapter-discord > @satorijs/adapter-discord@3.4.2" has unmet peer dependency "@satorijs/satori@^2.0.1".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-adapter-kook > @satorijs/adapter-kook@3.5.2" has unmet peer dependency "@satorijs/satori@^2.0.1".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-adapter-onebot > @satorijs/adapter-onebot@5.5.4" has unmet peer dependency "@satorijs/satori@^2.0.1".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-adapter-telegram > @satorijs/adapter-telegram@3.6.4" has unmet peer dependency "@satorijs/satori@^2.0.1".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-adapter-feishu > @satorijs/adapter-feishu@1.1.1" has unmet peer dependency "@satorijs/satori@^2.0.1".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-database-sqlite > @minatojs/driver-sqlite@3.2.3" has unmet peer dependency "@minatojs/core@^2.1.1".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-database-sqlite > @minatojs/driver-sqlite > @minatojs/sql-utils@3.0.0" has unmet peer dependency "@minatojs/core@^2.1.1".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-console-update-tips@1.0.0" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-fill_shit@11.45.14" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-genshin-toolkit@1.0.0" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-ekwing-fucker@1.0.2" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-aria2@1.0.5" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-huanlin-ocr@1.0.2" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-plp@1.0.2" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-search-bing@1.0.2" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-14 01:21:55[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-never-gonna-give-you-up@19.19.810" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-14 01:22:07[0m [I] [38;5;178;1mmarket[0m [4/4] Building fresh packages...
+[38;5;8m2023-01-14 01:22:07[0m [I] [38;5;178;1mmarket[0m success Saved lockfile.
+[38;5;8m2023-01-14 01:22:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 01:23:04[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 01:24:49[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-14 01:27:47[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-14 14:06:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-14 14:06:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-14 14:06:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-14 14:06:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-14 14:06:50[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-14 14:06:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-14 14:06:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-ocr:2f9u0e[0m
+[38;5;8m2023-01-14 14:06:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-14 14:06:52[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-14 14:06:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 14:06:52[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-14 14:06:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-14 14:06:52[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-14 14:06:52[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 14:06:52[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 14:06:52[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 14:07:05[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-14 14:07:05[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-14 14:07:05[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-14 14:43:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-ocr:2f9u0e[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 14:43:23[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 14:43:23[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-14 16:43:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-14 16:43:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-14 16:43:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-14 16:43:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-14 16:43:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-14 16:43:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-14 16:43:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-14 16:43:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-14 16:43:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-14 16:43:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-14 16:43:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-14 16:43:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-14 16:43:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-14 16:43:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-ocr:2f9u0e[0m
+[38;5;8m2023-01-14 16:43:56[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-14 16:43:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 16:43:56[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-14 16:43:57[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-14 16:43:57[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:43:57[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:43:57[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:44:21[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mhuanlin-ocr:2f9u0e[0m
+[38;5;8m2023-01-14 16:44:45[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-14 16:44:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-14 16:44:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-14 16:44:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-14 16:44:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-14 16:44:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-14 16:44:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-14 16:44:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-14 16:44:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-14 16:44:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-14 16:44:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-14 16:44:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-14 16:44:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-14 16:44:48[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-14 16:44:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 16:44:48[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-14 16:44:49[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-14 16:44:49[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:44:49[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:44:49[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:46:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-14 16:46:31[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:46:37[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:46:41[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:47:25[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:47:36[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:47:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:48:30[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:48:50[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-14 16:48:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-14 16:48:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-14 16:48:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-14 16:48:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-14 16:48:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-14 16:48:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-14 16:48:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-14 16:48:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-14 16:48:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-14 16:48:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-14 16:48:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-14 16:48:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-14 16:48:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 16:48:53[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-14 16:48:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-14 16:48:53[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-14 16:48:53[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:48:54[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:48:54[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:48:54[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-14 16:51:53[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-14 16:51:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-14 16:51:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-14 16:51:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-14 16:51:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-14 16:51:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-14 16:51:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-14 16:51:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-14 16:51:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-14 16:51:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-14 16:51:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-14 16:51:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-14 16:51:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-14 16:51:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-14 16:51:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-14 16:51:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-14 16:51:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-14 16:51:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-14 16:51:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-14 16:51:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-14 16:51:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-14 16:51:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-14 16:51:55[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-aipainter"
+[38;5;8m2023-01-14 16:51:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-14 16:51:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-14 16:51:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-14 16:51:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 16:51:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-14 16:51:56[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-14 16:51:56[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-14 16:51:56[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:51:57[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:51:57[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:51:57[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-14 16:52:01[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:52:01[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+[38;5;8m2023-01-14 16:52:45[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:52:48[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:52:48[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:53:13[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:53:18[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:53:18[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:53:45[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:53:50[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:53:50[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:54:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:54:49[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:54:49[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:56:24[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:56:27[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:56:27[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:56:52[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:56:56[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:56:56[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:57:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:57:08[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:57:08[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:57:08[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:57:13[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:57:13[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:57:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:57:38[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:57:38[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:57:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:57:46[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:57:46[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:58:30[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:58:34[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:58:34[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:58:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 16:58:40[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-test[0m
+[38;5;8m2023-01-14 16:58:40[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-test'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-14 16:59:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-14 16:59:13[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-14 16:59:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-14 16:59:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-14 16:59:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-14 16:59:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-14 16:59:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-14 16:59:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-14 16:59:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-14 16:59:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-14 16:59:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-14 16:59:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-14 16:59:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-14 16:59:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-14 16:59:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-14 16:59:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-14 16:59:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-14 16:59:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-14 16:59:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-14 16:59:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-14 16:59:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-14 16:59:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-14 16:59:16[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-aipainter"
+[38;5;8m2023-01-14 16:59:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-14 16:59:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-14 16:59:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 16:59:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-14 16:59:16[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-14 16:59:16[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-14 16:59:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-14 16:59:17[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:59:17[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:59:17[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 16:59:17[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-14 16:59:26[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-01-14 16:59:26[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-01-14 16:59:26[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-01-14 16:59:26[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-01-14 16:59:26[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-01-14 16:59:26[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-01-14 16:59:26[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-01-14 16:59:26[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-14 17:00:12[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:00:26[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:01:06[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:01:36[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:01:52[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:02:17[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:02:51[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:03:41[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:03:45[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:04:13[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:04:21[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:04:51[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:06:48[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:07:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\hlai-ocr\src\index.tsx[0m
+[38;5;8m2023-01-14 17:12:18[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-14 17:12:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-14 17:12:20[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-aipainter"
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-14 17:12:20[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-14 17:12:20[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-14 17:12:21[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-14 17:12:21[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 17:12:21[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 17:12:21[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 19:43:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-14 20:25:09[0m [W] [38;5;171;1monebot[0m Error: Error with request get_msg, args: {"message_id":"960625047"}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:572:20)
+                            at OneBotBot.getMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\base.ts:21:18)
+                            at adaptMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:92:20)
+                            at adaptSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:154:5)
+                            at dispatchSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:141:19)
+[38;5;8m2023-01-14 20:27:54[0m [W] [38;5;171;1monebot[0m Error: Error with request get_msg, args: {"message_id":"-1490719692"}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:572:20)
+                            at OneBotBot.getMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\base.ts:21:18)
+                            at adaptMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:92:20)
+                            at adaptSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:154:5)
+                            at dispatchSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:141:19)
+[38;5;8m2023-01-14 20:54:55[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-14 20:54:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-14 20:54:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-14 20:54:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-14 20:54:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-14 20:54:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-14 20:54:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-14 20:54:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-14 20:54:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-14 20:54:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-14 20:54:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-14 20:54:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-14 20:54:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 20:54:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-14 20:54:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-14 20:54:58[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-14 20:54:58[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-14 20:54:59[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-14 20:54:59[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 20:54:59[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 20:54:59[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 21:16:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-14 21:16:22[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-14 21:16:25[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-14 21:16:25[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-14 21:17:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-14 21:19:04[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-14 21:19:04[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-14 23:22:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-14 23:22:17[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-14 23:22:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-14 23:22:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-14 23:22:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-14 23:22:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-14 23:22:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-14 23:22:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-14 23:22:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-14 23:22:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-14 23:22:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-14 23:22:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-14 23:22:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-14 23:22:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-14 23:22:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-14 23:22:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-14 23:22:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-14 23:22:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-14 23:22:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-14 23:22:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-14 23:22:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-14 23:22:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-14 23:22:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-14 23:22:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-14 23:22:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-14 23:22:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-14 23:22:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-14 23:22:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-14 23:22:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-14 23:22:22[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-14 23:22:22[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-14 23:22:22[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-14 23:22:23[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-14 23:22:23[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 23:22:23[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 23:22:23[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-14 23:31:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-14 23:32:49[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:36:36[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:37:59[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:38:37[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:39:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:43:14[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:46:45[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:47:19[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:47:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:49:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:49:55[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:50:05[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:50:40[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:51:06[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:51:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:53:04[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:53:14[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:53:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:53:53[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-14 23:53:53[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-14 23:54:00[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-14 23:57:22[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m

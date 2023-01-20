@@ -1,0 +1,54 @@
+host: 127.0.0.1
+port: 5141
+maxPort: 5149
+plugins:
+  group:basic:
+    ~help: {}
+    rate-limit: {}
+    locales: {}
+    admin: {}
+    ~bind: {}
+    ~commands:m0aaah: {}
+  group:console:
+    analytics: {}
+    console:
+      devMode: true
+      open: false
+    dataview: {}
+    desktop:
+      $if: env.KOISHI_AGENT?.includes('Desktop')
+    logger: {}
+    insight: {}
+    market:
+      registry:
+        endpoint: https://registry.npmmirror.com
+      search:
+        endpoint: https://registry.koishi.chat/index.json
+    sandbox: {}
+    status: {}
+    $collapsed: true
+  group:database:
+    database-sqlite: {}
+    ~database-mysql: {}
+    ~database-mongo: {}
+    assets-local: {}
+    $collapsed: true
+  group:adapter:
+    adapter-onebot:
+      selfId: '1302399374'
+      token: ''
+      protocol: ws
+      endpoint: ws://106.52.111.188:7110/
+      gocqhttp:
+        enabled: false
+    ~adapter-discord: {}
+    ~adapter-telegram: {}
+    ~adapter-kook: {}
+    ~adapter-feishu: {}
+    gocqhttp: {}
+  ~blockly:f9lneh: {}
+  rr-image-censor:6wnjr3:
+    offset: 65.99
+  puppeteer:2oipri:
+    headless: false
+  spring-festival-ui:zgr8sp: {}

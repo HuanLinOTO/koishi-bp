@@ -1,0 +1,588 @@
+[38;5;8m2023-01-18 00:02:04[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:03:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:04:34[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:04:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:05:24[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:05:40[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:05:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:19:27[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:19:27[0m [I] [38;5;209;1msqlite[0m auto updating table [38;5;209muser[0m
+[38;5;8m2023-01-18 00:20:21[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:20:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:20:43[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:21:11[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:21:59[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m6[39m, file: [32m'D:\\Project\\koishinew\\plugins\\huanlin-good-evening-and-morning\\src\\index.tsx'[39m, length: [33m1[39m, line: [33m56[39m, lineText: [32m'      }'[39m, namespace: [32m''[39m, suggestion: [32m''[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Unexpected "}"'[39m }
+[38;5;8m2023-01-18 00:25:51[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m6[39m, file: [32m'D:\\Project\\koishinew\\plugins\\huanlin-good-evening-and-morning\\src\\index.tsx'[39m, length: [33m1[39m, line: [33m58[39m, lineText: [32m'      }'[39m, namespace: [32m''[39m, suggestion: [32m''[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Unexpected "}"'[39m }
+[38;5;8m2023-01-18 00:26:48[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:29:44[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:30:14[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:30:34[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:30:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:31:41[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:31:49[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:32:26[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:32:31[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:32:51[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:33:11[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:33:44[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:34:09[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:34:23[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:34:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:35:12[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:35:21[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:35:28[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:36:30[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:36:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:37:15[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:38:24[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:39:21[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:39:26[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:39:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:40:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:41:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:42:31[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:42:32[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:43:21[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:43:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:43:47[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:44:06[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:44:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:44:49[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:44:57[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:45:04[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:45:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:46:04[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:48:05[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:48:11[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 00:48:28[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-good-evening-and-morning\src\index.tsx[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-18 13:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-18 13:35:30[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-18 13:35:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-18 13:35:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-18 13:35:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcheck-idcard:fksc5t[0m
+[38;5;8m2023-01-18 13:35:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-on-history:ihtmox[0m
+[38;5;8m2023-01-18 13:35:31[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "today-on-history"
+[38;5;8m2023-01-18 13:35:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:lb3l3j[0m
+[38;5;8m2023-01-18 13:35:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrandom-wallpaper:knhxwd[0m
+[38;5;8m2023-01-18 13:35:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpetpet-plus:fxt9bi[0m
+[38;5;8m2023-01-18 13:35:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m4k-background:6yy88k[0m
+[38;5;8m2023-01-18 13:35:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-good-evening-and-morning:o6v5ry[0m
+[38;5;8m2023-01-18 13:35:31[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-good-evening-and-morning"
+[38;5;8m2023-01-18 13:35:31[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-18 13:35:31[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-18 13:35:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwhois:xdpeyc[0m
+[38;5;8m2023-01-18 13:35:32[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-18 13:35:32[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-18 13:35:32[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-18 13:35:32[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 13:35:32[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 13:35:32[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 13:35:35[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-huanlin-good-evening-and-morning[0m
+[38;5;8m2023-01-18 13:35:35[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'koishi-plugin-huanlin-good-evening-and-morning'
+                        Require stack:
+                        - D:\Project\koishinew\node_modules\@koishijs\plugin-market\lib\node\index.js
+                        - D:\Project\koishinew\node_modules\@koishijs\loader\lib\node.js
+                        - D:\Project\koishinew\node_modules\koishi\lib\worker\index.js
+                            at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+                            at Module._resolveFilename (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:4787:36)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider.loadPackage (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:95:26)
+                            at PackageProvider.loadDirectory (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:85:16)
+                            at async Promise.all (index 0)
+                            at PackageProvider.prepare (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:53:5)
+                            at PackageProvider.get (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:58:5)
+                            at PackageProvider.refresh (D:\Project\koishinew\node_modules\@koishijs\plugin-console\src\shared\service.ts:44:14)
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-18 13:47:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-18 13:47:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcheck-idcard:fksc5t[0m
+[38;5;8m2023-01-18 13:47:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-18 13:47:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-18 13:47:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwhois:xdpeyc[0m
+[38;5;8m2023-01-18 13:47:34[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "today-on-history"
+[38;5;8m2023-01-18 13:47:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-on-history:ihtmox[0m
+[38;5;8m2023-01-18 13:47:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m4k-background:6yy88k[0m
+[38;5;8m2023-01-18 13:47:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrandom-wallpaper:knhxwd[0m
+[38;5;8m2023-01-18 13:47:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:lb3l3j[0m
+[38;5;8m2023-01-18 13:47:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpetpet-plus:fxt9bi[0m
+[38;5;8m2023-01-18 13:47:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-18 13:47:34[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-good-evening-and-morning"
+[38;5;8m2023-01-18 13:47:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-good-evening-and-morning:o6v5ry[0m
+[38;5;8m2023-01-18 13:47:34[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-18 13:47:34[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-18 13:47:34[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-18 13:47:35[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-18 13:47:35[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-18 13:47:35[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 13:47:35[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 13:47:35[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 13:48:49[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"735375064","message":[{"type":"image","data":{"file":"https://api.shserve.cn/api/momo?qq=<at id=\"262444672\"/>"}}]}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:583:20)
+                            at OneBotMessenger.flush (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:65:16)
+                            at OneBotMessenger.send (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:45:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:388:7)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-18 13:49:41[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\petpet-plus\src\index.tsx[0m
+[38;5;8m2023-01-18 13:50:00[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\petpet-plus\src\index.tsx[0m
+[38;5;8m2023-01-18 13:51:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\petpet-plus\src\index.tsx[0m
+[38;5;8m2023-01-18 13:52:49[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\petpet-plus\src\index.tsx[0m
+[38;5;8m2023-01-18 13:53:11[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"735375064","message":[{"type":"image","data":{"file":"https://api.shserve.cn/api/momo?qq=<at id=\"262444672\"/>"}}]}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:583:20)
+                            at OneBotMessenger.flush (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:65:16)
+                            at OneBotMessenger.send (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:45:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:388:7)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-18 13:53:21[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\petpet-plus\src\index.tsx[0m
+[38;5;8m2023-01-18 13:53:25[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"735375064","message":[{"type":"image","data":{"file":"https://api.shserve.cn/api/momo?qq=<at id=\"262444672\"/>"}}]}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:583:20)
+                            at OneBotMessenger.flush (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:65:16)
+                            at OneBotMessenger.send (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:45:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:388:7)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-18 13:53:37[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\petpet-plus\src\index.tsx[0m
+[38;5;8m2023-01-18 13:53:39[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"735375064","message":[{"type":"image","data":{"file":"https://api.shserve.cn/api/momo?qq=<at id=\"262444672\"/>"}}]}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:583:20)
+                            at OneBotMessenger.flush (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:65:16)
+                            at OneBotMessenger.send (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:45:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:388:7)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-18 13:56:25[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\petpet-plus\src\index.tsx[0m
+[38;5;8m2023-01-18 13:56:34[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"735375064","message":[{"type":"image","data":{"file":"https://api.shserve.cn/api/momo?qq=<at id=262444672/>"}}]}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:583:20)
+                            at OneBotMessenger.flush (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:65:16)
+                            at OneBotMessenger.send (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:45:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:388:7)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-18 13:56:47[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\petpet-plus\src\index.tsx[0m
+[38;5;8m2023-01-18 13:56:51[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"735375064","message":[{"type":"image","data":{"file":"https://api.shserve.cn/api/momo?qq=<at id=262444672/>"}}]}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:583:20)
+                            at OneBotMessenger.flush (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:65:16)
+                            at OneBotMessenger.send (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:45:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:388:7)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-18 13:57:06[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\petpet-plus\src\index.tsx[0m
+[38;5;8m2023-01-18 13:57:15[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"735375064","message":[{"type":"image","data":{"file":"https://api.shserve.cn/api/momo?qq=<at id=262444672/>"}}]}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:583:20)
+                            at OneBotMessenger.flush (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:65:16)
+                            at OneBotMessenger.send (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:45:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:388:7)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-18 13:59:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\petpet-plus\src\index.tsx[0m
+[38;5;8m2023-01-18 14:00:13[0m [W] [38;5;215;1mcommand[0m petpet.摸 3509949348
+                        TypeError: qq.startsWith is not a function
+                            at _Command.<anonymous> (d:\Project\koishinew\plugins\petpet-plus\src\index.tsx:68:13)
+                            at Array.<anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:282:27)
+                            at Object.argv.next (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:294:14)
+                            at _Command.execute (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:298:33)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:383:22)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-18 14:00:21[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\petpet-plus\src\index.tsx[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-18 15:42:35[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-18 15:42:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-18 15:42:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-18 15:42:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-18 15:42:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcheck-idcard:fksc5t[0m
+[38;5;8m2023-01-18 15:42:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-on-history:ihtmox[0m
+[38;5;8m2023-01-18 15:42:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwhois:xdpeyc[0m
+[38;5;8m2023-01-18 15:42:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrandom-wallpaper:knhxwd[0m
+[38;5;8m2023-01-18 15:42:39[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "today-on-history"
+[38;5;8m2023-01-18 15:42:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:lb3l3j[0m
+[38;5;8m2023-01-18 15:42:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-18 15:42:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpetpet-plus:fxt9bi[0m
+[38;5;8m2023-01-18 15:42:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-good-evening-and-morning:o6v5ry[0m
+[38;5;8m2023-01-18 15:42:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m4k-background:6yy88k[0m
+[38;5;8m2023-01-18 15:42:39[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-good-evening-and-morning"
+[38;5;8m2023-01-18 15:42:39[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-18 15:42:39[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-18 15:42:39[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-18 15:42:40[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-18 15:42:40[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-18 15:42:40[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 15:42:40[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 15:42:40[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 15:42:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 15:43:03[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 15:43:11[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 15:43:48[0m [W] [38;5;78;1mapp[0m 账号或密码有误，请重新输入
+[38;5;8m2023-01-18 15:43:48[0m [W] [38;5;78;1mapp[0m Error: Navigation failed because browser has disconnected!
+                            at LifecycleWatcher (D:\Project\koishinew\node_modules\puppeteer-core\src\common\LifecycleWatcher.ts:133:11)
+                            at Frame.goto (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Frame.ts:303:21)
+                            at CDPPage.goto (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Page.ts:898:49)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\lessons.tsx:101:20)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[38;5;8m2023-01-18 15:44:10[0m [W] [38;5;78;1mapp[0m Error: Navigation failed because browser has disconnected!
+                            at LifecycleWatcher (D:\Project\koishinew\node_modules\puppeteer-core\src\common\LifecycleWatcher.ts:133:11)
+                            at Frame.goto (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Frame.ts:303:21)
+                            at CDPPage.goto (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Page.ts:898:49)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\lessons.tsx:101:20)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[38;5;8m2023-01-18 15:44:10[0m [W] [38;5;78;1mapp[0m 账号或密码有误，请重新输入
+[38;5;8m2023-01-18 15:48:12[0m [W] [38;5;78;1mapp[0m Error: Waiting for selector `#app > section > div > div > div > div.content > div.contents.common-content-container > div:nth-child(2) > div > div > div > ul > li:nth-child(1) > div:nth-child(2) > button:nth-child(2)` failed: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+                            at CDPSessionImpl.send (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:379:9)
+                            at ExecutionContext._ExecutionContext_evaluate (D:\Project\koishinew\node_modules\puppeteer-core\src\common\ExecutionContext.ts:274:44)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at WaitTask.rerun (D:\Project\koishinew\node_modules\puppeteer-core\src\common\WaitTask.ts:123:26)
+[38;5;8m2023-01-18 15:58:21[0m [W] [38;5;171;1monebot[0m Error: Error with request get_msg, args: {"message_id":"-812424743"}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:572:20)
+                            at OneBotBot.getMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\base.ts:21:18)
+                            at adaptMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:92:20)
+                            at adaptSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:154:5)
+                            at dispatchSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:141:19)
+[38;5;8m2023-01-18 16:00:13[0m [W] [38;5;78;1mapp[0m SyntaxError: Unexpected end of JSON input
+                            at JSON.parse (<anonymous>)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\lessons.tsx:89:37)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[38;5;8m2023-01-18 16:34:40[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 16:34:55[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 16:57:34[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:00:51[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:03:14[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m19[39m, file: [32m'D:\\Project\\koishinew\\plugins\\jiutian-toolkit\\src\\index.tsx'[39m, length: [33m21[39m, line: [33m91[39m, lineText: [32m'    session.send(""任务已开始执行"")'[39m, namespace: [32m''[39m, suggestion: [32m')'[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Expected ")" but found "任务已开始执行"'[39m }
+[38;5;8m2023-01-18 17:03:16[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:08:14[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:08:26[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:15:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:16:47[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:18:08[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:20:06[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-18 17:20:06[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-18 17:20:06[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-18 17:20:06[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-18 17:20:06[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-18 17:20:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-18 17:20:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-18 17:20:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-18 17:20:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-18 17:20:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-18 17:20:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-18 17:20:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-18 17:20:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-18 17:20:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-on-history:ihtmox[0m
+[38;5;8m2023-01-18 17:20:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcheck-idcard:fksc5t[0m
+[38;5;8m2023-01-18 17:20:09[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "today-on-history"
+[38;5;8m2023-01-18 17:20:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwhois:xdpeyc[0m
+[38;5;8m2023-01-18 17:20:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:lb3l3j[0m
+[38;5;8m2023-01-18 17:20:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m4k-background:6yy88k[0m
+[38;5;8m2023-01-18 17:20:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrandom-wallpaper:knhxwd[0m
+[38;5;8m2023-01-18 17:20:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpetpet-plus:fxt9bi[0m
+[38;5;8m2023-01-18 17:20:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-good-evening-and-morning:o6v5ry[0m
+[38;5;8m2023-01-18 17:20:09[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-18 17:20:09[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-18 17:20:09[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-good-evening-and-morning"
+[38;5;8m2023-01-18 17:20:09[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-18 17:20:10[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-18 17:20:10[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 17:20:10[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 17:20:10[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 17:20:10[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-18 17:20:13[0m [W] [38;5;78;1mapp[0m Error: Failed to launch the browser process!
+                        
+                        
+                        TROUBLESHOOTING: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
+                        
+                            at onClose (D:\Project\koishinew\node_modules\puppeteer-core\src\node\BrowserRunner.ts:328:9)
+                            at ChildProcess.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\node\BrowserRunner.ts:317:16)
+                            at ChildProcess.emit (node:events:525:35)
+                            at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+[38;5;8m2023-01-18 17:20:16[0m [W] [38;5;78;1mapp[0m Error: EBUSY: resource busy or locked, unlink 'C:\Users\ADMINI~1\AppData\Local\Temp\puppeteer_dev_chrome_profile-cO13Bd\lockfile'
+[38;5;8m2023-01-18 17:20:47[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-18 17:20:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-18 17:20:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-18 17:20:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-18 17:20:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-18 17:20:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-18 17:20:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-18 17:20:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-18 17:20:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-18 17:20:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-18 17:20:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-18 17:20:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcheck-idcard:fksc5t[0m
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwhois:xdpeyc[0m
+[38;5;8m2023-01-18 17:20:50[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "today-on-history"
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-on-history:ihtmox[0m
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m4k-background:6yy88k[0m
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrandom-wallpaper:knhxwd[0m
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:lb3l3j[0m
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpetpet-plus:fxt9bi[0m
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-good-evening-and-morning:o6v5ry[0m
+[38;5;8m2023-01-18 17:20:50[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-good-evening-and-morning"
+[38;5;8m2023-01-18 17:20:50[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 17:20:50[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 17:20:51[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-18 17:24:32[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:24:47[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:24:48[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:25:31[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:25:33[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:25:40[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 17:28:06[0m [W] [38;5;78;1mapp[0m TimeoutError: Waiting for selector `body > div:nth-child(9) > div > div.ant-modal-wrap > div > div.ant-modal-content > div.ant-modal-footer > div > label` failed: Waiting failed: 100000ms exceeded
+                            at Timeout.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\WaitTask.ts:79:11)
+                            at listOnTimeout (node:internal/timers:564:17)
+                            at process.processTimers (node:internal/timers:507:7)
+[38;5;8m2023-01-18 17:50:47[0m [W] [38;5;78;1mapp[0m TimeoutError: Waiting for selector `body > div:nth-child(9) > div > div.ant-modal-wrap > div > div.ant-modal-content > div.ant-modal-footer > div > label` failed: Waiting failed: 100000ms exceeded
+                            at Timeout.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\WaitTask.ts:79:11)
+                            at listOnTimeout (node:internal/timers:564:17)
+                            at process.processTimers (node:internal/timers:507:7)
+[38;5;8m2023-01-18 17:50:47[0m [W] [38;5;78;1mapp[0m TimeoutError: Waiting for selector `#app > div.notice-mask > div > div.bottom > div > div:nth-child(2) > label` failed: Waiting failed: 100000ms exceeded
+                            at Timeout.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\WaitTask.ts:79:11)
+                            at listOnTimeout (node:internal/timers:564:17)
+                            at process.processTimers (node:internal/timers:507:7)
+[38;5;8m2023-01-18 17:59:05[0m [W] [38;5;78;1mapp[0m SyntaxError: Unexpected end of JSON input
+                            at JSON.parse (<anonymous>)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\lessons.tsx:89:37)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[38;5;8m2023-01-18 18:11:16[0m [W] [38;5;78;1mapp[0m TimeoutError: Waiting for selector `#app > div.notice-mask > div > div.bottom > div > div:nth-child(2) > label` failed: Waiting failed: 100000ms exceeded
+                            at Timeout.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\WaitTask.ts:79:11)
+                            at listOnTimeout (node:internal/timers:564:17)
+                            at process.processTimers (node:internal/timers:507:7)
+[38;5;8m2023-01-18 18:16:14[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-18 18:30:54[0m [W] [38;5;78;1mapp[0m TimeoutError: Waiting for selector `#app > div.notice-mask > div > div.bottom > div > div:nth-child(2) > label` failed: Waiting failed: 100000ms exceeded
+                            at Timeout.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\WaitTask.ts:79:11)
+                            at listOnTimeout (node:internal/timers:564:17)
+                            at process.processTimers (node:internal/timers:507:7)
+[38;5;8m2023-01-18 20:20:41[0m [W] [38;5;78;1mapp[0m TimeoutError: Waiting for selector `#app > div.notice-mask > div > div.bottom > div > div:nth-child(2) > label` failed: Waiting failed: 100000ms exceeded
+                            at Timeout.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\WaitTask.ts:79:11)
+                            at listOnTimeout (node:internal/timers:564:17)
+                            at process.processTimers (node:internal/timers:507:7)
+[38;5;8m2023-01-18 20:20:41[0m [W] [38;5;78;1mapp[0m TimeoutError: Waiting for selector `body > div:nth-child(9) > div > div.ant-modal-wrap > div > div.ant-modal-content > div.ant-modal-footer > div > label` failed: Waiting failed: 100000ms exceeded
+                            at Timeout.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\WaitTask.ts:79:11)
+                            at listOnTimeout (node:internal/timers:564:17)
+                            at process.processTimers (node:internal/timers:507:7)
+[38;5;8m2023-01-18 20:42:19[0m [W] [38;5;78;1mapp[0m TimeoutError: Waiting for selector `#app > section > div > div > div > div.content > div.contents.common-content-container > div:nth-child(2) > div > div > div > ul > li:nth-child(1) > div:nth-child(2) > button:nth-child(2)` failed: Waiting failed: 100000ms exceeded
+                            at Timeout.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\WaitTask.ts:79:11)
+                            at listOnTimeout (node:internal/timers:564:17)
+                            at process.processTimers (node:internal/timers:507:7)
+[38;5;8m2023-01-18 20:58:51[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-18 20:58:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-18 20:58:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-18 20:58:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-18 20:58:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-18 20:58:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-18 20:58:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-18 20:58:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-18 20:58:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-18 20:58:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-18 20:58:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcheck-idcard:fksc5t[0m
+[38;5;8m2023-01-18 20:58:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-18 20:58:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-on-history:ihtmox[0m
+[38;5;8m2023-01-18 20:58:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwhois:xdpeyc[0m
+[38;5;8m2023-01-18 20:58:54[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "today-on-history"
+[38;5;8m2023-01-18 20:58:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m4k-background:6yy88k[0m
+[38;5;8m2023-01-18 20:58:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrandom-wallpaper:knhxwd[0m
+[38;5;8m2023-01-18 20:58:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:lb3l3j[0m
+[38;5;8m2023-01-18 20:58:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpetpet-plus:fxt9bi[0m
+[38;5;8m2023-01-18 20:58:54[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-good-evening-and-morning"
+[38;5;8m2023-01-18 20:58:54[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-18 20:58:54[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-18 20:58:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-good-evening-and-morning:o6v5ry[0m
+[38;5;8m2023-01-18 20:58:55[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-18 20:58:55[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-18 20:58:55[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-18 20:58:55[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 20:58:55[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 20:58:55[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-18 21:01:14[0m [W] [38;5;78;1mapp[0m TimeoutError: Waiting for selector `body > div:nth-child(9) > div > div.ant-modal-wrap > div > div.ant-modal-content > div.ant-modal-footer > div > label` failed: Waiting failed: 100000ms exceeded
+                            at Timeout.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\WaitTask.ts:79:11)
+                            at listOnTimeout (node:internal/timers:564:17)
+                            at process.processTimers (node:internal/timers:507:7)
+[38;5;8m2023-01-18 21:14:32[0m [W] [38;5;78;1mapp[0m SyntaxError: Unexpected end of JSON input
+                            at JSON.parse (<anonymous>)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\lessons.tsx:89:37)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[38;5;8m2023-01-18 21:19:19[0m [W] [38;5;78;1mapp[0m Error: Node is either not clickable or not an HTMLElement
+                            at ElementHandle.clickablePoint (D:\Project\koishinew\node_modules\puppeteer-core\src\common\ElementHandle.ts:557:13)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at ElementHandle.click (D:\Project\koishinew\node_modules\puppeteer-core\src\common\ElementHandle.ts:668:20)
+                            at IsolatedWorld.click (D:\Project\koishinew\node_modules\puppeteer-core\src\common\IsolatedWorld.ts:328:5)
+                            at waitClick (d:\Project\koishinew\plugins\jiutian-toolkit\src\lessons.tsx:16:13)
+                            at Timeout._onTimeout (d:\Project\koishinew\plugins\jiutian-toolkit\src\lessons.tsx:105:13)
+[38;5;8m2023-01-18 21:20:59[0m [W] [38;5;78;1mapp[0m TimeoutError: Waiting for selector `#app > div.notice-mask > div > div.bottom > div > div:nth-child(2) > label` failed: Waiting failed: 100000ms exceeded
+                            at Timeout.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\WaitTask.ts:79:11)
+                            at listOnTimeout (node:internal/timers:564:17)
+                            at process.processTimers (node:internal/timers:507:7)
+[38;5;8m2023-01-18 21:39:33[0m [W] [38;5;78;1mapp[0m Error: No element found for selector: #kc-form-login > div:nth-child(1) > ul > li:nth-child(2) > a
+                            at assert (D:\Project\koishinew\node_modules\puppeteer-core\src\util\assert.ts:29:11)
+                            at IsolatedWorld.click (D:\Project\koishinew\node_modules\puppeteer-core\src\common\IsolatedWorld.ts:327:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\lessons.tsx:96:9)

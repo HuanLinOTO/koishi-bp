@@ -1,0 +1,1108 @@
+[38;5;8m2023-01-15 00:01:37[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:01:49[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:01:58[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:02:08[0m [W] [38;5;78;1mapp[0m TimeoutError: Navigation timeout of 30000 ms exceeded
+                            at LifecycleWatcher._LifecycleWatcher_createTimeoutPromise (D:\Project\koishinew\node_modules\puppeteer-core\src\common\LifecycleWatcher.ts:257:12)
+                            at Frame.goto (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Frame.ts:309:17)
+                            at CDPPage.goto (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Page.ts:898:12)
+                            at Object.apply (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:17:3)
+[38;5;8m2023-01-15 00:02:20[0m [W] [38;5;78;1mapp[0m TimeoutError: Navigation timeout of 30000 ms exceeded
+                            at LifecycleWatcher._LifecycleWatcher_createTimeoutPromise (D:\Project\koishinew\node_modules\puppeteer-core\src\common\LifecycleWatcher.ts:257:12)
+                            at Frame.goto (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Frame.ts:309:17)
+                            at CDPPage.goto (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Page.ts:898:12)
+                            at Object.apply (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:17:3)
+[38;5;8m2023-01-15 00:02:20[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:02:27[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:02:45[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:03:06[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:03:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:03:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:05:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:10:07[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:10:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:10:53[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:20:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:20:57[0m [W] [38;5;78;1mapp[0m TypeError: Cannot read properties of null (reading '0')
+                            at Object.apply (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:31:210)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[38;5;8m2023-01-15 00:21:17[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:21:52[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:22:14[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:22:17[0m [W] [38;5;78;1mapp[0m Error: No element found for selector: #app > div.notice-mask > div > div.bottom > div > div:nth-child(2) > button
+                            at assert (D:\Project\koishinew\node_modules\puppeteer-core\src\util\assert.ts:29:11)
+                            at IsolatedWorld.click (D:\Project\koishinew\node_modules\puppeteer-core\src\common\IsolatedWorld.ts:327:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at Object.apply (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:31:3)
+[38;5;8m2023-01-15 00:24:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:24:06[0m [W] [38;5;78;1mapp[0m Error: No element found for selector: #app > div.notice-mask > div > div.bottom > div > div:nth-child(2) > button
+                            at assert (D:\Project\koishinew\node_modules\puppeteer-core\src\util\assert.ts:29:11)
+                            at IsolatedWorld.click (D:\Project\koishinew\node_modules\puppeteer-core\src\common\IsolatedWorld.ts:327:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at Object.apply (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:32:3)
+[38;5;8m2023-01-15 00:24:22[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:24:25[0m [W] [38;5;78;1mapp[0m Error: No element found for selector: #app > div.notice-mask > div > div.bottom > div > div:nth-child(2) > button
+                            at assert (D:\Project\koishinew\node_modules\puppeteer-core\src\util\assert.ts:29:11)
+                            at IsolatedWorld.click (D:\Project\koishinew\node_modules\puppeteer-core\src\common\IsolatedWorld.ts:327:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at Object.apply (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:33:3)
+[38;5;8m2023-01-15 00:25:43[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:26:03[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:29:33[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:29:35[0m [W] [38;5;78;1mapp[0m ReferenceError: tbody_selector is not defined
+                            at Object.apply (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:38:30)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[38;5;8m2023-01-15 00:29:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:30:14[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:31:03[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 00:33:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 00:33:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 00:33:14[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 00:33:14[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 00:33:15[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 00:33:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 00:33:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 00:33:15[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 00:33:15[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:33:15[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:33:15[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:33:21[0m [W] [38;5;78;1mapp[0m Error: No element found for selector: #username
+                            at assert (D:\Project\koishinew\node_modules\puppeteer-core\src\util\assert.ts:29:11)
+                            at IsolatedWorld.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\IsolatedWorld.ts:367:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at Object.apply (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:35:3)
+                            at async Promise.all (index 0)
+                            at Lifecycle.flush (D:\Project\koishinew\node_modules\cordis\src\events.ts:75:7)
+                            at Lifecycle.start (D:\Project\koishinew\node_modules\cordis\src\events.ts:170:5)
+                            at start (D:\Project\koishinew\node_modules\koishi\src\worker\index.ts:79:3)
+[38;5;8m2023-01-15 00:34:24[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:35:41[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:36:07[0m [W] [38;5;78;1mapp[0m ProtocolError: Could not load body for this request. This might happen if the request is a preflight request.
+                            at <anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:215:19)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at HTTPResponse.text (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:231:21)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:31:14)
+[38;5;8m2023-01-15 00:39:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:39:43[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:39:54[0m [W] [38;5;78;1mapp[0m ProtocolError: Could not load body for this request. This might happen if the request is a preflight request.
+                            at <anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:215:19)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at HTTPResponse.text (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:231:21)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:32:42)
+[38;5;8m2023-01-15 00:40:18[0m [W] [38;5;78;1mapp[0m ProtocolError: Could not load body for this request. This might happen if the request is a preflight request.
+                            at <anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:215:19)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at HTTPResponse.text (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:231:21)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:32:18)
+[38;5;8m2023-01-15 00:40:33[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:40:36[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 00:40:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 00:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 00:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 00:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 00:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 00:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 00:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 00:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 00:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 00:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 00:40:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 00:40:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 00:40:42[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-15 00:40:42[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 00:40:42[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 00:40:42[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 00:40:43[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:40:43[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:40:43[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:40:54[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:41:44[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:42:34[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:43:24[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:43:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 00:44:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 00:44:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 00:44:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 00:44:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 00:44:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 00:44:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 00:44:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 00:44:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 00:44:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 00:44:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 00:44:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 00:44:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 00:44:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 00:44:57[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 00:44:57[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-15 00:44:57[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 00:44:57[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 00:44:57[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:44:57[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:44:57[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:45:08[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:45:23[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:45:27[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:45:43[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:45:46[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:45:58[0m [W] [38;5;78;1mapp[0m ProtocolError: Could not load body for this request. This might happen if the request is a preflight request.
+                            at <anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:215:19)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at HTTPResponse.text (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:231:21)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:32:48)
+[38;5;8m2023-01-15 00:45:59[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:46:17[0m [W] [38;5;78;1mapp[0m ProtocolError: Could not load body for this request. This might happen if the request is a preflight request.
+                            at <anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:215:19)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at HTTPResponse.text (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:231:21)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:32:48)
+[38;5;8m2023-01-15 00:46:18[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:46:36[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:46:49[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:47:08[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:47:26[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 00:47:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 00:47:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 00:47:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 00:47:39[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 00:47:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 00:47:39[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-15 00:47:39[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 00:47:39[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 00:47:39[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:47:39[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:47:39[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:47:51[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:48:01[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:48:04[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:48:41[0m [W] [38;5;78;1mapp[0m ProtocolError: Could not load body for this request. This might happen if the request is a preflight request.
+                            at <anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:215:19)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at HTTPResponse.text (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:231:21)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:32:48)
+[38;5;8m2023-01-15 00:48:41[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:48:54[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:49:15[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:49:18[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:49:31[0m [W] [38;5;78;1mapp[0m ProtocolError: Could not load body for this request. This might happen if the request is a preflight request.
+                            at <anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:215:19)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at HTTPResponse.text (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:231:21)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:32:48)
+[38;5;8m2023-01-15 00:49:32[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:49:44[0m [W] [38;5;78;1mapp[0m ProtocolError: Could not load body for this request. This might happen if the request is a preflight request.
+                            at <anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:215:19)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at HTTPResponse.text (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:231:21)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\index.ts:32:48)
+[38;5;8m2023-01-15 00:49:45[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:50:08[0m [W] [38;5;78;1mapp[0m Error: unable to verify the first certificate
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:513:28)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-15 00:50:09[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:50:12[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 00:50:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 00:50:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 00:50:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 00:50:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 00:50:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 00:50:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 00:50:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 00:50:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 00:50:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 00:50:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 00:50:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 00:50:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 00:50:14[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 00:50:14[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-15 00:50:14[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 00:50:15[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 00:50:15[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:50:15[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:50:15[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:50:43[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:51:12[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:51:15[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:51:18[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:51:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:51:37[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 00:52:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 00:52:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 00:52:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 00:52:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 00:52:29[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 00:52:29[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-15 00:52:29[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 00:52:30[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 00:52:30[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:52:30[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 00:52:30[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 15:46:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 15:46:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 15:46:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 15:46:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 15:46:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 15:46:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 15:46:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 15:46:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 15:46:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 15:46:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 15:46:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 15:46:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 15:46:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 15:46:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 15:46:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 15:46:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 15:46:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 15:46:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 15:46:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 15:46:59[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-15 15:46:59[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 15:47:00[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 15:47:00[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 15:47:00[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 15:47:00[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 15:47:00[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 16:04:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 16:04:04[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 16:04:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 16:04:04[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 16:04:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 16:04:05[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 16:04:05[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-15 16:04:04[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 16:04:05[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 16:04:05[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 16:04:05[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 16:04:05[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 16:04:05[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 16:04:46[0m [W] [38;5;78;1mapp[0m TypeError: text is not iterable
+                            at Keyboard.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Input.ts:281:24)
+                            at ElementHandle.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\ElementHandle.ts:912:31)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at IsolatedWorld.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\IsolatedWorld.ts:368:5)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\getInstanceList.ts:25:9)
+[38;5;8m2023-01-15 16:06:49[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:26:18[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:26:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:26:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:26:45[0m [W] [38;5;78;1mapp[0m TypeError: text is not iterable
+                            at Keyboard.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Input.ts:281:24)
+                            at ElementHandle.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\ElementHandle.ts:912:31)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at IsolatedWorld.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\IsolatedWorld.ts:368:5)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\getInstanceList.ts:27:9)
+[38;5;8m2023-01-15 16:26:49[0m [W] [38;5;78;1mapp[0m TypeError: text is not iterable
+                            at Keyboard.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Input.ts:281:24)
+                            at ElementHandle.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\ElementHandle.ts:912:31)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at IsolatedWorld.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\IsolatedWorld.ts:368:5)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\getInstanceList.ts:27:9)
+[38;5;8m2023-01-15 16:26:50[0m [W] [38;5;78;1mapp[0m TypeError: text is not iterable
+                            at Keyboard.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Input.ts:281:24)
+                            at ElementHandle.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\ElementHandle.ts:912:31)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at IsolatedWorld.type (D:\Project\koishinew\node_modules\puppeteer-core\src\common\IsolatedWorld.ts:368:5)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\getInstanceList.ts:27:9)
+[38;5;8m2023-01-15 16:27:07[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:27:16[0m [W] [38;5;78;1mapp[0m ProtocolError: Protocol error (Network.getResponseBody): Target closed.
+                            at <anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:400:16)
+                            at new Promise (<anonymous>)
+                            at CDPSessionImpl.send (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:396:12)
+                            at <anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:203:47)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at HTTPResponse.text (D:\Project\koishinew\node_modules\puppeteer-core\src\common\HTTPResponse.ts:231:21)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\getInstanceList.ts:19:36)
+[38;5;8m2023-01-15 16:27:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 16:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 16:28:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 16:28:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 16:28:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 16:28:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 16:28:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 16:28:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 16:28:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 16:28:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 16:28:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 16:28:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 16:28:43[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 16:28:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 16:28:43[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 16:28:43[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 16:28:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 16:28:44[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-15 16:28:43[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 16:28:44[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 16:28:45[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 16:28:45[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 16:28:45[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 16:28:45[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 16:28:45[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 16:31:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:34:10[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:34:38[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m44[39m, file: [32m'D:\\Project\\koishinew\\plugins\\jiutian-toolkit\\src\\getInstanceList.ts'[39m, length: [33m1[39m, line: [33m20[39m, lineText: [32m'                resolve(instanceList.data() {'[39m, namespace: [32m''[39m, suggestion: [32m')'[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Expected ")" but found "{"'[39m }
+[38;5;8m2023-01-15 16:34:41[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:38:51[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:39:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:44:23[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:44:48[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 16:44:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 16:44:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 16:44:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 16:44:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 16:44:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 16:44:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 16:44:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 16:44:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 16:44:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 16:44:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 16:44:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 16:44:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 16:44:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 16:44:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 16:44:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 16:44:51[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 16:44:51[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-15 16:44:51[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 16:44:52[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 16:44:52[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 16:44:52[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 16:44:52[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 16:52:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:53:49[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 16:53:56[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:01:53[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m13[39m, file: [32m'D:\\Project\\koishinew\\plugins\\jiutian-toolkit\\src\\index.ts'[39m, length: [33m3[39m, line: [33m23[39m, lineText: [32m'export async fun'[39m, namespace: [32m''[39m, suggestion: [32m'function'[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Expected "function" but found "fun"'[39m }
+[38;5;8m2023-01-15 17:01:55[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m4[39m, file: [32m'D:\\Project\\koishinew\\plugins\\jiutian-toolkit\\src\\index.ts'[39m, length: [33m1[39m, line: [33m36[39m, lineText: [32m'    }'[39m, namespace: [32m''[39m, suggestion: [32m''[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Unexpected "}"'[39m }
+[38;5;8m2023-01-15 17:01:56[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m4[39m, file: [32m'D:\\Project\\koishinew\\plugins\\jiutian-toolkit\\src\\index.ts'[39m, length: [33m1[39m, line: [33m37[39m, lineText: [32m'    }'[39m, namespace: [32m''[39m, suggestion: [32m''[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Unexpected "}"'[39m }
+[38;5;8m2023-01-15 17:16:39[0m [W] [38;5;78;1mapp[0m Error: net::ERR_ABORTED at https://jiutian.10086.cn/edu/keycloak/web/user/logout
+                            at navigate (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Frame.ts:345:13)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at Frame.goto (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Frame.ts:309:17)
+                            at CDPPage.goto (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Page.ts:898:12)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\getInstanceList.ts:24:9)
+[38;5;8m2023-01-15 17:27:23[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m4[39m, file: [32m'D:\\Project\\koishinew\\plugins\\jiutian-toolkit\\src\\index.ts'[39m, length: [33m1[39m, line: [33m37[39m, lineText: [32m'    }'[39m, namespace: [32m''[39m, suggestion: [32m''[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Unexpected "}"'[39m }
+[38;5;8m2023-01-15 17:27:27[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m4[39m, file: [32m'D:\\Project\\koishinew\\plugins\\jiutian-toolkit\\src\\index.ts'[39m, length: [33m1[39m, line: [33m37[39m, lineText: [32m'    }'[39m, namespace: [32m''[39m, suggestion: [32m''[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Unexpected "}"'[39m }
+[38;5;8m2023-01-15 17:27:34[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:28:45[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:28:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:28:57[0m [W] [38;5;78;1mapp[0m TimeoutError: Navigation timeout of 30000 ms exceeded
+                            at LifecycleWatcher._LifecycleWatcher_createTimeoutPromise (D:\Project\koishinew\node_modules\puppeteer-core\src\common\LifecycleWatcher.ts:257:12)
+                            at Frame.waitForNavigation (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Frame.ts:395:19)
+                            at CDPPage.waitForNavigation (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Page.ts:915:12)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\getInstanceList.ts:39:9)
+[38;5;8m2023-01-15 17:28:57[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:28:58[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:31:20[0m [W] [38;5;215;1mcommand[0m jt.login 18926263846 Adws123
+                        Error: 账号或密码有误，请重新输入
+                            at coerce (D:\Project\koishinew\node_modules\@koishijs\utils\src\misc.ts:35:72)
+                            at _Command.execute (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:305:21)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:383:22)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-15 17:31:20[0m [W] [38;5;78;1mapp[0m Error: Navigation failed because browser has disconnected!
+                            at LifecycleWatcher (D:\Project\koishinew\node_modules\puppeteer-core\src\common\LifecycleWatcher.ts:133:11)
+                            at Frame.waitForNavigation (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Frame.ts:389:21)
+                            at CDPPage.waitForNavigation (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Page.ts:915:49)
+                            at <anonymous> (d:\Project\koishinew\plugins\jiutian-toolkit\src\getInstanceList.ts:39:20)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[38;5;8m2023-01-15 17:31:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:31:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:31:58[0m [W] [38;5;78;1mapp[0m Error: Response body is unavailable for redirect responses
+                            at NetworkManager._NetworkManager_handleRequestRedirect (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:463:7)
+                            at NetworkManager._NetworkManager_onRequest (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:414:36)
+                            at NetworkManager._NetworkManager_onRequestPaused (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:366:22)
+                            at D:\Project\koishinew\node_modules\puppeteer-core\lib\cjs\third_party\mitt\index.js:3:248
+                            at Array.map (<anonymous>)
+                            at Object.emit (D:\Project\koishinew\node_modules\puppeteer-core\lib\cjs\third_party\mitt\index.js:3:232)
+                            at CDPSessionImpl.emit (D:\Project\koishinew\node_modules\puppeteer-core\src\common\EventEmitter.ts:118:18)
+                            at CDPSessionImpl._onMessage (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:422:12)
+                            at Connection.onMessage (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:176:17)
+                            at WebSocket.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NodeWebSocketTransport.ts:54:24)
+[38;5;8m2023-01-15 17:32:30[0m [W] [38;5;215;1mcommand[0m jt.login 18926263846 Adws123
+                        Error: 账号或密码有误，请重新输入
+                            at coerce (D:\Project\koishinew\node_modules\@koishijs\utils\src\misc.ts:35:72)
+                            at _Command.execute (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:305:21)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:383:22)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-15 17:32:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:32:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:33:56[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:34:27[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m20[39m, file: [32m'D:\\Project\\koishinew\\plugins\\jiutian-toolkit\\src\\index.ts'[39m, length: [33m2[39m, line: [33m32[39m, lineText: [32m"    var results = []''"[39m, namespace: [32m''[39m, suggestion: [32m';'[39m }, notes: [], pluginName: [32m''[39m, text: [32m`Expected ";" but found "''"`[39m }
+[38;5;8m2023-01-15 17:34:28[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.ts[0m
+[38;5;8m2023-01-15 17:42:46[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 17:42:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 17:42:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 17:42:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 17:42:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 17:42:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 17:42:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 17:42:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 17:42:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 17:42:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 17:42:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 17:42:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 17:42:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 17:42:50[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-15 17:42:49[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 17:42:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 17:42:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 17:42:50[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 17:42:50[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 17:42:50[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 17:42:50[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 17:42:50[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 17:45:26[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 17:45:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 17:46:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 17:48:21[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 17:48:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 17:49:01[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 17:52:25[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 17:52:37[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:02:14[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 18:02:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 18:02:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 18:02:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 18:02:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 18:02:18[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 18:02:18[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5141[0m
+[38;5;8m2023-01-15 18:02:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 18:02:19[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 18:02:19[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 18:02:19[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:02:19[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:02:19[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:02:27[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 18:02:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 18:02:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 18:02:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 18:02:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 18:02:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 18:02:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 18:02:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 18:02:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 18:02:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 18:02:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 18:02:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 18:02:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 18:02:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 18:02:29[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 18:02:30[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 18:02:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 18:02:31[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 18:02:31[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://:::5141[0m
+[38;5;8m2023-01-15 18:02:31[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 18:02:32[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:02:32[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:02:32[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:02:32[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 18:05:47[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 18:05:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 18:05:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 18:05:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 18:05:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 18:05:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 18:05:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 18:05:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 18:05:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 18:05:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 18:05:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 18:05:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 18:05:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 18:05:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 18:05:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 18:05:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 18:05:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 18:05:51[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-15 18:05:51[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 18:05:51[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 18:05:52[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:05:52[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:05:52[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:05:52[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 18:06:27[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:06:48[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:07:17[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:11:39[0m [W] [38;5;78;1mapp[0m Error: Response body is unavailable for redirect responses
+                            at NetworkManager._NetworkManager_handleRequestRedirect (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:463:7)
+                            at NetworkManager._NetworkManager_onRequest (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:414:36)
+                            at NetworkManager._NetworkManager_onRequestPaused (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:366:22)
+                            at D:\Project\koishinew\node_modules\puppeteer-core\lib\cjs\third_party\mitt\index.js:3:248
+                            at Array.map (<anonymous>)
+                            at Object.emit (D:\Project\koishinew\node_modules\puppeteer-core\lib\cjs\third_party\mitt\index.js:3:232)
+                            at CDPSessionImpl.emit (D:\Project\koishinew\node_modules\puppeteer-core\src\common\EventEmitter.ts:118:18)
+                            at CDPSessionImpl._onMessage (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:422:12)
+                            at Connection.onMessage (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:176:17)
+                            at WebSocket.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NodeWebSocketTransport.ts:54:24)
+[38;5;8m2023-01-15 18:12:15[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:12:28[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:12:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:12:51[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:13:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-15 18:13:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-15 18:13:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-15 18:13:14[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-15 18:13:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-15 18:13:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-15 18:13:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-15 18:13:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-15 18:13:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-15 18:13:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-15 18:13:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-15 18:13:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-15 18:13:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-15 18:13:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-15 18:13:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-15 18:13:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-15 18:13:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-15 18:13:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-15 18:13:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-15 18:13:17[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-15 18:13:17[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-15 18:13:17[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-15 18:13:18[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-15 18:13:18[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:13:18[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:13:18[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-15 18:13:28[0m [W] [38;5;78;1mapp[0m Error: Response body is unavailable for redirect responses
+                            at NetworkManager._NetworkManager_handleRequestRedirect (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:463:7)
+                            at NetworkManager._NetworkManager_onRequest (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:414:36)
+                            at NetworkManager._NetworkManager_onRequestPaused (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:366:22)
+                            at D:\Project\koishinew\node_modules\puppeteer-core\lib\cjs\third_party\mitt\index.js:3:248
+                            at Array.map (<anonymous>)
+                            at Object.emit (D:\Project\koishinew\node_modules\puppeteer-core\lib\cjs\third_party\mitt\index.js:3:232)
+                            at CDPSessionImpl.emit (D:\Project\koishinew\node_modules\puppeteer-core\src\common\EventEmitter.ts:118:18)
+                            at CDPSessionImpl._onMessage (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:422:12)
+                            at Connection.onMessage (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:176:17)
+                            at WebSocket.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NodeWebSocketTransport.ts:54:24)
+[38;5;8m2023-01-15 18:14:09[0m [W] [38;5;78;1mapp[0m Error: Response body is unavailable for redirect responses
+                            at NetworkManager._NetworkManager_handleRequestRedirect (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:463:7)
+                            at NetworkManager._NetworkManager_onRequest (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:414:36)
+                            at NetworkManager._NetworkManager_onRequestPaused (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:366:22)
+                            at D:\Project\koishinew\node_modules\puppeteer-core\lib\cjs\third_party\mitt\index.js:3:248
+                            at Array.map (<anonymous>)
+                            at Object.emit (D:\Project\koishinew\node_modules\puppeteer-core\lib\cjs\third_party\mitt\index.js:3:232)
+                            at CDPSessionImpl.emit (D:\Project\koishinew\node_modules\puppeteer-core\src\common\EventEmitter.ts:118:18)
+                            at CDPSessionImpl._onMessage (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:422:12)
+                            at Connection.onMessage (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:176:17)
+                            at WebSocket.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NodeWebSocketTransport.ts:54:24)
+[38;5;8m2023-01-15 18:23:14[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:25:31[0m [W] [38;5;78;1mapp[0m Error: Response body is unavailable for redirect responses
+                            at NetworkManager._NetworkManager_handleRequestRedirect (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:463:7)
+                            at NetworkManager._NetworkManager_onRequest (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:414:36)
+                            at NetworkManager._NetworkManager_onRequestPaused (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NetworkManager.ts:366:22)
+                            at D:\Project\koishinew\node_modules\puppeteer-core\lib\cjs\third_party\mitt\index.js:3:248
+                            at Array.map (<anonymous>)
+                            at Object.emit (D:\Project\koishinew\node_modules\puppeteer-core\lib\cjs\third_party\mitt\index.js:3:232)
+                            at CDPSessionImpl.emit (D:\Project\koishinew\node_modules\puppeteer-core\src\common\EventEmitter.ts:118:18)
+                            at CDPSessionImpl._onMessage (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:422:12)
+                            at Connection.onMessage (D:\Project\koishinew\node_modules\puppeteer-core\src\common\Connection.ts:176:17)
+                            at WebSocket.<anonymous> (D:\Project\koishinew\node_modules\puppeteer-core\src\common\NodeWebSocketTransport.ts:54:24)
+[38;5;8m2023-01-15 18:33:19[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:35:28[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:51:31[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:51:31[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mjiutian-toolkit[0m
+[38;5;8m2023-01-15 18:53:18[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m
+[38;5;8m2023-01-15 18:55:59[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\jiutian-toolkit\src\index.tsx[0m

@@ -1,0 +1,380 @@
+[38;5;8m2023-01-13 00:02:30[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.ts[0m
+[38;5;8m2023-01-13 00:09:27[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-13 00:09:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-13 00:09:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-13 00:09:27[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-13 00:09:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-13 00:09:29[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-13 00:09:29[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-13 00:09:29[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-13 00:09:45[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:09:57[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:10:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:10:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:10:58[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:11:11[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:12:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:12:22[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:13:09[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:14:41[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:16:07[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:17:03[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:17:05[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:18:34[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:19:18[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:19:37[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:19:47[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:21:17[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:23:10[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:23:27[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:24:05[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:24:31[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:26:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:29:22[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:29:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:29:55[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:30:43[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m2[39m, file: [32m'D:\\Project\\koishinew\\plugins\\huanlin-aipainter\\src\\index.tsx'[39m, length: [33m10[39m, line: [33m31[39m, lineText: [32m'  "Anything"'[39m, namespace: [32m''[39m, suggestion: [32m':'[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Expected ":" but found "\\"Anything\\""'[39m }
+[38;5;8m2023-01-13 00:30:50[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m15[39m, file: [32m'D:\\Project\\koishinew\\plugins\\huanlin-aipainter\\src\\index.tsx'[39m, length: [33m3[39m, line: [33m30[39m, lineText: [32m'  "PVCGK": 2095，'[39m, namespace: [32m''[39m, suggestion: [32m'}'[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Expected "}" but found "，"'[39m }
+[38;5;8m2023-01-13 00:30:55[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:31:17[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:31:50[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:32:20[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:41:43[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:48:57[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:50:47[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:51:01[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:51:12[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 00:52:33[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 01:04:57[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m14[39m, file: [32m'D:\\Project\\koishinew\\plugins\\huanlin-aipainter\\src\\index.tsx'[39m, length: [33m3[39m, line: [33m30[39m, lineText: [32m'  "wlop": 2095，'[39m, namespace: [32m''[39m, suggestion: [32m'}'[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Expected "}" but found "，"'[39m }
+[38;5;8m2023-01-13 01:04:58[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 01:15:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-13 01:15:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-13 01:15:17[0m [W] [38;5;215;1mcommand[0m #视频解析 https://v.douyin.com/kayw7Gs/
+                        TypeError: Cannot read properties of null (reading 'startsWith')
+                            at _Command.<anonymous> (d:\Project\koishinew\plugins\video-decoder\lib\index.js:28:21)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at Array.<anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:282:14)
+                            at _Command.execute (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:298:22)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:383:22)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-13 09:37:11[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-13 09:37:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-13 09:37:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-13 09:37:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-13 09:37:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-13 09:37:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-13 09:37:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-13 09:37:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-13 09:37:13[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-13 09:37:13[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-13 09:37:13[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-13 09:37:17[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 09:40:50[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 09:41:40[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m38[39m, file: [32m'D:\\Project\\koishinew\\plugins\\huanlin-aipainter\\src\\index.tsx'[39m, length: [33m2[39m, line: [33m94[39m, lineText: [32m"    const info = JSON.parse(data.info)''"[39m, namespace: [32m''[39m, suggestion: [32m';'[39m }, notes: [], pluginName: [32m''[39m, text: [32m`Expected ";" but found "''"`[39m }
+[38;5;8m2023-01-13 09:41:40[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 09:44:12[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 09:46:20[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m37[39m, file: [32m'D:\\Project\\koishinew\\plugins\\huanlin-aipainter\\src\\index.tsx'[39m, length: [33m1[39m, line: [33m101[39m, lineText: [32m'        <p>关键词相关性: {info.["CFG scale"]}</p>'[39m, namespace: [32m''[39m, suggestion: [32m''[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Expected identifier but found "["'[39m }
+[38;5;8m2023-01-13 09:46:23[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m37[39m, file: [32m'D:\\Project\\koishinew\\plugins\\huanlin-aipainter\\src\\index.tsx'[39m, length: [33m1[39m, line: [33m101[39m, lineText: [32m'        <p>关键词相关性: {info.["CFG scale"]}</p>'[39m, namespace: [32m''[39m, suggestion: [32m''[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Expected identifier but found "["'[39m }
+[38;5;8m2023-01-13 09:46:30[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 09:46:49[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 09:49:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 09:50:07[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 09:50:40[0m [W] [38;5;215;1mcommand[0m hlai.painter loli
+                        TypeError: Cannot read properties of undefined (reading '0')
+                            at _Command.<anonymous> (d:\Project\koishinew\plugins\huanlin-aipainter\src\index.tsx:105:51)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at Array.<anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:282:14)
+                            at _Command.execute (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:298:22)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:383:22)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-13 09:50:49[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 09:50:51[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 09:50:59[0m [W] [38;5;129;1msession[0m Error: Error with request send_private_forward_msg, args: {"user_id":"2045526244","messages":[{"type":"node","data":{"name":"starstringbot","uin":"1302399374","content":[{"type":"text","data":{"text":"关键词: "}},{"type":"text","data":{"text":"loli"}},{"type":"text","data":{"text":"\n"}},{"type":"text","data":{"text":"反向关键词: "}},{"type":"text","data":{"text":"\n"}},{"type":"text","data":{"text":"种子: "}},{"type":"text","data":{"text":"2889677490"}},{"type":"text","data":{"text":"\n"}},{"type":"text","data":{"text":"采样器: "}},{"type":"text","data":{"text":"\n"}},{"type":"text","data":{"text":"关键词相关性: "}},{"type":"text","data":{"text":"\n"}},{"type":"text","data":{"text":"使用模型: "}},{"type":"text","data":{"text":"Anything"}}]}},{"type":"node","data":{"name":"starstringbot","uin":"1302399374","content":[{"type":"image","data":{"file":"base64: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...
+[38;5;8m2023-01-13 09:51:36[0m [W] [38;5;215;1mcommand[0m hlai.painter -m wlop loli
+                        TypeError [ERR_INVALID_URL]: Invalid URL
+                            at __node_internal_captureLargerStackTrace (node:internal/errors:484:5)
+                            at new NodeError (node:internal/errors:393:5)
+                            at URL.onParseError (node:internal/url:565:9)
+                            at new URL (node:internal/url:645:5)
+                            at dispatchHttpRequest (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:169:20)
+                            at new Promise (<anonymous>)
+                            at httpAdapter (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:105:10)
+                            at Axios.dispatchRequest (D:\Project\koishinew\node_modules\axios\lib\core\dispatchRequest.js:46:10)
+                            at Axios.request (D:\Project\koishinew\node_modules\axios\lib\core\Axios.js:140:33)
+                            at wrap (D:\Project\koishinew\node_modules\axios\lib\helpers\bind.js:5:15)
+                            at request (D:\Project\koishinew\node_modules\cordis-axios\src\index.ts:131:14)
+                            at http.axios (D:\Project\koishinew\node_modules\cordis-axios\src\index.ts:155:16)
+                            at _Command.<anonymous> (d:\Project\koishinew\plugins\huanlin-aipainter\src\index.tsx:89:28)
+                            at Array.<anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:282:27)
+                            at Object.argv.next (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:294:14)
+                            at _Command.execute (D:\Project\koishinew\node_modules\@koishijs\core\src\command\command.ts:298:33)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:383:22)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:337:22)
+[38;5;8m2023-01-13 10:26:16[0m [W] [38;5;171;1monebot[0m Error: Error with request get_msg, args: {"message_id":"1428925811"}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:572:20)
+                            at OneBotBot.getMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\base.ts:21:18)
+                            at adaptMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:92:20)
+                            at adaptSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:154:5)
+                            at dispatchSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:141:19)
+[38;5;8m2023-01-13 11:03:16[0m [W] [38;5;171;1monebot[0m Error: Error with request get_msg, args: {"message_id":"355566887"}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:572:20)
+                            at OneBotBot.getMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\base.ts:21:18)
+                            at adaptMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:92:20)
+                            at adaptSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:154:5)
+                            at dispatchSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:141:19)
+[38;5;8m2023-01-13 12:41:15[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 12:41:21[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 12:42:07[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 12:42:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 12:43:07[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 12:43:31[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-13 12:43:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-13 12:43:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-13 12:43:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-13 12:43:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-13 12:43:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-13 12:43:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-13 12:43:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-13 12:43:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-13 12:43:33[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-13 12:43:33[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-13 12:43:33[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-13 12:43:54[0m [W] [38;5;178;1mmarket[0m Error: connect ETIMEDOUT 76.76.21.98:443
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:525:35)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-13 12:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-13 12:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-13 12:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-13 12:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-13 12:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-13 12:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-13 12:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-13 12:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-13 12:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-13 12:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-13 12:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-13 12:44:35[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-13 12:44:35[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-13 12:44:36[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-13 12:44:59[0m [W] [38;5;178;1mmarket[0m Error: connect ETIMEDOUT 76.76.21.98:443
+                            at Function.AxiosError.from (D:\Project\koishinew\node_modules\axios\lib\core\AxiosError.js:89:14)
+                            at RedirectableRequest.handleRequestError (D:\Project\koishinew\node_modules\axios\lib\adapters\http.js:516:25)
+                            at RedirectableRequest.emit (node:events:525:35)
+                            at eventHandlers.<computed> (D:\Project\koishinew\node_modules\follow-redirects\index.js:14:24)
+                            at ClientRequest.emit (node:events:513:28)
+                            at TLSSocket.socketErrorListener (node:_http_client:494:9)
+                            at TLSSocket.emit (node:events:513:28)
+                            at emitErrorNT (node:internal/streams/destroy:151:8)
+                            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[38;5;8m2023-01-13 12:54:04[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 12:55:57[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-13 12:55:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-13 12:55:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-13 12:55:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-13 12:55:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-13 12:55:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-13 12:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-13 12:55:59[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-13 12:55:59[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-13 12:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-13 12:55:59[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-13 12:58:50[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 12:58:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 12:59:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 12:59:36[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 12:59:45[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:22:25[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:28:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:36:53[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:37:36[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:38:17[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:39:32[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:39:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:39:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:40:43[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:40:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:40:52[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:42:56[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:43:15[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:44:40[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 14:48:11[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 15:02:31[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-13 15:02:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-13 15:02:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-13 15:02:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-13 15:02:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-13 15:02:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-13 15:02:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-13 15:02:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-13 15:02:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-13 15:02:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-aipainter:22aang[0m
+[38;5;8m2023-01-13 15:02:34[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-01-13 15:02:34[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-13 15:02:33[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-13 15:02:34[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-13 15:03:15[0m [W] [38;5;214;1madapter[0m failed to connect to ws://106.52.111.188:7110/onebot, code: 1006, will retry in 5s...
+[38;5;8m2023-01-13 15:03:22[0m [W] [38;5;214;1madapter[0m failed to connect to ws://106.52.111.188:7110/onebot, code: 1006, will retry in 5s...
+[38;5;8m2023-01-13 15:03:27[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/onebot[0m
+[38;5;8m2023-01-13 15:04:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-ocr:2f9u0e[0m
+[38;5;8m2023-01-13 15:05:10[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"798758520","messages":[{"type":"node","data":{"name":"starstringbot","uin":"1302399374","content":[{"type":"text","data":{"text":"关键词: "}},{"type":"text","data":{"text":"loli"}},{"type":"text","data":{"text":"\n"}},{"type":"text","data":{"text":"反向关键词: "}},{"type":"text","data":{"text":"\n"}},{"type":"text","data":{"text":"种子: "}},{"type":"text","data":{"text":"365557163"}},{"type":"text","data":{"text":"\n"}},{"type":"text","data":{"text":"采样器: "}},{"type":"text","data":{"text":"\n"}},{"type":"text","data":{"text":"关键词相关性: "}},{"type":"text","data":{"text":"\n"}},{"type":"text","data":{"text":"使用模型: "}},{"type":"text","data":{"text":"PVCGK"}}]}},{"type":"node","data":{"name":"starstringbot","uin":"1302399374","content":[{"type":"image","data":{"file":"base64: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...
+[38;5;8m2023-01-13 15:06:13[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-aipainter\src\index.tsx[0m
+[38;5;8m2023-01-13 18:09:48[0m [I] [38;5;178;1mmarket[0m [1/4] Resolving packages...
+[38;5;8m2023-01-13 18:09:49[0m [I] [38;5;178;1mmarket[0m [2/4] Fetching packages...
+[38;5;8m2023-01-13 18:09:52[0m [I] [38;5;178;1mmarket[0m [3/4] Linking dependencies...
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-adapter-discord > @satorijs/adapter-discord@3.4.2" has unmet peer dependency "@satorijs/satori@^2.0.1".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-adapter-onebot > @satorijs/adapter-onebot@5.5.4" has unmet peer dependency "@satorijs/satori@^2.0.1".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-adapter-kook > @satorijs/adapter-kook@3.5.2" has unmet peer dependency "@satorijs/satori@^2.0.1".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-adapter-feishu > @satorijs/adapter-feishu@1.1.1" has unmet peer dependency "@satorijs/satori@^2.0.1".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-adapter-telegram > @satorijs/adapter-telegram@3.6.4" has unmet peer dependency "@satorijs/satori@^2.0.1".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-database-sqlite > @minatojs/driver-sqlite@3.2.3" has unmet peer dependency "@minatojs/core@^2.1.1".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning "@koishijs/plugin-database-sqlite > @minatojs/driver-sqlite > @minatojs/sql-utils@3.0.0" has unmet peer dependency "@minatojs/core@^2.1.1".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-console-update-tips@1.0.0" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-ekwing-fucker@1.0.2" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-fill_shit@11.45.14" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-genshin-toolkit@1.0.0" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-aria2@1.0.5" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-huanlin-ocr@1.0.2" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-never-gonna-give-you-up@19.19.810" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-search-bing@1.0.2" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-13 18:09:52[0m [W] [38;5;178;1mmarket[0m warning " > koishi-plugin-plp@1.0.2" has incorrect peer dependency "koishi@4.11.0".
+[38;5;8m2023-01-13 18:10:00[0m [I] [38;5;178;1mmarket[0m [4/4] Building fresh packages...
+[38;5;8m2023-01-13 18:10:00[0m [I] [38;5;178;1mmarket[0m success Saved lockfile.
+[38;5;8m2023-01-13 18:10:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-13 18:10:15[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:10:15[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mblockly[0m
+[38;5;8m2023-01-13 18:10:15[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:10:15[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:10:45[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:16:06[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:16:58[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:17:36[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:17:36[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:17:37[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:17:37[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:18:08[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:18:08[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:18:09[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:20:11[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:23:31[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-13 18:23:42[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"798758520","message":[{"type":"image","data":{"file":"http://q2.qlogo.cn/headimg_dl?spec=100&dst_uin="}}]}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:583:20)
+                            at OneBotMessenger.flush (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:65:16)
+                            at OneBotMessenger.send (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:45:5)
+                            at Processor._handleMessage (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:338:19)
+[38;5;8m2023-01-13 18:24:06[0m [I] [38;5;214;1mblockly[0m Reloading....

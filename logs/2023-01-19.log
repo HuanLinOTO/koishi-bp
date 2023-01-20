@@ -1,0 +1,307 @@
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-19 00:16:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-19 00:16:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-19 00:16:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-19 00:16:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcheck-idcard:fksc5t[0m
+[38;5;8m2023-01-19 00:16:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwhois:xdpeyc[0m
+[38;5;8m2023-01-19 00:16:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-on-history:ihtmox[0m
+[38;5;8m2023-01-19 00:16:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m4k-background:6yy88k[0m
+[38;5;8m2023-01-19 00:16:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrandom-wallpaper:knhxwd[0m
+[38;5;8m2023-01-19 00:16:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:lb3l3j[0m
+[38;5;8m2023-01-19 00:16:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpetpet-plus:fxt9bi[0m
+[38;5;8m2023-01-19 00:16:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-good-evening-and-morning:o6v5ry[0m
+[38;5;8m2023-01-19 00:16:38[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-good-evening-and-morning"
+[38;5;8m2023-01-19 00:16:38[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-19 00:16:38[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-19 00:16:38[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "today-on-history"
+[38;5;8m2023-01-19 00:16:38[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-19 00:16:39[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-19 00:16:39[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:16:39[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:16:39[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:16:39[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-19 00:16:40[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-pack-my-message[0m
+[38;5;8m2023-01-19 00:16:40[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-qingyunke[0m
+[38;5;8m2023-01-19 00:16:40[0m [W] [38;5;178;1mmarket[0m TypeError: Cannot read properties of undefined (reading 'Schema')
+                            at Object.<anonymous> (d:\Project\koishinew\plugins\pack-my-message\src\index.ts:3:30)
+                            at Module._compile (node:internal/modules/cjs/loader:1159:14)
+                            at Module._compile (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:2258:26)
+                            at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+                            at Object.newLoader [as .ts] (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:2262:9)
+                            at Module.load (node:internal/modules/cjs/loader:1037:32)
+                            at Module._load (node:internal/modules/cjs/loader:878:12)
+                            at Module.require (node:internal/modules/cjs/loader:1061:19)
+                            at require (node:internal/modules/cjs/helpers:103:18)
+                            at getExports (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:17:5)
+[38;5;8m2023-01-19 00:16:40[0m [W] [38;5;178;1mmarket[0m TypeError: Cannot read properties of undefined (reading 'Schema')
+                            at Object.<anonymous> (d:\Project\koishinew\plugins\qingyunke\src\index.ts:3:30)
+                            at Module._compile (node:internal/modules/cjs/loader:1159:14)
+                            at Module._compile (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:2258:26)
+                            at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+                            at Object.newLoader [as .ts] (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:2262:9)
+                            at Module.load (node:internal/modules/cjs/loader:1037:32)
+                            at Module._load (node:internal/modules/cjs/loader:878:12)
+                            at Module.require (node:internal/modules/cjs/loader:1061:19)
+                            at require (node:internal/modules/cjs/helpers:103:18)
+                            at getExports (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:17:5)
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-19 00:25:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-19 00:25:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-19 00:25:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-19 00:25:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-19 00:25:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-19 00:25:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-19 00:25:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-19 00:25:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-19 00:25:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcheck-idcard:fksc5t[0m
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwhois:xdpeyc[0m
+[38;5;8m2023-01-19 00:25:53[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "today-on-history"
+[38;5;8m2023-01-19 00:25:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrandom-wallpaper:knhxwd[0m
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-good-evening-and-morning:o6v5ry[0m
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m4k-background:6yy88k[0m
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:lb3l3j[0m
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-on-history:ihtmox[0m
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpetpet-plus:fxt9bi[0m
+[38;5;8m2023-01-19 00:25:53[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-good-evening-and-morning"
+[38;5;8m2023-01-19 00:25:53[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:25:53[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-19 00:25:56[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-pack-my-message[0m
+[38;5;8m2023-01-19 00:25:56[0m [W] [38;5;178;1mmarket[0m TypeError: Cannot read properties of undefined (reading 'Schema')
+                            at Object.<anonymous> (d:\Project\koishinew\plugins\pack-my-message\src\index.ts:3:30)
+                            at Module._compile (node:internal/modules/cjs/loader:1159:14)
+                            at Module._compile (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:2258:26)
+                            at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+                            at Object.newLoader [as .ts] (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:2262:9)
+                            at Module.load (node:internal/modules/cjs/loader:1037:32)
+                            at Module._load (node:internal/modules/cjs/loader:878:12)
+                            at Module.require (node:internal/modules/cjs/loader:1061:19)
+                            at require (node:internal/modules/cjs/helpers:103:18)
+                            at getExports (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:17:5)
+[38;5;8m2023-01-19 00:25:56[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-qingyunke[0m
+[38;5;8m2023-01-19 00:25:56[0m [W] [38;5;178;1mmarket[0m TypeError: Cannot read properties of undefined (reading 'Schema')
+                            at Object.<anonymous> (d:\Project\koishinew\plugins\qingyunke\src\index.ts:3:30)
+                            at Module._compile (node:internal/modules/cjs/loader:1159:14)
+                            at Module._compile (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:2258:26)
+                            at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+                            at Object.newLoader [as .ts] (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:2262:9)
+                            at Module.load (node:internal/modules/cjs/loader:1037:32)
+                            at Module._load (node:internal/modules/cjs/loader:878:12)
+                            at Module.require (node:internal/modules/cjs/loader:1061:19)
+                            at require (node:internal/modules/cjs/helpers:103:18)
+                            at getExports (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:17:5)
+[38;5;8m2023-01-19 00:28:13[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-19 00:28:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-19 00:28:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-19 00:28:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-19 00:28:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-19 00:28:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-19 00:28:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-19 00:28:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcheck-idcard:fksc5t[0m
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwhois:xdpeyc[0m
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-on-history:ihtmox[0m
+[38;5;8m2023-01-19 00:28:16[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "today-on-history"
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m4k-background:6yy88k[0m
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrandom-wallpaper:knhxwd[0m
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:lb3l3j[0m
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpetpet-plus:fxt9bi[0m
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-good-evening-and-morning:o6v5ry[0m
+[38;5;8m2023-01-19 00:28:16[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-good-evening-and-morning"
+[38;5;8m2023-01-19 00:28:16[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:28:16[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-19 00:28:18[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-qingyunke[0m
+[38;5;8m2023-01-19 00:28:18[0m [W] [38;5;178;1mmarket[0m TypeError: Cannot read properties of undefined (reading 'Schema')
+                            at Object.<anonymous> (d:\Project\koishinew\plugins\qingyunke\src\index.ts:3:30)
+                            at Module._compile (node:internal/modules/cjs/loader:1159:14)
+                            at Module._compile (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:2258:26)
+                            at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+                            at Object.newLoader [as .ts] (D:\Project\koishinew\node_modules\esbuild-register\dist\node.js:2262:9)
+                            at Module.load (node:internal/modules/cjs/loader:1037:32)
+                            at Module._load (node:internal/modules/cjs/loader:878:12)
+                            at Module.require (node:internal/modules/cjs/loader:1061:19)
+                            at require (node:internal/modules/cjs/helpers:103:18)
+                            at getExports (D:\Project\koishinew\node_modules\@koishijs\plugin-market\src\node\packages.ts:17:5)
+[38;5;8m2023-01-19 00:28:38[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-19 00:28:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-19 00:28:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-19 00:28:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-19 00:28:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-19 00:28:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-19 00:28:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-19 00:28:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-19 00:28:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-19 00:28:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-19 00:28:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcheck-idcard:fksc5t[0m
+[38;5;8m2023-01-19 00:28:40[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-on-history:ihtmox[0m
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwhois:xdpeyc[0m
+[38;5;8m2023-01-19 00:28:41[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "today-on-history"
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:lb3l3j[0m
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m4k-background:6yy88k[0m
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpetpet-plus:fxt9bi[0m
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-good-evening-and-morning:o6v5ry[0m
+[38;5;8m2023-01-19 00:28:41[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-good-evening-and-morning"
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrandom-wallpaper:knhxwd[0m
+[38;5;8m2023-01-19 00:28:41[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 00:28:41[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-19 13:09:44[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.1[0m
+[38;5;8m2023-01-19 13:09:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-19 13:09:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-19 13:09:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-01-19 13:09:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-19 13:09:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-01-19 13:09:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-19 13:09:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-19 13:09:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-19 13:09:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-ocr:hrurk1[0m
+[38;5;8m2023-01-19 13:09:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhlai-painter:ymh570[0m
+[38;5;8m2023-01-19 13:09:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-19 13:09:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:sryjb1[0m
+[38;5;8m2023-01-19 13:09:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mjiutian-toolkit:kxbq8q[0m
+[38;5;8m2023-01-19 13:09:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcheck-idcard:fksc5t[0m
+[38;5;8m2023-01-19 13:09:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwhois:xdpeyc[0m
+[38;5;8m2023-01-19 13:09:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvideo-parser:0kzt91[0m
+[38;5;8m2023-01-19 13:09:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-on-history:ihtmox[0m
+[38;5;8m2023-01-19 13:09:48[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "today-on-history"
+[38;5;8m2023-01-19 13:09:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mblockly:f9lneh[0m
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m4k-background:6yy88k[0m
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrandom-wallpaper:knhxwd[0m
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:lb3l3j[0m
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpetpet-plus:fxt9bi[0m
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-good-evening-and-morning:o6v5ry[0m
+[38;5;8m2023-01-19 13:09:48[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "huanlin-good-evening-and-morning"
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-19 13:09:48[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 13:09:48[0m [I] [38;5;214;1mblockly[0m Reloading....
+[38;5;8m2023-01-19 13:10:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:w1moc9[0m
+[38;5;8m2023-01-19 13:10:17[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mwho-at-me[0m

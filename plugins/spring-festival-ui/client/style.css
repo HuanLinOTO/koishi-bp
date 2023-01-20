@@ -1,0 +1,104 @@
+svg {
+    color: #FF6D6D !important;
+}
+.k-button {
+    --border: #ff6a00f5;
+    background-color: #FF6D6D;
+    color: #FFFFFF !important
+}
+.k-button:hover {
+    --border: #ff6a00f5;
+    background-color: #fd6565 !important;
+    color: #e0e0e0 !important
+}
+.el-button {
+    --border: #ff6a00f5;
+    background-color: #FF6D6D;
+    color: #FFFFFF !important
+}
+.el-button:hover {
+    --border: #ff6a00f5;
+    background-color: #fd6565 !important;
+    color: #e0e0e0 !important
+}
+.el-button *{
+    color: #FFFFFF !important
+}
+.k-card, .k-card-numeric {
+    background: #FFF8F1;
+}
+
+canvas {
+    background: #ffffff8b;
+    border-radius: 30px;
+    /* border: 5px solid #fafa0f40; */
+    /* color: rgb(245, 202, 121) !important; */
+}
+.layout-activity {
+    background: #FFF8F1 !important;
+
+}
+.main-container {
+    background: #FFF8F1 !important;
+}
+.layout-status {
+    background: #FFF8F1 !important;
+}
+.el-scrollbar {
+    background: #FFF8F1 !important;
+    --hover-bg: #FFF8F1
+}
+.tabs {
+    background: #FFF8F1 !important;
+}
+.el-dialog {
+    background: #FFF8F1 !important;
+}
+.layout-left {
+    background: #FFF8F1 !important;
+}
+.search-box {
+    background: #FFF8F1 !important;
+}
+.el-select-dropdown * {
+    color: #051861 !important
+}
+#app > div > div:nth-child(4) > div:nth-child(2) > div > div > header > div {
+    margin-right: 20px;
+}
+.el-popper:has(> .bot) {
+    background: #fff8f167 !important;
+    backdrop-filter: blur(16px);
+}
+.el-popper:has(> .load) {
+    background: #fff8f167 !important;
+    backdrop-filter: blur(16px);
+}
+.el-popper {
+    background-color: #7a788777 !important;
+    backdrop-filter: blur(16px);
+}
+.el-popper__arrow::before {
+    z-index: 999;
+    background-color: #fd6565 !important;
+}
+circle {
+    background-color: #fd6565 !important;
+    color: #fd6565 !important;
+}
+.el-overlay {
+    background-color: #00000061;
+    backdrop-filter: blur(8px);
+}
+.bot *{
+    color: #051861 !important;
+}
+#app > div > nav > a.active.router-link-exact-active.navbar-item.el-tooltip__trigger.el-tooltip__trigger > svg{
+    color: #506ae6 !important
+}
+.logs {
+    background-color: #24292f;
+}
+#app > div > nav > div.navbar-item.el-tooltip__trigger.el-tooltip__trigger {
+    display: none;
+}
