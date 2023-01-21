@@ -186,3 +186,318 @@
 [38;5;8m2023-01-21 01:15:29[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
 [38;5;8m2023-01-21 01:15:29[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
 [38;5;8m2023-01-21 01:15:29[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.2[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-21 11:38:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mspring-festival-ui:zgr8sp[0m
+[38;5;8m2023-01-21 11:38:17[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-21 11:38:17[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-21 11:38:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-21 11:38:17[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-21 11:38:17[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-21 11:38:18[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-21 11:38:25[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-01-21 11:38:25[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 11:38:25[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 11:38:25[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.2[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-21 11:38:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-21 11:38:43[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-21 11:38:43[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-21 11:38:43[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-21 11:38:43[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-21 11:38:43[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mspring-festival-ui:zgr8sp[0m
+[38;5;8m2023-01-21 11:38:43[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-21 11:38:44[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-21 11:38:44[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-21 11:38:51[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-01-21 11:38:51[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-01-21 11:38:52[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 11:38:52[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 11:38:52[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 11:39:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-welcome:qgs4qz[0m
+[38;5;8m2023-01-21 11:39:40[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m14[39m, file: [32m'D:\\Project\\koishinew\\plugins\\huanlin-welcome\\src\\index.tsx'[39m, length: [33m1[39m, line: [33m20[39m, lineText: [32m'    </message>)'[39m, namespace: [32m''[39m, suggestion: [32m';'[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Expected ";" but found ")"'[39m }
+[38;5;8m2023-01-21 11:39:40[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:39:41[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:41:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:42:39[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mhuanlin-welcome[0m
+[38;5;8m2023-01-21 11:42:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:43:21[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:44:32[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:47:37[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:47:59[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m18[39m, file: [32m'D:\\Project\\koishinew\\plugins\\huanlin-welcome\\src\\index.tsx'[39m, length: [33m5[39m, line: [33m53[39m, lineText: [32m'    const words = await ctx.database.get("huanlin-welcome",{'[39m, namespace: [32m''[39m, suggestion: [32m''[39m }, notes: [ { location: [36m[Object][39m, text: [32m'Consider adding the "async" keyword here:'[39m } ], pluginName: [32m''[39m, text: [32m'"await" can only be used inside an "async" function'[39m }
+[38;5;8m2023-01-21 11:48:05[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:53:40[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:54:08[0m [W] [38;5;209;1msqlite[0m > INSERT INTO `huanlin-welcome` (`words`, `id`) VALUES ('1
+                        2', 735375064)
+[38;5;8m2023-01-21 11:54:08[0m [W] [38;5;78;1mapp[0m Error: UNIQUE constraint failed: huanlin-welcome.id
+                            at f.handleError (D:\Project\koishinew\node_modules\@minatojs\sql.js\dist\sql-wasm.js:91:290)
+                            at c.step (D:\Project\koishinew\node_modules\@minatojs\sql.js\dist\sql-wasm.js:81:394)
+                            at c.run (D:\Project\koishinew\node_modules\@minatojs\sql.js\dist\sql-wasm.js:84:116)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@minatojs\driver-sqlite\src\index.ts:235:42)
+                            at SQLiteDriver.#exec (D:\Project\koishinew\node_modules\@minatojs\driver-sqlite\src\index.ts:209:22)
+                            at SQLiteDriver.#run (D:\Project\koishinew\node_modules\@minatojs\driver-sqlite\src\index.ts:235:5)
+                            at SQLiteDriver.#create (D:\Project\koishinew\node_modules\@minatojs\driver-sqlite\src\index.ts:319:12)
+                            at SQLiteDriver.create (D:\Project\koishinew\node_modules\@minatojs\driver-sqlite\src\index.ts:325:20)
+                            at Executable.execute (D:\Project\koishinew\node_modules\@minatojs\core\src\selection.ts:90:29)
+                            at DatabaseService.create (D:\Project\koishinew\node_modules\@minatojs\core\src\driver.ts:119:58)
+[38;5;8m2023-01-21 11:55:04[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:55:11[0m [W] [38;5;209;1msqlite[0m > INSERT INTO `huanlin-welcome` (`words`, `id`) VALUES ('1
+                        2', 735375064)
+[38;5;8m2023-01-21 11:55:11[0m [W] [38;5;78;1mapp[0m Error: UNIQUE constraint failed: huanlin-welcome.id
+                            at f.handleError (D:\Project\koishinew\node_modules\@minatojs\sql.js\dist\sql-wasm.js:91:290)
+                            at c.step (D:\Project\koishinew\node_modules\@minatojs\sql.js\dist\sql-wasm.js:81:394)
+                            at c.run (D:\Project\koishinew\node_modules\@minatojs\sql.js\dist\sql-wasm.js:84:116)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@minatojs\driver-sqlite\src\index.ts:235:42)
+                            at SQLiteDriver.#exec (D:\Project\koishinew\node_modules\@minatojs\driver-sqlite\src\index.ts:209:22)
+                            at SQLiteDriver.#run (D:\Project\koishinew\node_modules\@minatojs\driver-sqlite\src\index.ts:235:5)
+                            at SQLiteDriver.#create (D:\Project\koishinew\node_modules\@minatojs\driver-sqlite\src\index.ts:319:12)
+                            at SQLiteDriver.create (D:\Project\koishinew\node_modules\@minatojs\driver-sqlite\src\index.ts:325:20)
+                            at Executable.execute (D:\Project\koishinew\node_modules\@minatojs\core\src\selection.ts:90:29)
+                            at DatabaseService.create (D:\Project\koishinew\node_modules\@minatojs\core\src\driver.ts:119:58)
+[38;5;8m2023-01-21 11:56:45[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:57:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:58:52[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:58:57[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 11:59:23[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 12:01:51[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 12:01:55[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 12:03:49[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 12:04:27[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 12:05:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 12:06:43[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 12:22:22[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.2[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-21 17:08:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-21 17:08:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-21 17:08:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-21 17:08:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-21 17:08:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-21 17:08:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-21 17:08:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-21 17:08:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-21 17:08:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-21 17:08:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mspring-festival-ui:zgr8sp[0m
+[38;5;8m2023-01-21 17:08:21[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-21 17:08:21[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-21 17:08:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-welcome:qgs4qz[0m
+[38;5;8m2023-01-21 17:08:22[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-21 17:08:22[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-21 17:08:22[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-21 17:08:43[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mrr-image-censor:6wnjr3[0m
+[38;5;8m2023-01-21 17:09:17[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mhuanlin-welcome:qgs4qz[0m
+[38;5;8m2023-01-21 17:09:21[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mspring-festival-ui:zgr8sp[0m
+[38;5;8m2023-01-21 17:09:36[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvscode:ruohll[0m
+[38;5;8m2023-01-21 17:10:33[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.2[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-21 17:20:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-21 17:20:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-21 17:20:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-21 17:20:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-21 17:20:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-21 17:20:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-21 17:20:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-21 17:20:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-21 17:20:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-21 17:20:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvscode:ruohll[0m
+[38;5;8m2023-01-21 17:20:17[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-21 17:20:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-21 17:20:17[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-21 17:20:18[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-21 17:20:18[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-21 17:20:18[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-21 17:20:37[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 17:20:37[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 17:20:37[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 17:49:23[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 17:49:32[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 17:54:02[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mvscode:ruohll[0m
+[38;5;8m2023-01-21 17:54:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvscode:ruohll[0m
+[38;5;8m2023-01-21 17:54:02[0m [W] [38;5;78;1mapp[0m duplicate plugin detected: spring-festival-ui
+[38;5;8m2023-01-21 19:08:25[0m [W] [38;5;78;1mapp[0m duplicate plugin detected: spring-festival-ui
+[38;5;8m2023-01-21 19:08:25[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 19:08:51[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 19:08:51[0m [W] [38;5;78;1mapp[0m duplicate plugin detected: spring-festival-ui
+[38;5;8m2023-01-21 19:13:02[0m [W] [38;5;78;1mapp[0m duplicate plugin detected: spring-festival-ui
+[38;5;8m2023-01-21 19:13:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 19:13:04[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 19:13:04[0m [W] [38;5;78;1mapp[0m duplicate plugin detected: spring-festival-ui
+[38;5;8m2023-01-21 19:13:20[0m [W] [38;5;78;1mapp[0m duplicate plugin detected: spring-festival-ui
+[38;5;8m2023-01-21 19:13:20[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 19:13:29[0m [W] [38;5;78;1mapp[0m duplicate plugin detected: spring-festival-ui
+[38;5;8m2023-01-21 19:13:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 19:23:29[0m [W] [38;5;78;1mapp[0m duplicate plugin detected: spring-festival-ui
+[38;5;8m2023-01-21 19:23:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 19:24:16[0m [W] [38;5;78;1mapp[0m duplicate plugin detected: spring-festival-ui
+[38;5;8m2023-01-21 19:24:16[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 19:24:38[0m [W] [38;5;78;1mapp[0m duplicate plugin detected: spring-festival-ui
+[38;5;8m2023-01-21 19:24:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 19:25:18[0m [W] [38;5;78;1mapp[0m duplicate plugin detected: spring-festival-ui
+[38;5;8m2023-01-21 19:25:18[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 19:25:23[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.2[0m
+[38;5;8m2023-01-21 19:25:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-21 19:25:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-21 19:25:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-21 19:25:24[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-21 19:25:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvscode:ruohll[0m
+[38;5;8m2023-01-21 19:25:25[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-21 19:25:25[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-21 19:25:25[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-21 19:25:26[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-21 19:25:26[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.2[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-21 19:50:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-21 19:50:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-21 19:50:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-21 19:50:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-21 19:50:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-21 19:50:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-21 19:50:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-21 19:50:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-21 19:50:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-21 19:50:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-21 19:50:43[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-21 19:50:43[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvscode:ruohll[0m
+[38;5;8m2023-01-21 19:50:43[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-21 19:50:43[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-21 19:50:43[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-21 19:50:43[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-21 19:51:22[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 20:01:05[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 20:01:26[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 20:45:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 20:48:27[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 20:49:11[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 20:49:12[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 20:49:50[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 20:50:14[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 20:52:45[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 21:20:28[0m [W] [38;5;214;1madapter[0m failed to connect to ws://106.52.111.188:7110/, code: 1006, will retry in 5s...
+[38;5;8m2023-01-21 21:20:33[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-21 22:24:13[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 22:24:59[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.2[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-21 22:56:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-21 22:56:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-21 22:56:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-21 22:56:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-21 22:56:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-21 22:56:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-21 22:56:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-21 22:56:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-21 22:56:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-21 22:56:57[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-21 22:56:57[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5141[0m
+[38;5;8m2023-01-21 22:56:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mvscode:ruohll[0m
+[38;5;8m2023-01-21 22:56:56[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-21 22:56:57[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-21 22:56:57[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-21 22:56:57[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-21 22:57:08[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 22:57:08[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 22:57:08[0m [W] [38;5;178;1mmarket[0m aborted
+[38;5;8m2023-01-21 23:01:12[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m
+[38;5;8m2023-01-21 23:10:05[0m [W] [38;5;214;1madapter[0m failed to connect to ws://106.52.111.188:7110/, code: 1006, will retry in 5s...
+[38;5;8m2023-01-21 23:10:10[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-21 23:11:31[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\vscode\src\index.ts[0m

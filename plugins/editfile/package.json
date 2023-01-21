@@ -1,0 +1,25 @@
+{
+  "name": "koishi-plugin-vscode",
+  "description": "在控制台里跑VSCode",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.11.2"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.34.1"
+  },
+  "author": "HuanLin <linsmc@126.com>"
+}

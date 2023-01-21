@@ -67,33 +67,54 @@
   resolved "https://registry.npmmirror.com/@koishijs/censor/-/censor-1.0.1.tgz#11dceffd9ba7fb34480e8b66c700896a9379ae99"
   integrity sha512-GM0sS2QoNgMh+qaRII0mjKHxSXNThfqM5QM8UWr+q8CCvh7yE92269Mt5u1p8vUeZdrNdDyb+EC3N6ne1IssHw==
 
-"@koishijs/client@^5.1.2":
-  version "5.1.5"
-  resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fclient/-/client-5.1.5.tgz#04c59cb7bcae84efa4a57d9a8be0ae28b77c31f8"
-  integrity sha512-RYTk8DtWEshPb6FQyj0Tqy3fhvuQbzos6i6L8VUXA6lmcx0uMGf5iW1WWu7dzJ3fgStVnXpWBJif8fR8gcktfQ==
+"@koishijs/client@^4.8.1":
+  version "4.8.1"
+  resolved "https://registry.yarnpkg.com/@koishijs/client/-/client-4.8.1.tgz#2d02814fea57380c9260140bd20f1a792ecbdd24"
+  integrity sha512-NB6T32ROHTq6uPtfLzIwiem9Xdljuw6YZYq1YAXlSAdTSyjBVzTYpqgvC18UktsxsDZ3W7hLtMP15X6H8Q8SjQ==
   dependencies:
     "@satorijs/components" "^0.5.5"
+    "@satorijs/element" "^2.2.1"
+    "@types/marked" "^4.0.7"
+    "@vitejs/plugin-vue" "^3.2.0"
+    "@vueuse/core" "^8.9.4"
+    cac "^6.7.14"
+    cordis "^2.6.0"
+    cosmokit "^1.3.6"
+    element-plus "2.2.17"
+    marked "^4.2.3"
+    ns-require "^1.1.4"
+    sass "^1.56.1"
+    schemastery "^3.6.1"
+    schemastery-vue "^1.4.3"
+    vite "^3.2.4"
+    vue "^3.2.45"
+    vue-router "^4.1.6"
+
+"@koishijs/client@^5.1.14":
+  version "5.1.14"
+  resolved "https://registry.yarnpkg.com/@koishijs/client/-/client-5.1.14.tgz#050b1b783d5908252c6c5631d5ff5ba81d2fa92f"
+  integrity sha512-/j+1tq7C01bmaIFqAvMcK158obqbQrUagMutgG3MOY0LC7wKCeRzjYGXpTYP4C1ZiRFw1ccc9T95V8CTqTYfvg==
+  dependencies:
+    "@satorijs/components" "^0.5.6"
     "@satorijs/element" "^2.3.1"
-    "@types/marked" "^4.0.8"
     "@vitejs/plugin-vue" "^3.2.0"
     "@vueuse/core" "^8.9.4"
     cac "^6.7.14"
     cordis "^2.6.0"
     cosmokit "^1.4.0"
     element-plus "2.2.17"
-    marked "^4.2.4"
     ns-require "^1.1.4"
     sass "^1.57.1"
     schemastery "^3.6.1"
-    schemastery-vue "^1.4.8"
+    schemastery-vue "^1.5.2"
     vite "^3.2.5"
     vue "^3.2.45"
     vue-router "^4.1.6"
 
-"@koishijs/core@4.11.1":
-  version "4.11.1"
-  resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fcore/-/core-4.11.1.tgz#9c0e468b3956205d761d9cb9778e86d109f2821d"
-  integrity sha512-HrzgBnimg/fgIzxTyH8BJb7nZpgt912i4zcfvRN9kNcPwbdOpjGllCVRuhRxSEBR21OJvCYTmT0dzf1qNPd3Vg==
+"@koishijs/core@4.11.2":
+  version "4.11.2"
+  resolved "https://registry.yarnpkg.com/@koishijs/core/-/core-4.11.2.tgz#37121b2f0115fbf163b5b69686c017d68c3d7b0f"
+  integrity sha512-9Smg9FV+X7qi9AANI9cKXC4hjZ3s1ayJHCnzzP//dQM3EIOX++DqQ4rYz7AYg2BeX9gbP07Zy9TZc28duDuPDA==
   dependencies:
     "@koishijs/utils" "^6.4.0"
     "@minatojs/core" "^2.1.1"
@@ -107,18 +128,18 @@
   resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fhelpers/-/helpers-1.2.6.tgz#2ab9a509e85781a1a6b05908b32c08332e37ebff"
   integrity sha512-MjX4NPlmqmYt5U8wrFNvRBAlekcP0J2AmYNdtI5mJgkUYNNp6z1WpZw7VpwnObGnceTwZON8FBDDekOKw8JinQ==
 
-"@koishijs/loader@^2.5.1":
-  version "2.5.1"
-  resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2floader/-/loader-2.5.1.tgz#4b01ac0a96b31c3ceee3b7cbd080fd4f63be9a8e"
-  integrity sha512-ZNyzmL/sCTENPegZBx5rPs1mb+7YOxCb9Il0vyul9zuGzSJoJklSAIoTpBRt1v6BH/eUHEwY6ngcomkxQlf6xQ==
+"@koishijs/loader@^2.5.2":
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/@koishijs/loader/-/loader-2.5.2.tgz#17080810cdf7e9d10bbf16c79f34a9ebcbe44b8c"
+  integrity sha512-6tnd1PPrOT1Dpsg9d5LWjDiOb5nxD+bP5IByzkdXzXvhIzwbiv5T8bFJNJBtrh0wnqMArHtb2TWWxIK+Xax59Q==
   dependencies:
     dotenv "^16.0.3"
     js-yaml "^4.1.0"
     ns-require "^1.1.4"
 
-"@koishijs/plugin-adapter-discord@^3.4.1":
+"@koishijs/plugin-adapter-discord@^3.4.2":
   version "3.4.2"
-  resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fplugin-adapter-discord/-/plugin-adapter-discord-3.4.2.tgz#104be0dcb5e830918fe32f141d7d1a027fd593c4"
+  resolved "https://registry.yarnpkg.com/@koishijs/plugin-adapter-discord/-/plugin-adapter-discord-3.4.2.tgz#104be0dcb5e830918fe32f141d7d1a027fd593c4"
   integrity sha512-49EPesOkPBxPByraAmANIUIGwprn/qmnCvhSv3zeY4Cj0jF4wE7WG+y1ULblh+W9GKHG+JCVTJFQqQKE+3KBUg==
   dependencies:
     "@satorijs/adapter-discord" "^3.4.2"
@@ -144,12 +165,12 @@
   dependencies:
     "@satorijs/adapter-onebot" "^5.5.4"
 
-"@koishijs/plugin-adapter-telegram@^3.6.2":
-  version "3.6.4"
-  resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fplugin-adapter-telegram/-/plugin-adapter-telegram-3.6.4.tgz#424354cf85f917a0ff898a60d72ef7e2468bf5cb"
-  integrity sha512-qfMtB4e3uTEQ0A5joAif71+1K0R3I/ho90eNxIjD50cn1xr/QJv3SsSgCFi/38IGXxCVL2jmNgzx94IjndokDw==
+"@koishijs/plugin-adapter-telegram@^3.6.5":
+  version "3.6.5"
+  resolved "https://registry.yarnpkg.com/@koishijs/plugin-adapter-telegram/-/plugin-adapter-telegram-3.6.5.tgz#9caa1ea0d6457e1b8a2bf91103ebf2ece0b928b2"
+  integrity sha512-Oc5983nv70lJM8eHYVgZbK0Wb2XYFh3hnU2hAernudX9YWTHo9OWD4EHpxSfNl9By0VxvjJqIqXDTetUHArz0A==
   dependencies:
-    "@satorijs/adapter-telegram" "^3.6.4"
+    "@satorijs/adapter-telegram" "^3.6.5"
 
 "@koishijs/plugin-admin@^1.1.5":
   version "1.1.5"
@@ -175,7 +196,25 @@
   dependencies:
     throttle-debounce "^3.0.1"
 
-"@koishijs/plugin-console@^5.1.2", "@koishijs/plugin-console@^5.1.5":
+"@koishijs/plugin-console@^4.8.1":
+  version "4.8.1"
+  resolved "https://registry.yarnpkg.com/@koishijs/plugin-console/-/plugin-console-4.8.1.tgz#aade149169c566804f190956eeee2589293cf3a5"
+  integrity sha512-Zn8hfmnCeyv65Maap9tYWS+Ywcj4SWk5bOvVUzs4GtqgkNawOST7moZERrtVWXf+mnegF9KmspBDGMvHft58mw==
+  dependencies:
+    open "^8.4.0"
+    uuid "^8.3.2"
+    ws "^8.11.0"
+
+"@koishijs/plugin-console@^5.1.14":
+  version "5.1.14"
+  resolved "https://registry.yarnpkg.com/@koishijs/plugin-console/-/plugin-console-5.1.14.tgz#cbc430c2a1d42a189bf37f85385101928a729d3a"
+  integrity sha512-ds4Y5d/jVA3zjVBRUD07el3FYG8HTnMcyVgC7SR4zCQeFW8gkbJrm3QKvLIFuyZO8agQlQm/6MJM320/mxWRkQ==
+  dependencies:
+    open "^8.4.0"
+    uuid "^8.3.2"
+    ws "^8.11.0"
+
+"@koishijs/plugin-console@^5.1.5":
   version "5.1.5"
   resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fplugin-console/-/plugin-console-5.1.5.tgz#969413ab4b5647f58e55857a9ced36d9b028fa86"
   integrity sha512-mwmMyS+6SULeI7EJuChImEmjtngiVczb/bb3XpKiPlVIJBlnVOnwfx4q7zmsHcHnfyIY7TJS93Vq5d7e/I6DWg==
@@ -222,17 +261,16 @@
   resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fplugin-logger/-/plugin-logger-2.2.0.tgz#0692020f3b96d2f693da949e9624e9363b08f1b2"
   integrity sha512-s/iqFVvTq21dtLnGbkvFTZSU2zoy55yjaSNpKUzBTj5Jv3pu+Ysj1XPNBZ3iJLaCOEbd1ejNLqtyNK+Lpgk+Vw==
 
-"@koishijs/plugin-market@^1.8.6":
-  version "1.8.9"
-  resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fplugin-market/-/plugin-market-1.8.9.tgz#97c3d7b9fa04b52f159c9b4db3924e4dc062d2d6"
-  integrity sha512-E5nqoxr25cu7AKsW7WN6ZUHLXVSK1nmP15P/2hrf5e3On5sYgTWnZvP3Dxf8a6ZKvsp1jjBZAuqgsP9LK3ECzQ==
+"@koishijs/plugin-market@^1.8.13":
+  version "1.8.13"
+  resolved "https://registry.yarnpkg.com/@koishijs/plugin-market/-/plugin-market-1.8.13.tgz#d5b03e7b2e0ce6409149da0f75e0c7815e7c34aa"
+  integrity sha512-n6yHxDmldAItlAfechO84k8pXktBTaX0FqB13agHOaEiyx3vAizhJXY5/fLZUHFk4LHlKXKGxR4KCoh/2jBCWQ==
   dependencies:
-    "@koishijs/registry" "^4.4.2"
+    "@koishijs/registry" "^4.4.4"
     execa "^5.1.1"
     get-registry "^1.1.0"
     ns-require "^1.1.4"
     semver "^7.3.8"
-    spark-md5 "^3.0.2"
     throttle-debounce "^3.0.1"
     which-pm-runs "^1.1.0"
 
@@ -243,29 +281,20 @@
   dependencies:
     "@koishijs/helpers" "^1.2.5"
 
-"@koishijs/plugin-sandbox@^2.5.2":
-  version "2.5.2"
-  resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fplugin-sandbox/-/plugin-sandbox-2.5.2.tgz#26b5211209b4e7bb5adb8b639618b8fadfb9d363"
-  integrity sha512-AYYZHDIlNZ+wXvI+bfMKK6XuRkdGEOu0PFQx7YaGiRGx4GJ+OYmHdTRGXXYJ2jCmSa377I7fJ0yMuilSR9ZVRA==
+"@koishijs/plugin-sandbox@^2.6.1":
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/@koishijs/plugin-sandbox/-/plugin-sandbox-2.6.1.tgz#e485dfdcce6e599384abbbb15603faa0d3e64e55"
+  integrity sha512-dzKEPSSJ/3yi2Fdu9B7Ypg9XrAhCfrXofk7gS+BcXdkGcXs0k+AMKJyqsDJjxS76TaaJ4uYh1KJYyU9E1JphFw==
 
 "@koishijs/plugin-status@^7.0.1":
   version "7.0.1"
   resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fplugin-status/-/plugin-status-7.0.1.tgz#d679a27aff7f50df26c82b99069821c1d5ff5f08"
   integrity sha512-hrZfQcCyvkJ6vFdK2FEuSlR4jxDGc2oSAkkca6/okdzgDeHUCDG7h0vQJld+a98b6hfPa9JjVA9XgCaUY+dkjg==
 
-"@koishijs/registry@^4.3.2":
+"@koishijs/registry@^4.4.4":
   version "4.4.4"
   resolved "https://registry.yarnpkg.com/@koishijs/registry/-/registry-4.4.4.tgz#deeef6d5afc390afeee427078ed80df771019dce"
   integrity sha512-gmVD7RAXllA1o0XatTyuty1pOaLXLmeuvQCshgkFGPzEyxMuZy1lRDLcEMmhMmI8MLR73mNkmd65DxESid3Iuw==
-  dependencies:
-    cosmokit "^1.4.0"
-    p-map "^4.0.0"
-    semver "^7.3.8"
-
-"@koishijs/registry@^4.4.2":
-  version "4.4.2"
-  resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fregistry/-/registry-4.4.2.tgz#f8d7606f8d1c95b9f6fb563e10f0d6475b86cf5e"
-  integrity sha512-PI/f9qnaSD3sq6qHKbDQSmks1nP+5M6EcKPIqz+/0mRoQoj+nMDOkdimHhQQYnyFikwa8ECNXo6RSSk6Ozh9ow==
   dependencies:
     cosmokit "^1.4.0"
     p-map "^4.0.0"
@@ -380,21 +409,21 @@
   dependencies:
     qface "^1.2.0"
 
-"@satorijs/adapter-telegram@^3.6.4":
-  version "3.6.4"
-  resolved "https://mirrors.cloud.tencent.com/npm/@satorijs%2fadapter-telegram/-/adapter-telegram-3.6.4.tgz#2a0ac7d8bfd44527713c86d43994bb19a00ac89f"
-  integrity sha512-CWxlkRiwbVfFO/gAiUPgr9I7idRCOPW4tCFmECoG7z7rEMcVTOFtJvAvtmyYAA0dMUp+ohL1ufv+Ax94WrVvtQ==
+"@satorijs/adapter-telegram@^3.6.5":
+  version "3.6.5"
+  resolved "https://registry.yarnpkg.com/@satorijs/adapter-telegram/-/adapter-telegram-3.6.5.tgz#81ea741edbc92578b3101a9cf25f88aca1ba76e6"
+  integrity sha512-TZdO7vomxWLvMVGkedVMLOMzZd9tMSHNq7TP/5Gs+Nhg/jlxw7dLaerH3rAe818hSdjAWDtMJcvcY7t7SKJw7w==
   dependencies:
     file-type "^16.5.4"
     form-data "^4.0.0"
 
-"@satorijs/components@^0.5.5":
-  version "0.5.5"
-  resolved "https://mirrors.cloud.tencent.com/npm/@satorijs%2fcomponents/-/components-0.5.5.tgz#3ec55eb9715176d710281550d8408642278132da"
-  integrity sha512-mN64/+tmn5/unRHAxWkqTN/43bZb3tLM43hu7AeAV1UKTQlwYq4Q7790A7ExIBlK30DZwN20jrTzB/OnTOYZPQ==
+"@satorijs/components@^0.5.5", "@satorijs/components@^0.5.6":
+  version "0.5.6"
+  resolved "https://registry.yarnpkg.com/@satorijs/components/-/components-0.5.6.tgz#4b63f9a0f6abd57365d2dcb0c0b21382379bcee5"
+  integrity sha512-+g4AwjEsfimFvIXmBkkyztYa31l3Z5SoyeNOAPCRd4k0WBEu4oYdPc7cUE6+ZnspAK2ZTEESrP6J4xt9U5tugw==
   dependencies:
     "@popperjs/core" "npm:@sxzz/popperjs-es@^2.11.7"
-    "@satorijs/element" "^2.1.8"
+    "@satorijs/element" "^2.3.1"
 
 "@satorijs/core@2.0.1", "@satorijs/core@^2.0.1":
   version "2.0.1"
@@ -409,7 +438,7 @@
     schemastery "^3.6.1"
     ws "^8.11.0"
 
-"@satorijs/element@^2.1.8", "@satorijs/element@^2.3.1":
+"@satorijs/element@^2.2.1", "@satorijs/element@^2.3.1":
   version "2.3.1"
   resolved "https://mirrors.cloud.tencent.com/npm/@satorijs%2felement/-/element-2.3.1.tgz#e1ebc8d6c12a62478fbe6a92414e817996703db2"
   integrity sha512-p1hQVy56nfJ2dw1noEHkV7hKpC9yqe5u3Vla+CSPqXU12uB4zqv96rjT9n4WulNGl8XTzqWxp8q8KWqhSI8JFA==
@@ -571,9 +600,9 @@
   resolved "https://mirrors.cloud.tencent.com/npm/@types%2flodash/-/lodash-4.14.191.tgz#09511e7f7cba275acd8b419ddac8da9a6a79e2fa"
   integrity sha512-BdZ5BCCvho3EIXw6wUCXHe7rS53AIDPLE+JzwgT+OsJk53oBfbSmZZ7CX4VaRoN78N+TJpFi9QPlfIVNmJYWxQ==
 
-"@types/marked@^4.0.8":
+"@types/marked@^4.0.7":
   version "4.0.8"
-  resolved "https://mirrors.cloud.tencent.com/npm/@types%2fmarked/-/marked-4.0.8.tgz#b316887ab3499d0a8f4c70b7bd8508f92d477955"
+  resolved "https://registry.yarnpkg.com/@types/marked/-/marked-4.0.8.tgz#b316887ab3499d0a8f4c70b7bd8508f92d477955"
   integrity sha512-HVNzMT5QlWCOdeuBsgXP8EZzKUf0+AXzN+sLmjvaB3ZlLqO+e4u0uXrdw9ub69wBKFs+c6/pA4r9sy6cCDvImw==
 
 "@types/mime@*":
@@ -581,10 +610,15 @@
   resolved "https://mirrors.cloud.tencent.com/npm/@types%2fmime/-/mime-3.0.1.tgz#5f8f2bca0a5863cb69bc0b0acd88c96cb1d4ae10"
   integrity sha512-Y4XFY5VJAuw0FgAqPNd6NNoV44jbq9Bz2L7Rh/J6jLTiHBSBJa9fxqQIvkIld4GsoDOcCbvzOUAbLPsSKKg+uA==
 
-"@types/node@*", "@types/node@^18.11.17", "@types/node@^18.11.18":
+"@types/node@*", "@types/node@^18.11.18":
   version "18.11.18"
   resolved "https://mirrors.cloud.tencent.com/npm/@types%2fnode/-/node-18.11.18.tgz#8dfb97f0da23c2293e554c5a50d61ef134d7697f"
   integrity sha512-DHQpWGjyQKSHj3ebjFI/wRKcqQcdR+MoFBygntYOZytCqNfkd2ZC4ARDJ2DQqhjH5p85Nnd3jhUJIXrszFX/JA==
+
+"@types/node@^17.0.45":
+  version "17.0.45"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.45.tgz#2c0fafd78705e7a18b7906b5201a522719dc5190"
+  integrity sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==
 
 "@types/qs@*":
   version "6.9.7"
@@ -1070,6 +1104,11 @@ combined-stream@^1.0.8:
   dependencies:
     delayed-stream "~1.0.0"
 
+commander@^2.20.3:
+  version "2.20.3"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
+  integrity sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==
+
 concat-map@0.0.1:
   version "0.0.1"
   resolved "https://mirrors.cloud.tencent.com/npm/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
@@ -1144,6 +1183,11 @@ cross-spawn@^7.0.1, cross-spawn@^7.0.3:
     path-key "^3.1.0"
     shebang-command "^2.0.0"
     which "^2.0.1"
+
+cssfilter@0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/cssfilter/-/cssfilter-0.0.10.tgz#c6d2672632a2e5c83e013e6864a42ce8defd20ae"
+  integrity sha512-FAaLDaplstoRsDR8XGYH51znUN0UY7nMc6Z9/fvE8EXGwvJE9hu7W2vHwx1+bd6gCYnln9nLbzxFTrcO9YQDZw==
 
 cssom@^0.5.0:
   version "0.5.0"
@@ -1867,15 +1911,15 @@ globby@^11.1.0:
     merge2 "^1.4.1"
     slash "^3.0.0"
 
-go-cqhttp@^1.1.6:
-  version "1.1.6"
-  resolved "https://mirrors.cloud.tencent.com/npm/go-cqhttp/-/go-cqhttp-1.1.6.tgz#0ca2b282848e8f860600eba8f7407a8afb43337e"
-  integrity sha512-uz7e/30biGxb0/LEVVcpqyBjn092uJjYOlC6FnOL1YinD+iHHY1xFbC61Tdhyqn5p/8/eo1MVFJ2QEkVmlSYyQ==
+go-cqhttp@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/go-cqhttp/-/go-cqhttp-2.1.1.tgz#d2d2c6607e65ab25cdd8a24855c78a02418b4e99"
+  integrity sha512-etq2SNyS3WPPmUdx+D9Dpl7C8eo8b1HAwpn/gvDkMTNfx8u6GXhCTcBUqhyYEbhYlIvF/wBPSKt0tfGBpCY0HA==
   dependencies:
     axios "~1.1.3"
     env-paths "^2.2.1"
     get-registry "^1.1.0"
-    tar "^6.1.12"
+    tar "^6.1.13"
 
 got@^9.6.0:
   version "9.6.0"
@@ -2261,9 +2305,9 @@ koa@^2.14.1:
     type-is "^1.6.16"
     vary "^1.1.2"
 
-koishi-plugin-assets-local@^3.0.0:
+koishi-plugin-assets-local@^3.0.1:
   version "3.0.1"
-  resolved "https://mirrors.cloud.tencent.com/npm/koishi-plugin-assets-local/-/koishi-plugin-assets-local-3.0.1.tgz#13bfa1f153cc8f0ddf799e98e69f51ed6515937b"
+  resolved "https://registry.yarnpkg.com/koishi-plugin-assets-local/-/koishi-plugin-assets-local-3.0.1.tgz#13bfa1f153cc8f0ddf799e98e69f51ed6515937b"
   integrity sha512-jh14jA3MYCmeI4gI4jsS2Ad0XcncUY7w0cbubL0jUAtrv8cNNgoo5XS1vYsWz4e7A2h/T9ELtZSyxrFuGbbXVw==
   dependencies:
     "@koishijs/assets" "^1.0.1"
@@ -2282,22 +2326,22 @@ koishi-plugin-desktop@^0.0.3:
   resolved "https://mirrors.cloud.tencent.com/npm/koishi-plugin-desktop/-/koishi-plugin-desktop-0.0.3.tgz#2b989fcda1b270f5a6e999df6612830129672e14"
   integrity sha512-SZlXPnBXgBE4Erm0D9JA0IRn5LFgXliz/Lp8P0Gy7FUiFAzXGexB4msWLH3tk4mp70GFibjvtV6ToTgMsLQ32Q==
 
-koishi-plugin-gocqhttp@^3.2.1:
-  version "3.2.1"
-  resolved "https://mirrors.cloud.tencent.com/npm/koishi-plugin-gocqhttp/-/koishi-plugin-gocqhttp-3.2.1.tgz#a345176d26989c8b316d04428db172bc56dc60d1"
-  integrity sha512-uHtjoNl1TYVTPyVpjR2IvDCqaNdnB7Gm65Mdn7vVNvM9eB6X1WUBXHgVZyqviDE36Gbt21MvzccC0vYV0wcPsg==
+koishi-plugin-gocqhttp@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/koishi-plugin-gocqhttp/-/koishi-plugin-gocqhttp-3.3.1.tgz#acccff4d8399873fe8c82a507da1b243b633be2b"
+  integrity sha512-mULaarEiYAVGXRa4nc0HJcj5ZkQLZdlxPHlPkiis2Xl53kTg7jLPtXNhAHw0J5CknvFj6RSdZ+Y5ZFE2KB6W2w==
   dependencies:
     "@koishijs/utils" "6.4.0"
-    go-cqhttp "^1.1.6"
+    go-cqhttp "^2.1.1"
     strip-ansi "^6.0.1"
 
-koishi-plugin-puppeteer@^3.3.0:
-  version "3.3.2"
-  resolved "https://mirrors.cloud.tencent.com/npm/koishi-plugin-puppeteer/-/koishi-plugin-puppeteer-3.3.2.tgz#f1e0c99acac0b2b995a8742a89986cf2df424f93"
-  integrity sha512-r9A9K6ovWbreb3mXNsktoCgaiqjrvw5rPq5amSslWDMfUfBVRF6/3dbM4qxRAP/oc8CbYw7gdCg0/1pQIn3niw==
+koishi-plugin-puppeteer@^3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/koishi-plugin-puppeteer/-/koishi-plugin-puppeteer-3.4.0.tgz#949b22cce655cc0f10f85f15a63239063b20c4b1"
+  integrity sha512-rstpkyCoTqnv47wFTq40qxffyy6QeXEgG0Ye/QRk95gxlsE9y3G/3adHd81tg4LLFzsy3DS/iC0k7Ft4VlWhIg==
   dependencies:
-    puppeteer-core "^19.5.0"
-    puppeteer-finder "^1.0.0"
+    puppeteer-core "^19.5.2"
+    puppeteer-finder "^1.0.1"
 
 koishi-plugin-rr-image-censor@1.1.1:
   version "1.1.1"
@@ -2316,13 +2360,13 @@ koishi-plugin-simple-welcome@1.1.0:
   resolved "https://registry.npmmirror.com/koishi-plugin-simple-welcome/-/koishi-plugin-simple-welcome-1.1.0.tgz#4fcaff834da5ed9435c5f4aabac4a0d2313f9c81"
   integrity sha512-ViUhvMJ9kilA1EN2ua/Vz6CIhKWuAvn2wt65+Uqtsa1/GgpMK6REdrNSZbkC/cHHuupYDpearBtNMQIYFg2H2w==
 
-koishi@^4.11.1:
-  version "4.11.1"
-  resolved "https://mirrors.cloud.tencent.com/npm/koishi/-/koishi-4.11.1.tgz#33b23166d877d852a8043b0df8ea3ca6b59b4647"
-  integrity sha512-sHMa8okx+kl5jHBwzT2gb4qGeOJRKG8AfLt4w5BLJwOPpvdo6cW9RiRy1uBwkXM7zf4yOvtr0+6WEu+AuD6bXQ==
+koishi@^4.11.1, koishi@^4.11.2:
+  version "4.11.2"
+  resolved "https://registry.yarnpkg.com/koishi/-/koishi-4.11.2.tgz#af9e36cf10f2d89b2b567e8064c878bc7a068027"
+  integrity sha512-7VL8BvL16l6S6hTWov1wX86Uw7xEYIyQso68Q/SMdN4YFE5CpLAUEsT8uTaSFpX/kscIk9x84tLq2+H6N2xYog==
   dependencies:
-    "@koishijs/core" "4.11.1"
-    "@koishijs/loader" "^2.5.1"
+    "@koishijs/core" "4.11.2"
+    "@koishijs/loader" "^2.5.2"
     "@koishijs/utils" "^6.4.0"
     "@satorijs/satori" "^2.0.1"
     cac "^6.7.14"
@@ -2393,10 +2437,18 @@ magic-string@^0.25.7:
   dependencies:
     sourcemap-codec "^1.4.8"
 
-marked@^4.2.4:
-  version "4.2.5"
-  resolved "https://mirrors.cloud.tencent.com/npm/marked/-/marked-4.2.5.tgz#979813dfc1252cc123a79b71b095759a32f42a5d"
-  integrity sha512-jPueVhumq7idETHkb203WDD4fMA3yV9emQ5vLwop58lu8bTclMghBWcYAavlDqIEMaisADinV1TooIFCfqOsYQ==
+marked-vue@^1.1.5:
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/marked-vue/-/marked-vue-1.1.5.tgz#c73f4c248709cedab97c6b054a07bab3f7b4d231"
+  integrity sha512-rjD2oS9L3fGOx77tnkSebnqv3BZSX7lSOuZT/MpgZnh8kxNDTek6/7y9Y8B9mfTgFYwhSj99/q6NbxBmbRNnKg==
+  dependencies:
+    marked "^4.2.12"
+    xss "^1.0.14"
+
+marked@^4.2.12, marked@^4.2.3:
+  version "4.2.12"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-4.2.12.tgz#d69a64e21d71b06250da995dcd065c11083bebb5"
+  integrity sha512-yr8hSKa3Fv4D3jdZmtMMPghgVt6TWbk86WQaWhDloQjRSQhMMYCAro7jP7VDJrjjdV8pxVxMssXS8B8Y5DZ5aw==
 
 media-typer@0.3.0:
   version "0.3.0"
@@ -2496,6 +2548,11 @@ mkdirp@^1.0.3:
   version "1.0.4"
   resolved "https://mirrors.cloud.tencent.com/npm/mkdirp/-/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
   integrity sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw==
+
+monaco-editor@^0.34.1:
+  version "0.34.1"
+  resolved "https://registry.yarnpkg.com/monaco-editor/-/monaco-editor-0.34.1.tgz#1b75c4ad6bc4c1f9da656d740d98e0b850a22f87"
+  integrity sha512-FKc80TyiMaruhJKKPz5SpJPIjL+dflGvz4CpuThaPMc94AyN7SeC9HQ8hrvaxX7EyHdJcUY5i4D0gNyJj1vSZQ==
 
 ms@2.1.2:
   version "2.1.2"
@@ -2747,9 +2804,9 @@ punycode@^2.1.1:
   resolved "https://registry.npmmirror.com/punycode/-/punycode-2.2.0.tgz#2092cc57cd2582c38e4e7e8bb869dc8d3148bc74"
   integrity sha512-LN6QV1IJ9ZhxWTNdktaPClrNfp8xdSAYS0Zk2ddX7XsXZAxckMHPCBcHRo0cTcEIgYPRiGEkmji3Idkh2yFtYw==
 
-puppeteer-core@^19.5.0:
+puppeteer-core@^19.5.2:
   version "19.5.2"
-  resolved "https://mirrors.cloud.tencent.com/npm/puppeteer-core/-/puppeteer-core-19.5.2.tgz#9b454b0ef89d3f07e20158dd4ced6ebd85d4dadb"
+  resolved "https://registry.yarnpkg.com/puppeteer-core/-/puppeteer-core-19.5.2.tgz#9b454b0ef89d3f07e20158dd4ced6ebd85d4dadb"
   integrity sha512-Rqk+3kqM+Z2deooTYqcYt8lRtGffJdifWa9td9nbJSjhANWsFouk8kLBNUKycewCCFHM8TZUKS0x28OllavW2A==
   dependencies:
     cross-fetch "3.1.5"
@@ -2763,10 +2820,10 @@ puppeteer-core@^19.5.0:
     unbzip2-stream "1.4.3"
     ws "8.11.0"
 
-puppeteer-finder@^1.0.0:
-  version "1.0.0"
-  resolved "https://mirrors.cloud.tencent.com/npm/puppeteer-finder/-/puppeteer-finder-1.0.0.tgz#f51cfdcde1986a401a2df3a892832e43c0539515"
-  integrity sha512-ABkybEphQ5BK+6h9ngoT+nPc1vfNZnkFS4gOOkE862O86ngZmmIvQV3RmNteZH1gcPTLIy/7Pih0mcjitoaeXw==
+puppeteer-finder@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/puppeteer-finder/-/puppeteer-finder-1.0.1.tgz#43a203edc05208ceea7681eeb1e2e089b42a14f3"
+  integrity sha512-fzm0q5ocNh3ky1l8Rr8RwrFLdlMaizxmSfCOviHOzT32nTYX1kH5V290DPI1uyem0ghIVGwhvyZa3SCbmaDk1w==
 
 qface@^1.2.0:
   version "1.3.0"
@@ -2921,7 +2978,7 @@ safe-buffer@5.2.1, safe-buffer@~5.2.0:
   resolved "https://mirrors.cloud.tencent.com/npm/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sass@^1.57.1:
+sass@^1.56.1, sass@^1.57.1:
   version "1.57.1"
   resolved "https://mirrors.cloud.tencent.com/npm/sass/-/sass-1.57.1.tgz#dfafd46eb3ab94817145e8825208ecf7281119b5"
   integrity sha512-O2+LwLS79op7GI0xZ8fqzF7X2m/m8WFfI02dHOdsK5R2ECeS5F62zrwg/relM1rjSLy7Vd/DiMNIvPrQGsA0jw==
@@ -2937,11 +2994,12 @@ saxes@^6.0.0:
   dependencies:
     xmlchars "^2.2.0"
 
-schemastery-vue@^1.4.8:
-  version "1.4.8"
-  resolved "https://mirrors.cloud.tencent.com/npm/schemastery-vue/-/schemastery-vue-1.4.8.tgz#02c8dde754a7281468c48ecbdee7bd82a29e9398"
-  integrity sha512-OTM1hTfet1jHPK8fkDuJNnTlaj4+H40ic8Osb+9et9wJ9uu4MThk4+dRjr5WvCIHXUx34I0DYXHtdTJN6H3zqw==
+schemastery-vue@^1.4.3, schemastery-vue@^1.5.2:
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/schemastery-vue/-/schemastery-vue-1.5.2.tgz#184b990fb4135c399f2be198e5522f764ffd4245"
+  integrity sha512-1lswGdP/EZWvCa0K69kEjwj18Oyacnf7meZLiSA356XWA9zo5zEfhqBoLoRx6pyZMw8oxh20hLi0qXvWUrrhWA==
   dependencies:
+    marked-vue "^1.1.5"
     schemastery "^3.6.1"
 
 schemastery@^3.6.1:
@@ -3041,11 +3099,6 @@ sourcemap-codec@^1.4.8:
   resolved "https://mirrors.cloud.tencent.com/npm/sourcemap-codec/-/sourcemap-codec-1.4.8.tgz#ea804bd94857402e6992d05a38ef1ae35a9ab4c4"
   integrity sha512-9NykojV5Uih4lgo5So5dtw+f0JgJX30KCNI8gwhz2J9A15wD0Ml6tjHKwf6fTSa6fAdVBdZeNOs9eJ71qCk8vA==
 
-spark-md5@^3.0.2:
-  version "3.0.2"
-  resolved "https://mirrors.cloud.tencent.com/npm/spark-md5/-/spark-md5-3.0.2.tgz#7952c4a30784347abcee73268e473b9c0167e3fc"
-  integrity sha512-wcFzz9cDfbuqe0FZzfi2or1sgyIrsDwmPwfZC4hiNidPdPINjeUwNfv5kldczoEAcjl9Y1L3SM7Uz2PUEQzxQw==
-
 statuses@2.0.1:
   version "2.0.1"
   resolved "https://mirrors.cloud.tencent.com/npm/statuses/-/statuses-2.0.1.tgz#55cb000ccf1d48728bd23c685a063998cf1a1b63"
@@ -3133,9 +3186,9 @@ tar-stream@^2.1.4:
     inherits "^2.0.3"
     readable-stream "^3.1.1"
 
-tar@^6.1.12:
+tar@^6.1.13:
   version "6.1.13"
-  resolved "https://mirrors.cloud.tencent.com/npm/tar/-/tar-6.1.13.tgz#46e22529000f612180601a6fe0680e7da508847b"
+  resolved "https://registry.yarnpkg.com/tar/-/tar-6.1.13.tgz#46e22529000f612180601a6fe0680e7da508847b"
   integrity sha512-jdIBIN6LTIe2jqzay/2vtYLlBHa3JF42ot3h1dW8Q0PaAG4v8rm0cvpVePtau5C6OKXGGcgO9q2AMNSWxiLqKw==
   dependencies:
     chownr "^2.0.0"
@@ -3289,7 +3342,7 @@ vary@^1.1.2:
   resolved "https://mirrors.cloud.tencent.com/npm/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
 
-vite@^3.2.5:
+vite@^3.2.4, vite@^3.2.5:
   version "3.2.5"
   resolved "https://mirrors.cloud.tencent.com/npm/vite/-/vite-3.2.5.tgz#dee5678172a8a0ab3e547ad4148c3d547f90e86a"
   integrity sha512-4mVEpXpSOgrssFZAOmGIr85wPHKvaDAcXqxVxVRZhljkJOMZi1ibLibzjLHzJvcok8BMguLc7g1W6W/GqZbLdQ==
@@ -3418,6 +3471,14 @@ xmlchars@^2.2.0:
   resolved "https://registry.npmmirror.com/xmlchars/-/xmlchars-2.2.0.tgz#060fe1bcb7f9c76fe2a17db86a9bc3ab894210cb"
   integrity sha512-JZnDKK8B0RCDw84FNdDAIpZK+JuJw+s7Lz8nksI7SIuU3UXJJslUthsi+uWBUYOwPFwW7W7PRLRfUKpxjtjFCw==
 
+xss@^1.0.14:
+  version "1.0.14"
+  resolved "https://registry.yarnpkg.com/xss/-/xss-1.0.14.tgz#4f3efbde75ad0d82e9921cc3c95e6590dd336694"
+  integrity sha512-og7TEJhXvn1a7kzZGQ7ETjdQVS2UfZyTlsEdDOqvQF7GoxNfY+0YLCzBy1kPdsDDx4QuNAonQPddpsn6Xl/7sw==
+  dependencies:
+    commander "^2.20.3"
+    cssfilter "0.0.10"
+
 yakumo-esbuild-yaml@^0.3.1:
   version "0.3.1"
   resolved "https://mirrors.cloud.tencent.com/npm/yakumo-esbuild-yaml/-/yakumo-esbuild-yaml-0.3.1.tgz#98b59df9b35f9bbcc6a9c9428e7bd7a1cd757b22"
@@ -3439,10 +3500,10 @@ yakumo-publish-sync@^0.3.2:
   dependencies:
     axios "~1.1.3"
 
-yakumo-publish@^0.3.2:
-  version "0.3.2"
-  resolved "https://mirrors.cloud.tencent.com/npm/yakumo-publish/-/yakumo-publish-0.3.2.tgz#7e0de8c19d4a716e087a74767b7ff0397625a56f"
-  integrity sha512-ToerAzeclJQV1Pxyg/R4NWSS+SKn8ROhZxaS8swH1R/4SdA13wdRUOAxd2eLqMwdjEhsQk/ZRGDDfZ0ud8NQlg==
+yakumo-publish@^0.3.3:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/yakumo-publish/-/yakumo-publish-0.3.3.tgz#6b3bddd03764d09b29b08de86f8ea4fdc24ad1f7"
+  integrity sha512-RVpPGs3TvcR0TuKk1Hcxrtjny2KLxlrlnrLwTi2APfF08XeNAKV8g61YBR4fkX+gQfcJvYdaQG9+2XUbDrfx+g==
   dependencies:
     latest-version "^5.1.0"
     ora "^5.4.1"
@@ -3477,18 +3538,19 @@ yakumo-version@^0.3.2:
     kleur "^4.1.5"
     semver "^7.3.8"
 
-yakumo@^0.3.7:
-  version "0.3.7"
-  resolved "https://mirrors.cloud.tencent.com/npm/yakumo/-/yakumo-0.3.7.tgz#f4056b064f0e4b7fe7184e7a9a43b77dd7c24207"
-  integrity sha512-0BfEx66eePjR1sdcWLCAF45sMHmH6gYeBFN1fJyPbF8PnaABN3n6NKyqxIFKP7K4YePGtzCqGLcZOTnQlmLsYQ==
+yakumo@^0.3.8:
+  version "0.3.8"
+  resolved "https://registry.yarnpkg.com/yakumo/-/yakumo-0.3.8.tgz#d092d9f2e26d2e7d53b0231def61fcec42aaf043"
+  integrity sha512-daM7K/HvsrKiWI60eI71geeFTnXNbny+ak/9NSFp7f7zjpg2Uzb6z4D09+QGJm67kQ6UhFIQdxMP06zUCU725g==
   dependencies:
-    cosmokit "^1.3.3"
+    cosmokit "^1.4.0"
     detect-indent "^6.1.0"
     execa "^5.1.1"
     globby "^11.1.0"
     js-yaml "^4.1.0"
     kleur "^4.1.5"
     ora "^5.4.1"
+    picomatch "^2.3.1"
     prompts "^2.4.2"
     which-pm-runs "^1.1.0"
     yargs-parser "^21.1.1"

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../node_modules/monaco-editor/esm/vs/basic-languages/css/css.contribution.js"],
+  "sourcesContent": ["/*!-----------------------------------------------------------------------------\n * Copyright (c) Microsoft Corporation. All rights reserved.\n * Version: 0.34.1(547870b6881302c5b4ff32173c16d06009e3588f)\n * Released under the MIT license\n * https://github.com/microsoft/monaco-editor/blob/main/LICENSE.txt\n *-----------------------------------------------------------------------------*/\n\n// src/basic-languages/css/css.contribution.ts\nimport { registerLanguage } from \"../_.contribution.js\";\nregisterLanguage({\n  id: \"css\",\n  extensions: [\".css\"],\n  aliases: [\"CSS\", \"css\"],\n  mimetypes: [\"text/css\"],\n  loader: () => {\n    if (false) {\n      return new Promise((resolve, reject) => {\n        __require([\"vs/basic-languages/css/css\"], resolve, reject);\n      });\n    } else {\n      return import(\"./css.js\");\n    }\n  }\n});\n"],
+  "mappings": ";;;;;AASA,iBAAiB;AAAA,EACf,IAAI;AAAA,EACJ,YAAY,CAAC,MAAM;AAAA,EACnB,SAAS,CAAC,OAAO,KAAK;AAAA,EACtB,WAAW,CAAC,UAAU;AAAA,EACtB,QAAQ,MAAM;AACZ,QAAI,OAAO;AACT,aAAO,IAAI,QAAQ,CAAC,SAAS,WAAW;AACtC,kBAAU,CAAC,4BAA4B,GAAG,SAAS,MAAM;AAAA,MAC3D,CAAC;AAAA,IACH,OAAO;AACL,aAAO,OAAO;AAAA,IAChB;AAAA,EACF;AACF,CAAC;",
+  "names": []
+}

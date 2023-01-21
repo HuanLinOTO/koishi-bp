@@ -1,4 +1,4 @@
-host: 127.0.0.1
+host: localhost
 port: 5141
 maxPort: 5149
 plugins:
@@ -47,8 +47,10 @@ plugins:
     ~adapter-feishu: {}
     gocqhttp: {}
   ~blockly:f9lneh: {}
-  rr-image-censor:6wnjr3:
+  ~rr-image-censor:6wnjr3:
     offset: 65.99
   puppeteer:2oipri:
     headless: false
-  spring-festival-ui:zgr8sp: {}
+  ~spring-festival-ui:zgr8sp: {}
+  ~huanlin-welcome:qgs4qz: {}
+  vscode:ruohll: {}

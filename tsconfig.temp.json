@@ -2,10 +2,7 @@
   "files": [],
   "references": [
     {
-      "path": "./plugins/spring-festival-ui"
-    },
-    {
-      "path": "./plugins/market-info"
+      "path": "./plugins/vscode"
     }
   ]
 }

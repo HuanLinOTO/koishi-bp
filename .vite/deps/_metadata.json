@@ -1,57 +1,360 @@
 {
-  "hash": "5b050e27",
-  "browserHash": "aac3ddfc",
+  "hash": "87ed051a",
+  "browserHash": "7991d140",
   "optimized": {
     "vue": {
       "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "18a555df",
+      "fileHash": "a81f3eeb",
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../node_modules/vue-router/dist/vue-router.mjs",
       "file": "vue-router.js",
-      "fileHash": "99422c95",
+      "fileHash": "15f75a50",
       "needsInterop": false
     },
     "element-plus": {
       "src": "../../node_modules/element-plus/es/index.mjs",
       "file": "element-plus.js",
-      "fileHash": "59cd145d",
+      "fileHash": "b5d4c59f",
       "needsInterop": false
     },
     "@vueuse/core": {
       "src": "../../node_modules/@vueuse/core/index.mjs",
       "file": "@vueuse_core.js",
-      "fileHash": "dd1aab8f",
+      "fileHash": "51b9f985",
       "needsInterop": false
     },
     "@popperjs/core": {
       "src": "../../node_modules/@popperjs/core/dist/index.mjs",
       "file": "@popperjs_core.js",
-      "fileHash": "280abc66",
+      "fileHash": "f8625944",
       "needsInterop": false
     },
-    "d3-force": {
-      "src": "../../node_modules/d3-force/src/index.js",
-      "file": "d3-force.js",
-      "fileHash": "df2afdc6",
+    "marked": {
+      "src": "../../node_modules/marked/lib/marked.esm.js",
+      "file": "marked.js",
+      "fileHash": "bbb8c970",
       "needsInterop": false
     },
-    "semver": {
-      "src": "../../node_modules/semver/index.js",
-      "file": "semver.js",
-      "fileHash": "b2bacdd4",
+    "xss": {
+      "src": "../../node_modules/xss/lib/index.js",
+      "file": "xss.js",
+      "fileHash": "8b4f2b6f",
       "needsInterop": true
     },
-    "spark-md5": {
-      "src": "../../node_modules/spark-md5/spark-md5.js",
-      "file": "spark-md5.js",
-      "fileHash": "9e9dac62",
+    "@koishijs/client": {
+      "src": "../../node_modules/@koishijs/client/client/index.ts",
+      "file": "@koishijs_client.js",
+      "fileHash": "63f145be",
+      "needsInterop": false
+    },
+    "monaco-editor": {
+      "src": "../../node_modules/monaco-editor/esm/vs/editor/editor.main.js",
+      "file": "monaco-editor.js",
+      "fileHash": "0b2ad547",
+      "needsInterop": false
+    },
+    "language-detect": {
+      "src": "../../node_modules/language-detect/language-detect.js",
+      "file": "language-detect.js",
+      "fileHash": "e71c9cd5",
       "needsInterop": true
+    },
+    "monaco-editor/esm/vs/basic-languages/css/css.contribution": {
+      "src": "../../node_modules/monaco-editor/esm/vs/basic-languages/css/css.contribution.js",
+      "file": "monaco-editor_esm_vs_basic-languages_css_css__contribution.js",
+      "fileHash": "f59cedf1",
+      "needsInterop": false
+    },
+    "monaco-editor/esm/vs/basic-languages/xml/xml.contribution": {
+      "src": "../../node_modules/monaco-editor/esm/vs/basic-languages/xml/xml.contribution.js",
+      "file": "monaco-editor_esm_vs_basic-languages_xml_xml__contribution.js",
+      "fileHash": "b3a55f21",
+      "needsInterop": false
+    },
+    "monaco-editor/esm/vs/basic-languages/javascript/javascript.contribution": {
+      "src": "../../node_modules/monaco-editor/esm/vs/basic-languages/javascript/javascript.contribution.js",
+      "file": "monaco-editor_esm_vs_basic-languages_javascript_javascript__contribution.js",
+      "fileHash": "954fae54",
+      "needsInterop": false
     }
   },
   "chunks": {
+    "vb-IFXOXW4I": {
+      "file": "vb-IFXOXW4I.js"
+    },
+    "xml-AA62VV26": {
+      "file": "xml-AA62VV26.js"
+    },
+    "yaml-5ELP3XWY": {
+      "file": "yaml-5ELP3XWY.js"
+    },
+    "cssMode-HPLSFNZT": {
+      "file": "cssMode-HPLSFNZT.js"
+    },
+    "htmlMode-JF3DFAJT": {
+      "file": "htmlMode-JF3DFAJT.js"
+    },
+    "jsonMode-WHASPYLH": {
+      "file": "jsonMode-WHASPYLH.js"
+    },
+    "tsMode-2Y3T4Z7O": {
+      "file": "tsMode-2Y3T4Z7O.js"
+    },
+    "sophia-LN53XOFO": {
+      "file": "sophia-LN53XOFO.js"
+    },
+    "sparql-6FND6SFM": {
+      "file": "sparql-6FND6SFM.js"
+    },
+    "sql-36FCZAYU": {
+      "file": "sql-36FCZAYU.js"
+    },
+    "st-5HAKOMHL": {
+      "file": "st-5HAKOMHL.js"
+    },
+    "swift-QWORGSDM": {
+      "file": "swift-QWORGSDM.js"
+    },
+    "systemverilog-7EVURPTK": {
+      "file": "systemverilog-7EVURPTK.js"
+    },
+    "tcl-FFATDGPX": {
+      "file": "tcl-FFATDGPX.js"
+    },
+    "twig-NALDKHNU": {
+      "file": "twig-NALDKHNU.js"
+    },
+    "ruby-KNP4IY7M": {
+      "file": "ruby-KNP4IY7M.js"
+    },
+    "rust-72ZZKLPK": {
+      "file": "rust-72ZZKLPK.js"
+    },
+    "sb-IKPFM2DY": {
+      "file": "sb-IKPFM2DY.js"
+    },
+    "scala-2G6O3YI4": {
+      "file": "scala-2G6O3YI4.js"
+    },
+    "scheme-VGU2DUTB": {
+      "file": "scheme-VGU2DUTB.js"
+    },
+    "scss-FKUDVE4Q": {
+      "file": "scss-FKUDVE4Q.js"
+    },
+    "shell-6I4RZ3B2": {
+      "file": "shell-6I4RZ3B2.js"
+    },
+    "solidity-TA6J236D": {
+      "file": "solidity-TA6J236D.js"
+    },
+    "pug-5DQ3UBML": {
+      "file": "pug-5DQ3UBML.js"
+    },
+    "python-MEHE5MMM": {
+      "file": "python-MEHE5MMM.js"
+    },
+    "qsharp-E27W56XR": {
+      "file": "qsharp-E27W56XR.js"
+    },
+    "r-XY4HYUWF": {
+      "file": "r-XY4HYUWF.js"
+    },
+    "razor-KS2VWFSF": {
+      "file": "razor-KS2VWFSF.js"
+    },
+    "redis-QW4HN3YJ": {
+      "file": "redis-QW4HN3YJ.js"
+    },
+    "redshift-VXVRNVKJ": {
+      "file": "redshift-VXVRNVKJ.js"
+    },
+    "restructuredtext-WYYLNZBL": {
+      "file": "restructuredtext-WYYLNZBL.js"
+    },
+    "perl-XPLTM27B": {
+      "file": "perl-XPLTM27B.js"
+    },
+    "pgsql-P2K6PWTI": {
+      "file": "pgsql-P2K6PWTI.js"
+    },
+    "php-CJMLDTCI": {
+      "file": "php-CJMLDTCI.js"
+    },
+    "pla-GHZSCEIJ": {
+      "file": "pla-GHZSCEIJ.js"
+    },
+    "postiats-BXX5MPIJ": {
+      "file": "postiats-BXX5MPIJ.js"
+    },
+    "powerquery-MC3ES6LP": {
+      "file": "powerquery-MC3ES6LP.js"
+    },
+    "powershell-I3JT7O3N": {
+      "file": "powershell-I3JT7O3N.js"
+    },
+    "protobuf-ZG343Q2O": {
+      "file": "protobuf-ZG343Q2O.js"
+    },
+    "m3-OZR5A6LR": {
+      "file": "m3-OZR5A6LR.js"
+    },
+    "markdown-YJG4MVAB": {
+      "file": "markdown-YJG4MVAB.js"
+    },
+    "mips-T5Z5KDJ4": {
+      "file": "mips-T5Z5KDJ4.js"
+    },
+    "msdax-5S7ADOOF": {
+      "file": "msdax-5S7ADOOF.js"
+    },
+    "mysql-AB2KPJ45": {
+      "file": "mysql-AB2KPJ45.js"
+    },
+    "objective-c-4CVCKTBK": {
+      "file": "objective-c-4CVCKTBK.js"
+    },
+    "pascal-RQRRCR3F": {
+      "file": "pascal-RQRRCR3F.js"
+    },
+    "pascaligo-JVWXIBRI": {
+      "file": "pascaligo-JVWXIBRI.js"
+    },
+    "typescript-KFPFXSQ2": {
+      "file": "typescript-KFPFXSQ2.js"
+    },
+    "javascript-BRECINNG": {
+      "file": "javascript-BRECINNG.js"
+    },
+    "chunk-PZ2H4ZF6": {
+      "file": "chunk-PZ2H4ZF6.js"
+    },
+    "julia-ZW6UHPEW": {
+      "file": "julia-ZW6UHPEW.js"
+    },
+    "kotlin-EGBAKHKD": {
+      "file": "kotlin-EGBAKHKD.js"
+    },
+    "less-T5LSLUCR": {
+      "file": "less-T5LSLUCR.js"
+    },
+    "lexon-SQGXBJLT": {
+      "file": "lexon-SQGXBJLT.js"
+    },
+    "lua-WDTYG2HE": {
+      "file": "lua-WDTYG2HE.js"
+    },
+    "liquid-EAQYRLOV": {
+      "file": "liquid-EAQYRLOV.js"
+    },
+    "freemarker2-DJUQQLMN": {
+      "file": "freemarker2-DJUQQLMN.js"
+    },
+    "go-FVECSEFN": {
+      "file": "go-FVECSEFN.js"
+    },
+    "graphql-J4THKFBG": {
+      "file": "graphql-J4THKFBG.js"
+    },
+    "handlebars-CKCM347U": {
+      "file": "handlebars-CKCM347U.js"
+    },
+    "hcl-7PPFWHXB": {
+      "file": "hcl-7PPFWHXB.js"
+    },
+    "html-CMFLXTBX": {
+      "file": "html-CMFLXTBX.js"
+    },
+    "ini-PQHY3H53": {
+      "file": "ini-PQHY3H53.js"
+    },
+    "java-LEPFOYAK": {
+      "file": "java-LEPFOYAK.js"
+    },
+    "css-IULEZ2VO": {
+      "file": "css-IULEZ2VO.js"
+    },
+    "cypher-RXMGCSLL": {
+      "file": "cypher-RXMGCSLL.js"
+    },
+    "dart-KJJRTPCO": {
+      "file": "dart-KJJRTPCO.js"
+    },
+    "dockerfile-YNOGRTWG": {
+      "file": "dockerfile-YNOGRTWG.js"
+    },
+    "ecl-YTB2XZKT": {
+      "file": "ecl-YTB2XZKT.js"
+    },
+    "elixir-NWZXBDPY": {
+      "file": "elixir-NWZXBDPY.js"
+    },
+    "flow9-PMATS7GH": {
+      "file": "flow9-PMATS7GH.js"
+    },
+    "fsharp-QU2WMF4X": {
+      "file": "fsharp-QU2WMF4X.js"
+    },
+    "bat-UN2ORKG3": {
+      "file": "bat-UN2ORKG3.js"
+    },
+    "bicep-XG7G22EO": {
+      "file": "bicep-XG7G22EO.js"
+    },
+    "cameligo-UCQGDVRY": {
+      "file": "cameligo-UCQGDVRY.js"
+    },
+    "clojure-L7KSGMKZ": {
+      "file": "clojure-L7KSGMKZ.js"
+    },
+    "coffee-36LDYEWW": {
+      "file": "coffee-36LDYEWW.js"
+    },
+    "cpp-OHF4WV6L": {
+      "file": "cpp-OHF4WV6L.js"
+    },
+    "csharp-K4WM2RYU": {
+      "file": "csharp-K4WM2RYU.js"
+    },
+    "csp-EQSGBEHJ": {
+      "file": "csp-EQSGBEHJ.js"
+    },
+    "chunk-GFSOWMHB": {
+      "file": "chunk-GFSOWMHB.js"
+    },
+    "chunk-CYUA4BKW": {
+      "file": "chunk-CYUA4BKW.js"
+    },
+    "chunk-OAOQHMXZ": {
+      "file": "chunk-OAOQHMXZ.js"
+    },
+    "chunk-T7AI77SE": {
+      "file": "chunk-T7AI77SE.js"
+    },
+    "chunk-IGEGLVX3": {
+      "file": "chunk-IGEGLVX3.js"
+    },
+    "chunk-TBHTMUSS": {
+      "file": "chunk-TBHTMUSS.js"
+    },
+    "abap-DQJZJAHI": {
+      "file": "abap-DQJZJAHI.js"
+    },
+    "apex-RL2E7XEG": {
+      "file": "apex-RL2E7XEG.js"
+    },
+    "azcli-GVYX5GCP": {
+      "file": "azcli-GVYX5GCP.js"
+    },
+    "chunk-LG3NAGXD": {
+      "file": "chunk-LG3NAGXD.js"
+    },
+    "chunk-WEAM3IG3": {
+      "file": "chunk-WEAM3IG3.js"
+    },
     "chunk-2H4U4UX2": {
       "file": "chunk-2H4U4UX2.js"
     },
@@ -61,8 +364,14 @@
     "chunk-NBS5D3UL": {
       "file": "chunk-NBS5D3UL.js"
     },
-    "chunk-TWLJ45QX": {
-      "file": "chunk-TWLJ45QX.js"
+    "chunk-L2UYTJ4E": {
+      "file": "chunk-L2UYTJ4E.js"
+    },
+    "chunk-4D67HUGG": {
+      "file": "chunk-4D67HUGG.js"
+    },
+    "chunk-FZ7BPVOU": {
+      "file": "chunk-FZ7BPVOU.js"
     }
   }
 }

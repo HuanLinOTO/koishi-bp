@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-spring-festival-ui",
   "description": "给你的控制台上一个新春皮肤吧！",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -15,6 +15,13 @@
     "koishi",
     "plugin"
   ],
+  "devDependencies": {
+    "@koishijs/client": "^4.8.1",
+    "@koishijs/plugin-console": "^4.8.1",
+    "@types/node": "^17.0.45",
+    "koishi": "^4.11.1",
+    "typescript": "^4.9.4"
+  },
   "peerDependencies": {
     "koishi": "^4.11.1"
   }
