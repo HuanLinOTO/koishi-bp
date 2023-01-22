@@ -1,6 +1,6 @@
 {
-  "name": "koishi-plugin-vscode",
-  "description": "在控制台里跑VSCode",
+  "name": "koishi-plugin-editfile",
+  "description": "在控制台里编辑文件",
   "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",

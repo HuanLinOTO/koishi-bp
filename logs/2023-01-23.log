@@ -1,0 +1,46 @@
+[38;5;8m2023-01-23 00:00:39[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:02:06[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:03:48[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:04:18[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:06:50[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\editfile\src\index.ts[0m
+[38;5;8m2023-01-23 00:08:19[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:08:28[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\editfile\src\index.ts[0m
+[38;5;8m2023-01-23 00:10:18[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:10:43[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:13:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\editfile\src\index.ts[0m
+[38;5;8m2023-01-23 00:13:41[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:14:12[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:14:44[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:15:19[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\editfile\src\index.ts[0m
+[38;5;8m2023-01-23 00:17:01[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:18:46[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:19:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\editfile\src\index.ts[0m
+[38;5;8m2023-01-23 00:23:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\editfile\src\index.ts[0m
+[38;5;8m2023-01-23 00:24:18[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:25:28[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:25:34[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:26:44[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:34:11[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:36:32[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:37:33[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:37:44[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:38:27[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:38:52[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:39:14[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:40:15[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:41:15[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:43:57[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:44:47[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:45:48[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:46:13[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:46:22[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:46:48[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:48:01[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:49:51[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:57:26[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:57:31[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 00:58:22[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 01:01:30[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 01:01:53[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 01:02:51[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-23 01:03:24[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak

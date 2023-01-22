@@ -3,7 +3,7 @@ import { Context, Schema } from 'koishi'
 import {} from '@koishijs/plugin-console'
 import scandir from './scandir'
 import { scanResultItem } from './scandir'
-import { readFile, writeFile } from 'fs/promises'
+import { mkdir, readFile, writeFile } from 'fs/promises'
 
 export const name = 'spring-festival-ui'
 export const usage = `
@@ -16,6 +16,10 @@ interface saveFileEventsArg {
   path: string,
   content: string
 }
+interface addFolderEventsArg {
+  path: string,
+  name: string 
+}
 
 declare module '@koishijs/plugin-console' {
   interface Events {
@@ -24,6 +28,8 @@ declare module '@koishijs/plugin-console' {
     'editfile-getFileList'(): Promise<Array<scanResultItem>>
     'editfile-getFile'(path: string): Promise<string>
     'editfile-saveFile'(arg: saveFileEventsArg): Promise<undefined>
+    'editfile-addFolder'(arg: addFolderEventsArg): Promise<undefined>
+
   } 
 }
 
@@ -52,8 +58,10 @@ export function apply(ctx: Context,config: Config) {
   })
   ctx.console.addListener('editfile-saveFile',async (arg) => {
     await writeFile(arg.path,arg.content)
-    // console.log(path);
-    
+    return undefined;
+  })
+  ctx.console.addListener('editfile-addFolder',async (arg) => {
+    await mkdir(arg.path+"/"+arg.name);
     return undefined;
   })
 }

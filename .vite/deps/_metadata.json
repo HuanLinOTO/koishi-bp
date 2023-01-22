@@ -1,90 +1,81 @@
 {
-  "hash": "87ed051a",
-  "browserHash": "7991d140",
+  "hash": "b4dd5b58",
+  "browserHash": "fba05c73",
   "optimized": {
     "vue": {
       "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "a81f3eeb",
+      "fileHash": "4d8d701a",
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../node_modules/vue-router/dist/vue-router.mjs",
       "file": "vue-router.js",
-      "fileHash": "15f75a50",
+      "fileHash": "3284a2d8",
       "needsInterop": false
     },
     "element-plus": {
       "src": "../../node_modules/element-plus/es/index.mjs",
       "file": "element-plus.js",
-      "fileHash": "b5d4c59f",
+      "fileHash": "5c79a5e1",
       "needsInterop": false
     },
     "@vueuse/core": {
       "src": "../../node_modules/@vueuse/core/index.mjs",
       "file": "@vueuse_core.js",
-      "fileHash": "51b9f985",
+      "fileHash": "d4572a54",
       "needsInterop": false
     },
     "@popperjs/core": {
       "src": "../../node_modules/@popperjs/core/dist/index.mjs",
       "file": "@popperjs_core.js",
-      "fileHash": "f8625944",
+      "fileHash": "7e356c7b",
       "needsInterop": false
     },
     "marked": {
       "src": "../../node_modules/marked/lib/marked.esm.js",
       "file": "marked.js",
-      "fileHash": "bbb8c970",
+      "fileHash": "440c93a8",
       "needsInterop": false
     },
     "xss": {
       "src": "../../node_modules/xss/lib/index.js",
       "file": "xss.js",
-      "fileHash": "8b4f2b6f",
+      "fileHash": "aa748820",
       "needsInterop": true
     },
     "@koishijs/client": {
       "src": "../../node_modules/@koishijs/client/client/index.ts",
       "file": "@koishijs_client.js",
-      "fileHash": "63f145be",
+      "fileHash": "a36fafda",
       "needsInterop": false
     },
     "monaco-editor": {
       "src": "../../node_modules/monaco-editor/esm/vs/editor/editor.main.js",
       "file": "monaco-editor.js",
-      "fileHash": "0b2ad547",
+      "fileHash": "a78c3b8c",
       "needsInterop": false
-    },
-    "language-detect": {
-      "src": "../../node_modules/language-detect/language-detect.js",
-      "file": "language-detect.js",
-      "fileHash": "e71c9cd5",
-      "needsInterop": true
     },
     "monaco-editor/esm/vs/basic-languages/css/css.contribution": {
       "src": "../../node_modules/monaco-editor/esm/vs/basic-languages/css/css.contribution.js",
       "file": "monaco-editor_esm_vs_basic-languages_css_css__contribution.js",
-      "fileHash": "f59cedf1",
+      "fileHash": "456006ea",
       "needsInterop": false
     },
     "monaco-editor/esm/vs/basic-languages/xml/xml.contribution": {
       "src": "../../node_modules/monaco-editor/esm/vs/basic-languages/xml/xml.contribution.js",
       "file": "monaco-editor_esm_vs_basic-languages_xml_xml__contribution.js",
-      "fileHash": "b3a55f21",
+      "fileHash": "7ba89e50",
       "needsInterop": false
     },
     "monaco-editor/esm/vs/basic-languages/javascript/javascript.contribution": {
       "src": "../../node_modules/monaco-editor/esm/vs/basic-languages/javascript/javascript.contribution.js",
       "file": "monaco-editor_esm_vs_basic-languages_javascript_javascript__contribution.js",
-      "fileHash": "954fae54",
+      "fileHash": "2af21152",
       "needsInterop": false
     }
   },
   "chunks": {
-    "vb-IFXOXW4I": {
-      "file": "vb-IFXOXW4I.js"
-    },
     "xml-AA62VV26": {
       "file": "xml-AA62VV26.js"
     },
@@ -102,9 +93,6 @@
     },
     "tsMode-2Y3T4Z7O": {
       "file": "tsMode-2Y3T4Z7O.js"
-    },
-    "sophia-LN53XOFO": {
-      "file": "sophia-LN53XOFO.js"
     },
     "sparql-6FND6SFM": {
       "file": "sparql-6FND6SFM.js"
@@ -127,8 +115,8 @@
     "twig-NALDKHNU": {
       "file": "twig-NALDKHNU.js"
     },
-    "ruby-KNP4IY7M": {
-      "file": "ruby-KNP4IY7M.js"
+    "vb-IFXOXW4I": {
+      "file": "vb-IFXOXW4I.js"
     },
     "rust-72ZZKLPK": {
       "file": "rust-72ZZKLPK.js"
@@ -151,8 +139,8 @@
     "solidity-TA6J236D": {
       "file": "solidity-TA6J236D.js"
     },
-    "pug-5DQ3UBML": {
-      "file": "pug-5DQ3UBML.js"
+    "sophia-LN53XOFO": {
+      "file": "sophia-LN53XOFO.js"
     },
     "python-MEHE5MMM": {
       "file": "python-MEHE5MMM.js"
@@ -175,8 +163,8 @@
     "restructuredtext-WYYLNZBL": {
       "file": "restructuredtext-WYYLNZBL.js"
     },
-    "perl-XPLTM27B": {
-      "file": "perl-XPLTM27B.js"
+    "ruby-KNP4IY7M": {
+      "file": "ruby-KNP4IY7M.js"
     },
     "pgsql-P2K6PWTI": {
       "file": "pgsql-P2K6PWTI.js"
@@ -199,8 +187,8 @@
     "protobuf-ZG343Q2O": {
       "file": "protobuf-ZG343Q2O.js"
     },
-    "m3-OZR5A6LR": {
-      "file": "m3-OZR5A6LR.js"
+    "pug-5DQ3UBML": {
+      "file": "pug-5DQ3UBML.js"
     },
     "markdown-YJG4MVAB": {
       "file": "markdown-YJG4MVAB.js"
@@ -223,14 +211,11 @@
     "pascaligo-JVWXIBRI": {
       "file": "pascaligo-JVWXIBRI.js"
     },
-    "typescript-KFPFXSQ2": {
-      "file": "typescript-KFPFXSQ2.js"
+    "perl-XPLTM27B": {
+      "file": "perl-XPLTM27B.js"
     },
     "javascript-BRECINNG": {
       "file": "javascript-BRECINNG.js"
-    },
-    "chunk-PZ2H4ZF6": {
-      "file": "chunk-PZ2H4ZF6.js"
     },
     "julia-ZW6UHPEW": {
       "file": "julia-ZW6UHPEW.js"
@@ -250,8 +235,8 @@
     "liquid-EAQYRLOV": {
       "file": "liquid-EAQYRLOV.js"
     },
-    "freemarker2-DJUQQLMN": {
-      "file": "freemarker2-DJUQQLMN.js"
+    "m3-OZR5A6LR": {
+      "file": "m3-OZR5A6LR.js"
     },
     "go-FVECSEFN": {
       "file": "go-FVECSEFN.js"
@@ -274,8 +259,11 @@
     "java-LEPFOYAK": {
       "file": "java-LEPFOYAK.js"
     },
-    "css-IULEZ2VO": {
-      "file": "css-IULEZ2VO.js"
+    "typescript-KFPFXSQ2": {
+      "file": "typescript-KFPFXSQ2.js"
+    },
+    "chunk-PZ2H4ZF6": {
+      "file": "chunk-PZ2H4ZF6.js"
     },
     "cypher-RXMGCSLL": {
       "file": "cypher-RXMGCSLL.js"
@@ -298,8 +286,8 @@
     "fsharp-QU2WMF4X": {
       "file": "fsharp-QU2WMF4X.js"
     },
-    "bat-UN2ORKG3": {
-      "file": "bat-UN2ORKG3.js"
+    "freemarker2-DJUQQLMN": {
+      "file": "freemarker2-DJUQQLMN.js"
     },
     "bicep-XG7G22EO": {
       "file": "bicep-XG7G22EO.js"
@@ -321,6 +309,9 @@
     },
     "csp-EQSGBEHJ": {
       "file": "csp-EQSGBEHJ.js"
+    },
+    "css-IULEZ2VO": {
+      "file": "css-IULEZ2VO.js"
     },
     "chunk-GFSOWMHB": {
       "file": "chunk-GFSOWMHB.js"
@@ -348,6 +339,9 @@
     },
     "azcli-GVYX5GCP": {
       "file": "azcli-GVYX5GCP.js"
+    },
+    "bat-UN2ORKG3": {
+      "file": "bat-UN2ORKG3.js"
     },
     "chunk-LG3NAGXD": {
       "file": "chunk-LG3NAGXD.js"
