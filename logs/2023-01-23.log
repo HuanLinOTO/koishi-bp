@@ -299,3 +299,31 @@
 [38;5;8m2023-01-23 21:21:03[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
 [38;5;8m2023-01-23 21:21:03[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
 [38;5;8m2023-01-23 21:21:03[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-23 21:21:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocq-session-uploader:3o1mxt[0m
+[38;5;8m2023-01-23 21:45:55[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 21:46:31[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 21:49:06[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 21:49:09[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 21:49:16[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 21:53:50[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 21:54:31[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 21:55:03[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 21:55:08[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 21:59:16[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 21:59:25[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:02:00[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:02:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:02:09[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:02:28[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:03:12[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m66[39m, file: [32m'D:\\Project\\koishinew\\plugins\\gocq-session-uploader\\src\\index.ts'[39m, length: [33m2[39m, line: [33m21[39m, lineText: [32m"    'gocq-session-uploader-getAccountsList'(): Promise<Map<string,>>"[39m, namespace: [32m''[39m, suggestion: [32m''[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Unexpected ">>"'[39m }
+[38;5;8m2023-01-23 22:03:24[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:04:00[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:11:00[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:14:00[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:14:36[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:14:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:15:04[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:15:07[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:15:27[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:15:41[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-23 22:17:32[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m

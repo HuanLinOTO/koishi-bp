@@ -12,7 +12,10 @@ export const usage = `
 「删除欢迎词」即可删除当前群的欢迎词
 `
 
-export const Config: Schema<Config> = Schema.object({})
+export const Config: Schema<Config> = Schema.object({
+  isAt: Schema.boolean().default(true).description("at新进群的"),
+  superusers: Schema.array(Schema.string()).description("超管列表")
+})
 
 declare module "koishi" {
   interface Tables {
@@ -30,6 +33,10 @@ export function apply(ctx: Context) {
     id: "integer",
     words: "string"
   })
+
+  const guildRequestList = [];
+
+  var timeInterval = {};
 
   ctx.command("设定欢迎词").action(async ({ session }) => {
     // console.log();
@@ -89,18 +96,68 @@ export function apply(ctx: Context) {
     // session
   })
   ctx.on("guild-member-added",async (session)=>{
+    // console.log(timeInterval[session.platform+session.guildId],timeInterval[session.platform+session.guildId] == null);
+    
+    if(timeInterval[session.platform+session.guildId] === null) return;
+    timeInterval[session.platform+session.guildId] = null
+    setTimeout(()=>{
+      delete timeInterval[session.platform+session.guildId];
+    },1000*30)
     const group = session.guildId || session.channelId;
     const words = (await ctx.database.get("huanlin-welcome",{
       id: Number(group),
     }))[0].words
     const result = []
+    result.push(<at id={session.userId}></at>)
     for (const word of words.split("\r\n")) {
       result.push(<p>{word}</p>)
     }
     session.send(<message>
       {...result}
     </message>)
-    
     // session.bot.sendMessage(session.channelId,words[0])
   })
+  ctx.on("guild-member-request",async (session)=>{
+    var snd = await session.bot.sendMessage(session.guildId,<message>
+      <p>收到一份来自 { session.userId } 的请求（DEV）</p>
+      <p>{ session.elements[0].attrs.content }</p>
+    </message>)
+    guildRequestList.push({
+      user: session.userId,
+      requestId: session.messageId,
+      messageId: snd[0]
+    })
+  })
+
+  ctx.on("message",async (session) => {
+    if(session.quote) {
+      const tmp = [];
+      for (const iterator of guildRequestList) {
+        if(session.quote.messageId != iterator.messageId) {
+          tmp.push(iterator);
+          continue;
+        }
+        var content = session.elements[session.elements.length - 1].attrs.content.replace(/^\s+|\s+$/g, '') 
+        if(content == "y") {
+          if ((await ctx.database.getUser(session.platform,session.userId)).authority < 3)  {
+            session.send("权限不足")
+            tmp.push(iterator)
+            return;
+          }
+          session.bot.handleGuildMemberRequest(iterator.requestId,true)
+        } else if(content == "n") {
+          if ((await ctx.database.getUser(session.platform,session.userId)).authority < 3)  {
+            session.send("权限不足")
+            tmp.push(iterator)
+            return;
+          }
+          session.bot.handleGuildMemberRequest(iterator.requestId,false)
+        } else {
+          tmp.push(iterator)
+          session.send(<>未能匹配对于 { iterator.requestId } 的入群验证操作, 只能接受 y/n</>)
+        }
+      }
+    }
+  })
 }
+

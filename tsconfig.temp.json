@@ -2,7 +2,7 @@
   "files": [],
   "references": [
     {
-      "path": "./plugins/editor"
+      "path": "./plugins/huanlin-welcome"
     }
   ]
 }

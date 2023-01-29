@@ -2,10 +2,25 @@ import { resolve } from 'path'
 import { Context, Schema } from 'koishi'
 import {} from '@koishijs/plugin-console'
 
+import fse from 'fs-extra'
+import { access, readdir } from "fs/promises"
+
 export const name = 'gocq-session-uploader'
 export const usage = `
-只需要启用此插件即可 提供了一个嵌入在控制台 Manaco Editor(Vscode)
+只需要启用此插件即可
 `
+
+interface accountInfo {
+  session: boolean
+  device: boolean
+}
+
+declare module '@koishijs/plugin-console' {
+  interface Events {
+    'gocq-session-uploader-getAccountsList'(): Promise<Map<string,accountInfo>>
+    'gocq-session-set-file'(arg): Promise<undefined>
+  } 
+}
 
 export interface Config {
   ignoreScan: Array<string>
@@ -21,5 +36,31 @@ export function apply(ctx: Context,config: Config) {
       dev: resolve(__dirname, '../client/index.ts'),
       prod: resolve(__dirname, '../dist'),
     })
+  })
+  ctx.console.addListener('gocq-session-uploader-getAccountsList',async () => {
+    const accounts = await readdir("accounts"); 
+    // @ts-ignore
+    var result:Map<string,accountInfo> = {};
+    for (const account of accounts) {
+      
+      result[account] = {};
+      try {
+        await access(`accounts/${account}/session.token`)
+        result[account].session = true;
+      } catch {
+        result[account].session = false;
+      }
+      try {
+        await access(`accounts/${account}/device.json`)
+        result[account].device = true;
+      } catch {
+        result[account].device = false;
+      }
+    }
+    return result;
+  })
+  ctx.console.addListener('gocq-session-set-file',async (arg) => {
+    const { account,type } = arg;
+    return undefined;
   })
 } 

@@ -1,0 +1,24 @@
+[38;5;8m2023-01-25 00:27:32[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-25 00:30:24[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-25 00:30:44[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-25 00:30:50[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-25 00:31:10[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-25 00:31:13[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-25 00:31:15[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-25 00:31:25[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-25 00:31:29[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-25 00:32:33[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-25 00:32:39[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-25 00:32:46[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-25 00:32:55[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak
+[38;5;8m2023-01-25 00:33:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-25 00:34:14[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\gocq-session-uploader\src\index.ts[0m
+[38;5;8m2023-01-25 08:08:30[0m [W] [38;5;171;1monebot[0m Error: Error with request get_msg, args: {"message_id":"-36224654"}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:572:20)
+                            at OneBotBot.getMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\base.ts:21:18)
+                            at adaptMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:92:20)
+                            at adaptSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:154:5)
+                            at dispatchSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:141:19)
+[38;5;8m2023-01-25 10:11:16[0m [W] [38;5;78;1mapp[0m max listener count (64) for event <ready> exceeded, which may be caused by a memory leak

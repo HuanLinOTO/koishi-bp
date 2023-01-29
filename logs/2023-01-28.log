@@ -1,0 +1,815 @@
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.2[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-28 21:46:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-28 21:46:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-28 21:46:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-28 21:46:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-28 21:46:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-28 21:46:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-28 21:46:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-28 21:46:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78meditfile:r5cmr0[0m
+[38;5;8m2023-01-28 21:46:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-welcome:qgs4qz[0m
+[38;5;8m2023-01-28 21:46:16[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "editfile"
+[38;5;8m2023-01-28 21:46:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78meditor:p7tj3h[0m
+[38;5;8m2023-01-28 21:46:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocq-session-uploader:3o1mxt[0m
+[38;5;8m2023-01-28 21:46:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot:ru8o4v[0m
+[38;5;8m2023-01-28 21:46:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchat:kneswj[0m
+[38;5;8m2023-01-28 21:46:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-28 21:46:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-28 21:46:17[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-28 21:46:17[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5141[0m
+[38;5;8m2023-01-28 21:46:17[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-28 21:46:17[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-28 21:46:17[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-28 21:46:19[0m [W] [38;5;32;1mgocqhttp[0m 账号密码未配置, 将使用二维码登录. 
+[38;5;8m2023-01-28 21:46:23[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: 到底需要多大显存才可以确保sovits推理不会爆显存（
+[38;5;8m2023-01-28 21:46:25[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: [图片]
+[38;5;8m2023-01-28 21:46:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 21:47:16[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 21:47:58[0m [D] [38;5;113;1mmessage[0m [svc] 邢浩: 这个是完整报错（发送日志没搞明白 [图片] ）
+[38;5;8m2023-01-28 21:48:01[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: [图片]
+[38;5;8m2023-01-28 21:48:20[0m [E] [38;5;32;1mgocqhttp[0m 二维码过期
+[38;5;8m2023-01-28 21:50:24[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.2[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-28 21:50:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-28 21:50:26[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-welcome:qgs4qz[0m
+[38;5;8m2023-01-28 21:50:26[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78meditfile:r5cmr0[0m
+[38;5;8m2023-01-28 21:50:26[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "editfile"
+[38;5;8m2023-01-28 21:50:26[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78meditor:p7tj3h[0m
+[38;5;8m2023-01-28 21:50:26[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocq-session-uploader:3o1mxt[0m
+[38;5;8m2023-01-28 21:50:26[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot:ru8o4v[0m
+[38;5;8m2023-01-28 21:50:26[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchat:kneswj[0m
+[38;5;8m2023-01-28 21:50:26[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-28 21:50:26[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5141[0m
+[38;5;8m2023-01-28 21:50:26[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-28 21:50:26[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-28 21:50:26[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-28 21:50:27[0m [W] [38;5;32;1mgocqhttp[0m 账号密码未配置, 将使用二维码登录. 
+[38;5;8m2023-01-28 21:50:42[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 错误的
+[38;5;8m2023-01-28 21:50:43[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 前几天狐和我打游戏的时候还唠过这事
+[38;5;8m2023-01-28 21:50:47[0m [W] [38;5;78;1mapp[0m TypeError: Cannot read properties of undefined (reading 'words')
+                            at Session2.<anonymous> (d:\Project\koishinew\plugins\huanlin-welcome\src\index.tsx:100:12)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[38;5;8m2023-01-28 21:50:47[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: [图片]
+[38;5;8m2023-01-28 21:50:47[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 花园百合铃: 欢迎~
+[38;5;8m2023-01-28 21:50:47[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] nai: 三年二班 @  同学！你妈妈拿了两罐开黑牛奶！要给你！
+[38;5;8m2023-01-28 21:50:52[0m [D] [38;5;113;1mmessage[0m [svc] 红血球AE3803: @ @ 要不精简下入群欢迎
+[38;5;8m2023-01-28 21:50:52[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 君主立宪
+[38;5;8m2023-01-28 21:51:00[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ 在写节流了
+[38;5;8m2023-01-28 21:51:10[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: @ 这种拒绝
+[38;5;8m2023-01-28 21:51:11[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 30s内只会发一条2
+[38;5;8m2023-01-28 21:51:16[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ 啥
+[38;5;8m2023-01-28 21:51:22[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 111111的是我测试号
+[38;5;8m2023-01-28 21:51:31[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 给个管理让我看看这群小可爱都用什么理由进群
+[38;5;8m2023-01-28 21:51:37[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: [图片]
+[38;5;8m2023-01-28 21:51:41[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ 这个bot
+[38;5;8m2023-01-28 21:51:42[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: [图片]
+[38;5;8m2023-01-28 21:51:45[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 会转发的
+[38;5;8m2023-01-28 21:51:48[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 还在写
+[38;5;8m2023-01-28 21:52:19[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: mfa可整死我了
+[38;5;8m2023-01-28 21:52:29[0m [E] [38;5;32;1mgocqhttp[0m 二维码过期
+[38;5;8m2023-01-28 21:52:36[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 21:53:15[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 21:53:16[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: [图片]
+[38;5;8m2023-01-28 21:53:24[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ 测
+[38;5;8m2023-01-28 21:53:24[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: [图片]
+[38;5;8m2023-01-28 21:53:29[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: 隔壁转的
+[38;5;8m2023-01-28 21:53:39[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 逆天
+[38;5;8m2023-01-28 21:53:41[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 报个到，隔壁过来的，
+[38;5;8m2023-01-28 21:53:47[0m [D] [38;5;113;1mmessage[0m [svc] zwh1997104: 尴尬了，我是3.9的python
+[38;5;8m2023-01-28 21:53:57[0m [D] [38;5;113;1mmessage[0m [svc] 战五渣~送死党~~: 咦，怎么突然被另一个群踢了
+[38;5;8m2023-01-28 21:54:00[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 喔mfa根本没法运行，跟我说Bio.pairwise2已被弃用
+[38;5;8m2023-01-28 21:54:01[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 21:54:08[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: [图片]
+[38;5;8m2023-01-28 21:54:15[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 然后就卡这儿了
+[38;5;8m2023-01-28 21:54:58[0m [D] [38;5;113;1mmessage[0m [svc] 小狼: 记得炼丹前拜九尾狐
+[38;5;8m2023-01-28 21:55:03[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 北寄: nai big
+[38;5;8m2023-01-28 21:55:04[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] Loading's bot (经常死机): 在画了在画了，不过前面还有 1224 个稿……
+[38;5;8m2023-01-28 21:55:04[0m [D] [38;5;113;1mmessage[0m [svc] 小狼: 炼一半了就没用了
+[38;5;8m2023-01-28 21:55:06[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 记得炼丹前拜九尾狐
+[38;5;8m2023-01-28 21:55:10[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 我好像知道狐为啥转群主了
+[38;5;8m2023-01-28 21:55:10[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 北寄: 额
+[38;5;8m2023-01-28 21:55:14[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: @ @ 来音趴
+[38;5;8m2023-01-28 21:55:15[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: [图片]
+[38;5;8m2023-01-28 21:55:21[0m [D] [38;5;113;1mmessage[0m [svc] 小狼: 摆烂
+[38;5;8m2023-01-28 21:55:24[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 没开会员群最多500人
+[38;5;8m2023-01-28 21:55:39[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 北寄: 谁搞得
+[38;5;8m2023-01-28 21:55:40[0m [W] [38;5;78;1mapp[0m TypeError: Cannot read properties of undefined (reading 'words')
+                            at Session2.<anonymous> (d:\Project\koishinew\plugins\huanlin-welcome\src\index.tsx:100:12)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[38;5;8m2023-01-28 21:55:40[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 花园百合铃: 欢迎~
+[38;5;8m2023-01-28 21:55:40[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] nai: @  来了，一个向往太阳的灵魂重新回归了怀抱
+[38;5;8m2023-01-28 21:55:52[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: ？？？
+[38;5;8m2023-01-28 21:56:01[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 谁篡权了？
+[38;5;8m2023-01-28 21:56:15[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: [表情][表情][表情]
+[38;5;8m2023-01-28 21:56:27[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: [图片]
+[38;5;8m2023-01-28 21:56:34[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] Loading's bot (经常死机): [图片]
+[38;5;8m2023-01-28 21:57:16[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: 话说昨晚针对AI群管理和分群的激烈讨论为啥没了声了[表情]
+[38;5;8m2023-01-28 21:58:05[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: [图片]
+[38;5;8m2023-01-28 21:58:43[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 你们要是开二群这里确实有
+[38;5;8m2023-01-28 21:58:49[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 而且还是老群
+[38;5;8m2023-01-28 21:59:15[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: @ singer群里聊的挺嗨的，还当了个管理员[表情]
+[38;5;8m2023-01-28 21:59:47[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: [图片]
+[38;5;8m2023-01-28 21:59:52[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 现在没了
+[38;5;8m2023-01-28 22:00:25[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: [图片]
+[38;5;8m2023-01-28 22:00:59[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:01:09[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ 1
+[38;5;8m2023-01-28 22:01:09[0m [W] [38;5;78;1mapp[0m TypeError: next is not a function
+                            at Session2.<anonymous> (d:\Project\koishinew\plugins\huanlin-welcome\src\index.tsx:127:5)
+                            at Lifecycle.emit (D:\Project\koishinew\node_modules\cordis\src\events.ts:100:16)
+                            at Context.<anonymous> (D:\Project\koishinew\node_modules\cordis\src\context.ts:73:27)
+                            at OneBotBot.dispatch (D:\Project\koishinew\node_modules\@satorijs\core\src\bot.ts:107:20)
+                            at dispatchSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:145:7)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[38;5;8m2023-01-28 22:01:15[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:01:21[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ 1
+[38;5;8m2023-01-28 22:02:17[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: @ 这个适用于sovits吗？ [图片]
+[38;5;8m2023-01-28 22:02:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:02:46[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ 差不多（
+[38;5;8m2023-01-28 22:02:54[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 1
+[38;5;8m2023-01-28 22:05:27[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 前两天我记得狐说缺歌唱数据来着
+[38;5;8m2023-01-28 22:05:37[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 我这过几天要去ktv
+[38;5;8m2023-01-28 22:05:38[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: [图片]
+[38;5;8m2023-01-28 22:07:07[0m [D] [38;5;113;1mmessage[0m [svc] 唐沈鑫灿: 啊啊啊啊啊啊啊啊啊，怎么办
+[38;5;8m2023-01-28 22:07:09[0m [D] [38;5;113;1mmessage[0m [svc] 唐沈鑫灿: RuntimeError: Numpy is not available
+[38;5;8m2023-01-28 22:07:25[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: ？
+[38;5;8m2023-01-28 22:07:26[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: tsxc？
+[38;5;8m2023-01-28 22:07:31[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 我是不是在哪儿见过你
+[38;5;8m2023-01-28 22:07:39[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片]
+[38;5;8m2023-01-28 22:07:46[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 草
+[38;5;8m2023-01-28 22:07:46[0m [D] [38;5;113;1mmessage[0m [svc] 唐沈鑫灿: 啊这
+[38;5;8m2023-01-28 22:08:16[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ 带混响 达咩！
+[38;5;8m2023-01-28 22:08:33[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: 训练出来自带混响效果
+[38;5;8m2023-01-28 22:08:33[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: @ @ c，怎么你也在这里
+[38;5;8m2023-01-28 22:08:45[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 我也在SET
+[38;5;8m2023-01-28 22:08:46[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片]
+[38;5;8m2023-01-28 22:08:49[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片]
+[38;5;8m2023-01-28 22:08:54[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: [图片]
+[38;5;8m2023-01-28 22:09:39[0m [D] [38;5;113;1mmessage[0m [svc] 唐沈鑫灿: @ 所以这个怎么解决QWQ
+[38;5;8m2023-01-28 22:09:52[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: bing numpy is not available
+[38;5;8m2023-01-28 22:10:12[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 已经帮你bing了
+[38;5;8m2023-01-28 22:10:24[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:10:40[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: #pack BiopythonDeprecationWarning: Bio.pairwise2 has been deprecated, and we intend to remove it in a future release of Biopython. As an alternative, please consider using Bio.Align.PairwiseAligner as a replacement, and contact the Biopython developers if you still need the Bio.pairwise2 module.
+[38;5;8m2023-01-28 22:10:58[0m [D] [38;5;113;1mmessage[0m [svc] 唐沈鑫灿: 啊这，我一般google，而且搜过了（
+[38;5;8m2023-01-28 22:10:59[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: ？
+[38;5;8m2023-01-28 22:11:00[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 什么情况
+[38;5;8m2023-01-28 22:11:07[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: zpi撤回了啥
+[38;5;8m2023-01-28 22:11:15[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: pack
+[38;5;8m2023-01-28 22:11:16[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片]
+[38;5;8m2023-01-28 22:11:33[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: nai YouTuber,monika
+[38;5;8m2023-01-28 22:11:49[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片]
+[38;5;8m2023-01-28 22:11:50[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 这是啥语言
+[38;5;8m2023-01-28 22:11:52[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr YouTuber,monika
+[38;5;8m2023-01-28 22:11:52[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 少女绘画中……
+[38;5;8m2023-01-28 22:11:53[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 我mfa报错issue没人鸟我（
+[38;5;8m2023-01-28 22:12:01[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: mfa没玩过
+[38;5;8m2023-01-28 22:12:10[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:12:11[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: @ @ 日转英
+[38;5;8m2023-01-28 22:12:21[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: @ @ 不是自制声库要用到mfa吗
+[38;5;8m2023-01-28 22:12:32[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: @ @ 德语
+[38;5;8m2023-01-28 22:12:32[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片] 你看看这是什么群
+[38;5;8m2023-01-28 22:12:33[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: @ @ 德语
+[38;5;8m2023-01-28 22:12:51[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: @ @ 没事了
+[38;5;8m2023-01-28 22:12:54[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: @ @ py3.8?
+[38;5;8m2023-01-28 22:12:58[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 是啊
+[38;5;8m2023-01-28 22:13:04[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 换37
+[38;5;8m2023-01-28 22:13:07[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr YouTuber,monika
+[38;5;8m2023-01-28 22:13:07[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 少女绘画中……
+[38;5;8m2023-01-28 22:13:08[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 这我懂了
+[38;5;8m2023-01-28 22:13:08[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: o
+[38;5;8m2023-01-28 22:13:10[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: (
+[38;5;8m2023-01-28 22:13:13[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: ？
+[38;5;8m2023-01-28 22:13:16[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: [图片]
+[38;5;8m2023-01-28 22:13:21[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:13:30[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 那你报错那包问管理员要一个版本 pip install带等号把
+[38;5;8m2023-01-28 22:13:40[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: [图片]
+[38;5;8m2023-01-28 22:13:40[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:13:59[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: https://github.com/openvpi/DiffSinger/issues/37
+[38;5;8m2023-01-28 22:14:02[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 我这个报错长这样
+[38;5;8m2023-01-28 22:14:09[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 贼大串
+[38;5;8m2023-01-28 22:14:13[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr YouTuber,monika
+[38;5;8m2023-01-28 22:14:14[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 你就在此地不要走动，等我给你画一幅
+[38;5;8m2023-01-28 22:14:18[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:14:24[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr YouTuber,monika
+[38;5;8m2023-01-28 22:14:24[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 在画了在画了
+[38;5;8m2023-01-28 22:14:33[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:14:49[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: conda env在装的时候是没问题的
+[38;5;8m2023-01-28 22:15:19[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr YouTuber,monika
+[38;5;8m2023-01-28 22:15:19[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 在画了在画了
+[38;5;8m2023-01-28 22:15:25[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:15:38[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 草了
+[38;5;8m2023-01-28 22:15:45[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 有哪个管理有空的
+[38;5;8m2023-01-28 22:15:47[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 撤回一下
+[38;5;8m2023-01-28 22:16:01[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 我zhenxun关了 没法撤回了
+[38;5;8m2023-01-28 22:16:08[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr YouTuber,monika
+[38;5;8m2023-01-28 22:16:08[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 在画了在画了
+[38;5;8m2023-01-28 22:16:12[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:16:32[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 标题扣分
+[38;5;8m2023-01-28 22:16:34[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: （
+[38;5;8m2023-01-28 22:16:36[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: @ @ 你biopython什么版本把
+[38;5;8m2023-01-28 22:16:45[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr YouTuber,monika
+[38;5;8m2023-01-28 22:16:45[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 少女绘画中……
+[38;5;8m2023-01-28 22:16:50[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: [图片]
+[38;5;8m2023-01-28 22:16:51[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:16:57[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: help request: MFA 无法使用
+[38;5;8m2023-01-28 22:17:06[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] VMware01: [图片]
+[38;5;8m2023-01-28 22:17:36[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: rr 阴天
+[38;5;8m2023-01-28 22:17:37[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 在画了在画了
+[38;5;8m2023-01-28 22:17:41[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: 什
+[38;5;8m2023-01-28 22:17:41[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:17:44[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: [图片]
+[38;5;8m2023-01-28 22:17:59[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: @ @  我直接按笔记本里装的最新
+[38;5;8m2023-01-28 22:18:04[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: 或许
+[38;5;8m2023-01-28 22:18:07[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 和mfa一起装的
+[38;5;8m2023-01-28 22:18:09[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: 不支持中文
+[38;5;8m2023-01-28 22:18:12[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: 可是
+[38;5;8m2023-01-28 22:18:19[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: 他翻译了耶
+[38;5;8m2023-01-28 22:18:19[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: biopython降级 我直觉是这个
+[38;5;8m2023-01-28 22:18:32[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 等我碰到跟你一样问题再说
+[38;5;8m2023-01-28 22:18:38[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: [图片]
+[38;5;8m2023-01-28 22:18:46[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: rr 玛奇玛
+[38;5;8m2023-01-28 22:18:46[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 你就在此地不要走动，等我给你画一幅
+[38;5;8m2023-01-28 22:18:51[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr monika,YouTuber，-r 1024×1024 ,-t 50 ,-s 11 masterpiece, best quality,Pitiful,(((solo))),floating,beautiful detailed eyes,blush,smooth hair, (sketch paper:1.1),(pencils),graphite,drawing board,full body,partially colored, spot color,grey eyes，(short hair)，black hair，Lost eyes, indifferent expression，blank smile，illness，yandele，blush, evil smile, the blood, the possessiveness,medium breast， the blurred eyes，undress，Dream nucleus，(((white_backgrounds)))，Gothic clothing
+[38;5;8m2023-01-28 22:18:51[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 你就在此地不要走动，等我给你画一幅
+[38;5;8m2023-01-28 22:18:52[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:18:52[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 你是直接用仓库里的笔记本的吗
+[38;5;8m2023-01-28 22:19:03[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:19:15[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: @ @ 草
+[38;5;8m2023-01-28 22:19:15[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] VMware01: 1
+[38;5;8m2023-01-28 22:19:36[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: [图片]
+[38;5;8m2023-01-28 22:19:38[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr monika,YouTuber，-r 1024×1024 ,-t 50 ,-s 11 masterpiece, best quality,Pitiful,(((solo))),floating,beautiful detailed eyes,blush,smooth hair, (sketch paper:1.1),(pencils),graphite,drawing board,full body,partially colored, spot color,
+[38;5;8m2023-01-28 22:19:38[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 在画了在画了
+[38;5;8m2023-01-28 22:19:43[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:19:53[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 单独啊
+[38;5;8m2023-01-28 22:19:58[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 一回事
+[38;5;8m2023-01-28 22:20:05[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: 关键词 = masterpiece, monika, youtuber, -r 1024×1024 , -t 50 , -s 11 masterpiece, best quality, pitiful, (((solo))), floating, beautiful detailed eyes, blush, smooth hair, (sketch paper:1.1), (pencils), graphite, drawing board, full body, partially colored, spot color
+[38;5;8m2023-01-28 22:20:14[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: 关键词 = masterpiece, monika, youtuber, -r 1024×1024 , -t 50 , -s 11 masterpiece, best quality, pitiful, (((solo))), floating, beautiful detailed eyes, blush, smooth hair, (sketch paper:1.1), (pencils), graphite, drawing board, full body, partially colored, spot color，green eyes
+[38;5;8m2023-01-28 22:20:27[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr masterpiece, monika, youtuber, -r 1024×1024 , -t 50 , -s 11 masterpiece, best quality, pitiful, (((solo))), floating, beautiful detailed eyes, blush, smooth hair, (sketch paper:1.1), (pencils), graphite, drawing board, full body, partially colored, spot color，green eyes
+[38;5;8m2023-01-28 22:20:27[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 少女绘画中……
+[38;5;8m2023-01-28 22:20:31[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:20:34[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: [图片]
+[38;5;8m2023-01-28 22:20:41[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 我好像没装torch（
+[38;5;8m2023-01-28 22:20:48[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: ？
+[38;5;8m2023-01-28 22:20:59[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 且听风吟: usage -h
+[38;5;8m2023-01-28 22:20:59[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] nai: usage [key] [value]
+[38;5;8m2023-01-28 22:20:59[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 参数 value 输入无效，请提供一个正整数。
+[38;5;8m2023-01-28 22:20:59[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] nai: 参数 value 输入无效，请提供一个正整数。
+[38;5;8m2023-01-28 22:20:59[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 参数 value 输入无效，请提供一个正整数。
+[38;5;8m2023-01-28 22:21:02[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr masterpiece, monika, youtuber, -r 1024×1024 , -t 50 , -s 11 masterpiece, best quality, pitiful, (((solo))), floating, beautiful detailed eyes, blush, smooth hair, (sketch paper:1.1), (pencils), graphite, drawing board, full body, partially colored, spot color，green eyes
+[38;5;8m2023-01-28 22:21:03[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 你就在此地不要走动，等我给你画一幅
+[38;5;8m2023-01-28 22:21:07[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:21:21[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: [图片]
+[38;5;8m2023-01-28 22:21:21[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 我照着那个保姆级教程来的，没说装torch我就没装
+[38;5;8m2023-01-28 22:21:24[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 你是这个吧？》
+[38;5;8m2023-01-28 22:21:24[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr masterpiece, monika, youtuber, -r 1024×1024 , -t 50 , -s 11 masterpiece, best quality, pitiful, (((solo))), floating, beautiful detailed eyes, blush, smooth hair, (sketch paper:1.1), (pencils),green eyes
+[38;5;8m2023-01-28 22:21:24[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 少女绘画中……
+[38;5;8m2023-01-28 22:21:28[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 且听风吟: @ usage 怎么失灵了
+[38;5;8m2023-01-28 22:21:29[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] nai: 今日 怎么失灵了 功能的调用次数为：0
+[38;5;8m2023-01-28 22:21:29[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 今日 怎么失灵了 功能的调用次数为：0
+[38;5;8m2023-01-28 22:21:31[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: [图片]
+[38;5;8m2023-01-28 22:21:33[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:21:40[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 这个装了
+[38;5;8m2023-01-28 22:21:43[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 且听风吟: [图片]
+[38;5;8m2023-01-28 22:21:44[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: [图片] 拿出来这样
+[38;5;8m2023-01-28 22:21:52[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 就这样装的
+[38;5;8m2023-01-28 22:22:00[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: [图片]
+[38;5;8m2023-01-28 22:22:00[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 然后运行mfa跟我报错
+[38;5;8m2023-01-28 22:22:16[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr masterpiece, monika, youtuber, -r 1024×1024 , -t 50 , -s 11 masterpiece, best quality, pitiful, (((solo))), floating, beautiful detailed eyes, blush, smooth hair, (sketch paper:1.1), (pencils),green eyes
+[38;5;8m2023-01-28 22:22:16[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 你就在此地不要走动，等我给你画一幅
+[38;5;8m2023-01-28 22:22:18[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 玄学东西
+[38;5;8m2023-01-28 22:22:18[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: [图片]
+[38;5;8m2023-01-28 22:22:18[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: [图片]
+[38;5;8m2023-01-28 22:22:21[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:22:32[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] .evil: rr masterpiece, monika, youtuber, -r 1024×1024 , -t 50 , -s 11 masterpiece, best quality, pitiful, (((solo))), floating, beautiful detailed eyes, blush, smooth hair, (sketch paper:1.1), (pencils),green eyes
+[38;5;8m2023-01-28 22:22:33[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 在画了在画了
+[38;5;8m2023-01-28 22:22:33[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: Biopython这个包往前退
+[38;5;8m2023-01-28 22:22:34[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: .
+[38;5;8m2023-01-28 22:22:38[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:22:38[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 告诉你1.80 deprecated
+[38;5;8m2023-01-28 22:22:39[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: o
+[38;5;8m2023-01-28 22:22:47[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 难怪报错
+[38;5;8m2023-01-28 22:22:59[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 我装的1.97
+[38;5;8m2023-01-28 22:22:59[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: rr monika(Doki Doki Literature Club), {album cover},  {Pixilation on face}， {Chromatic Aberration}, Color degradation，bright, limited palette，｛｛Glitch art｝｝
+[38;5;8m2023-01-28 22:22:59[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 在画了在画了
+[38;5;8m2023-01-28 22:23:09[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:23:13[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: ?
+[38;5;8m2023-01-28 22:23:17[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: [图片]
+[38;5;8m2023-01-28 22:23:19[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: bio
+[38;5;8m2023-01-28 22:23:19[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 那不知道
+[38;5;8m2023-01-28 22:23:32[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: rr 白天
+[38;5;8m2023-01-28 22:23:32[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 你就在此地不要走动，等我给你画一幅
+[38;5;8m2023-01-28 22:23:33[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 你python什么版本
+[38;5;8m2023-01-28 22:23:37[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 不是3.8吗。。。
+[38;5;8m2023-01-28 22:23:38[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:23:41[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 是啊
+[38;5;8m2023-01-28 22:23:43[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 那为啥不一样我也不轻
+[38;5;8m2023-01-28 22:23:46[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 3.8
+[38;5;8m2023-01-28 22:23:52[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: rr gura
+[38;5;8m2023-01-28 22:23:53[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 在画了在画了
+[38;5;8m2023-01-28 22:23:53[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 没事 你退回来吧
+[38;5;8m2023-01-28 22:23:58[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:24:21[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: o
+[38;5;8m2023-01-28 22:24:40[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: pip install Biopython==1.80
+[38;5;8m2023-01-28 22:24:48[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: [图片]
+[38;5;8m2023-01-28 22:25:00[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:25:13[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: [图片]
+[38;5;8m2023-01-28 22:25:15[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: rr from above,ray tracing,incredibly_absurdres,ray tracing,{best quality}, {{masterpiece}}, {highres}, original, extremely detailed 8K wallpaper, {an extremely delicate and beautiful},,incredibly_absurdres,colorful,intricate detail,artbook,,{best quality}, {{masterpiece}}, {highres}, original, extremely detailed 8K wallpaper, 1girl, {an extremely delicate and beautiful},,(cinematic angle),dynamic angle ,clockbackground,anime screencap,long_hair,hair over one eye,grey_hair,red_eyes,looking back,gloom (expression) depressed,aquagradient eyes，哥特风,lace-trimmed_gloves,cross necklace,
+[38;5;8m2023-01-28 22:25:15[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 你就在此地不要走动，等我给你画一幅
+[38;5;8m2023-01-28 22:25:21[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: [图片]
+[38;5;8m2023-01-28 22:25:24[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:25:28[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] VMware01: rr shark
+[38;5;8m2023-01-28 22:25:28[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 你就在此地不要走动，等我给你画一幅
+[38;5;8m2023-01-28 22:25:31[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: [图片]
+[38;5;8m2023-01-28 22:25:33[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:25:38[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: 这个丹废了吧
+[38;5;8m2023-01-28 22:25:41[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: 《哥特  风》
+[38;5;8m2023-01-28 22:25:44[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: 草
+[38;5;8m2023-01-28 22:26:05[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 我再折腾亿会就睡（
+[38;5;8m2023-01-28 22:26:05[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: rr makima
+[38;5;8m2023-01-28 22:26:06[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 少女绘画中……
+[38;5;8m2023-01-28 22:26:11[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:26:13[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] VMware01: the gothic wind
+[38;5;8m2023-01-28 22:26:32[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 炼丹是条不归路
+[38;5;8m2023-01-28 22:26:43[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: [图片]
+[38;5;8m2023-01-28 22:26:45[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: 额，开炉子之前记得拜九尾
+[38;5;8m2023-01-28 22:27:06[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 额，开炉子之前记得拜九尾
+[38;5;8m2023-01-28 22:27:15[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:27:23[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:27:33[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: @ @ ？你这1分钟以内就能知道好用不好用 如果1.8炸那我也炸
+[38;5;8m2023-01-28 22:27:55[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] VMware01: 1
+[38;5;8m2023-01-28 22:28:23[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: @ @  我的笔记本是直接装txt的，和你的好像不一样
+[38;5;8m2023-01-28 22:28:25[0m [D] [38;5;113;1mmessage[0m [svc] 小狼: @ 机器人发言之前不能检测一下，是否和上一条重复吗
+[38;5;8m2023-01-28 22:28:35[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ 你是指的入群么
+[38;5;8m2023-01-28 22:28:38[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 我在做节流了
+[38;5;8m2023-01-28 22:28:43[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 30s内只会发一条
+[38;5;8m2023-01-28 22:28:48[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 节流还在排期 等等
+[38;5;8m2023-01-28 22:29:05[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] VMware01: 1
+[38;5;8m2023-01-28 22:29:07[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] VMware01: 1
+[38;5;8m2023-01-28 22:29:07[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] VMware01: 1
+[38;5;8m2023-01-28 22:29:09[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 这bot咋一直收不到入群请求啊
+[38;5;8m2023-01-28 22:29:18[0m [D] [38;5;113;1mmessage[0m [svc] 小狼: [表情]
+[38;5;8m2023-01-28 22:29:50[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: @ @ 我新做的虚拟环境 怎么会不一样 除非你这个jupyterlabs就是在虚拟环境外面
+[38;5;8m2023-01-28 22:29:59[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 导致高版本python的高版本bio的高版本mfa
+[38;5;8m2023-01-28 22:30:01[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 导致挂了
+[38;5;8m2023-01-28 22:30:52[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 我再逝世
+[38;5;8m2023-01-28 22:31:06[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 这tm卡消息了吧
+[38;5;8m2023-01-28 22:31:11[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 你装conda install ipykernel了么
+[38;5;8m2023-01-28 22:31:18[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 用对应env启动kernel
+[38;5;8m2023-01-28 22:31:18[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:31:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:31:58[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: [图片]
+[38;5;8m2023-01-28 22:32:03[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 这种直接拒绝
+[38;5;8m2023-01-28 22:32:04[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:32:10[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 这是我。。
+[38;5;8m2023-01-28 22:32:20[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: [图片]
+[38;5;8m2023-01-28 22:32:20[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:32:24[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: @ @ 装了
+[38;5;8m2023-01-28 22:32:28[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片]
+[38;5;8m2023-01-28 22:32:29[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: qq在干什么
+[38;5;8m2023-01-28 22:32:36[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 乱喂屎是吧
+[38;5;8m2023-01-28 22:32:44[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: 我在vscode里运行的
+[38;5;8m2023-01-28 22:32:45[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:32:54[0m [D] [38;5;113;1mmessage[0m [svc] 念: 今晚神清气爽
+[38;5;8m2023-01-28 22:33:02[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:33:04[0m [D] [38;5;113;1mmessage[0m [svc] 念: 打了一晚游戏
+[38;5;8m2023-01-28 22:33:30[0m [D] [38;5;113;1mmessage[0m [svc] 束缚: 说起来我写了一个双声道转单声道的脚本……啊算了突然想起我用的ffmpeg，不太好分享……
+[38;5;8m2023-01-28 22:33:39[0m [D] [38;5;113;1mmessage[0m [svc] 束缚: [图片]
+[38;5;8m2023-01-28 22:33:40[0m [D] [38;5;113;1mmessage[0m [svc] 念: 不用在九天配环境受气
+[38;5;8m2023-01-28 22:33:44[0m [D] [38;5;113;1mmessage[0m [svc] 念: 真爽
+[38;5;8m2023-01-28 22:33:45[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 这种必须过
+[38;5;8m2023-01-28 22:33:56[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ 加油！
+[38;5;8m2023-01-28 22:33:57[0m [D] [38;5;113;1mmessage[0m [svc] 謬紗特 ゚゚゚゚゚゚゚゚: [图片] vits的群谁发我以下
+[38;5;8m2023-01-28 22:34:01[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 有问题直接发群里
+[38;5;8m2023-01-28 22:34:04[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 我们都会帮助你的
+[38;5;8m2023-01-28 22:34:18[0m [D] [38;5;113;1mmessage[0m [svc] 念: 有不会的可以问
+[38;5;8m2023-01-28 22:34:20[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 这谁啊
+[38;5;8m2023-01-28 22:34:26[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: [图片]
+[38;5;8m2023-01-28 22:34:27[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: @ @ 你在你notebook打印打印 torch版本 Bio版本 ，然后notebook里强制 !pip install Biopython=1.80再跑
+[38;5;8m2023-01-28 22:34:31[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 不过你的老公支撑得住5小时的音频录制么
+[38;5;8m2023-01-28 22:34:39[0m [D] [38;5;113;1mmessage[0m [svc] Q78KG: @ @ ok
+[38;5;8m2023-01-28 22:34:40[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ [图片]
+[38;5;8m2023-01-28 22:34:49[0m [D] [38;5;113;1mmessage[0m [svc] 念: 不需要这么多，三小时也行
+[38;5;8m2023-01-28 22:35:00[0m [D] [38;5;113;1mmessage[0m [svc] 念: 音色像就行了
+[38;5;8m2023-01-28 22:35:05[0m [D] [38;5;113;1mmessage[0m [svc] 謬紗特 ゚゚゚゚゚゚゚゚: @ @ vits群给一下
+[38;5;8m2023-01-28 22:35:17[0m [D] [38;5;113;1mmessage[0m [svc] 束缚: 我只有二群
+[38;5;8m2023-01-28 22:35:23[0m [D] [38;5;113;1mmessage[0m [svc] 謬紗特 ゚゚゚゚゚゚゚゚: 都行
+[38;5;8m2023-01-28 22:35:23[0m [D] [38;5;113;1mmessage[0m [svc] 束缚: 稍等我复制一下
+[38;5;8m2023-01-28 22:35:37[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 可以考虑vits
+[38;5;8m2023-01-28 22:35:41[0m [D] [38;5;113;1mmessage[0m [svc] 謬紗特 ゚゚゚゚゚゚゚゚: pyopenjtalk死活装不上
+[38;5;8m2023-01-28 22:35:42[0m [D] [38;5;113;1mmessage[0m [svc] 謬紗特 ゚゚゚゚゚゚゚゚: tmd
+[38;5;8m2023-01-28 22:35:44[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 标注麻烦点
+[38;5;8m2023-01-28 22:35:49[0m [D] [38;5;113;1mmessage[0m [svc] zwh1997104: [图片] 再开一炉
+[38;5;8m2023-01-28 22:35:51[0m [D] [38;5;113;1mmessage[0m [svc] 束缚: 768432324
+[38;5;8m2023-01-28 22:35:54[0m [D] [38;5;113;1mmessage[0m [svc] 謬紗特 ゚゚゚゚゚゚゚゚: Google都翻遍了没找到怎么解决
+[38;5;8m2023-01-28 22:36:02[0m [D] [38;5;113;1mmessage[0m [svc] 束缚: 这个群，天天，只有修仙……
+[38;5;8m2023-01-28 22:36:07[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 最好的音频录制设备是？
+[38;5;8m2023-01-28 22:36:17[0m [D] [38;5;113;1mmessage[0m [svc] zwh1997104: 我发现我用numpy2.3也可以打开pyworld
+[38;5;8m2023-01-28 22:36:23[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:36:26[0m [D] [38;5;113;1mmessage[0m [svc] 束缚: 甚至建了三群
+[38;5;8m2023-01-28 22:36:31[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: iphone7
+[38;5;8m2023-01-28 22:36:41[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 就可以录制480
+[38;5;8m2023-01-28 22:36:49[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: iphone6我记得是441
+[38;5;8m2023-01-28 22:37:04[0m [D] [38;5;113;1mmessage[0m [svc] zwh1997104: 是不是说python3.10以上的版本也可以运行sovits
+[38;5;8m2023-01-28 22:37:22[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 不建议
+[38;5;8m2023-01-28 22:37:24[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 约等于不行
+[38;5;8m2023-01-28 22:37:27[0m [D] [38;5;113;1mmessage[0m [svc] 束缚: 特别为了这个录音不太好吧…………找以前的声音凑合一下炼吧……
+[38;5;8m2023-01-28 22:37:29[0m [D] [38;5;113;1mmessage[0m [svc] ニア: sovits确实可以
+[38;5;8m2023-01-28 22:37:32[0m [D] [38;5;113;1mmessage[0m [svc] 束缚: [图片]
+[38;5;8m2023-01-28 22:37:42[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 可以和你的老公叙叙旧
+[38;5;8m2023-01-28 22:37:42[0m [D] [38;5;113;1mmessage[0m [svc] ニア: 不过不建议
+[38;5;8m2023-01-28 22:37:45[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 顺便录音
+[38;5;8m2023-01-28 22:38:07[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:38:13[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: ？我超
+[38;5;8m2023-01-28 22:38:17[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 怎么还越权了
+[38;5;8m2023-01-28 22:38:33[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:38:59[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 可能有点困难
+[38;5;8m2023-01-28 22:39:04[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: [图片]
+[38;5;8m2023-01-28 22:39:11[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 乐死
+[38;5;8m2023-01-28 22:39:29[0m [D] [38;5;113;1mmessage[0m [svc] zwh1997104: 主要是我还想用python3.10跑冷月佬的工程
+[38;5;8m2023-01-28 22:39:37[0m [D] [38;5;113;1mmessage[0m [svc] zwh1997104: 但是也不影响
+[38;5;8m2023-01-28 22:40:18[0m [D] [38;5;113;1mmessage[0m [svc] zwh1997104: 后面再跑冷月佬的也不迟
+[38;5;8m2023-01-28 22:40:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:40:39[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ 还有没有小号
+[38;5;8m2023-01-28 22:40:44[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 全部申请加群
+[38;5;8m2023-01-28 22:40:54[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 没有
+[38;5;8m2023-01-28 22:40:55[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 我测测节流
+[38;5;8m2023-01-28 22:40:56[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: e
+[38;5;8m2023-01-28 22:40:58[0m [D] [38;5;113;1mmessage[0m [svc] 三千: [表情]
+[38;5;8m2023-01-28 22:41:18[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 那你把我小号踹出去@
+[38;5;8m2023-01-28 22:41:27[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 我拉个小号？
+[38;5;8m2023-01-28 22:41:33[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 可以
+[38;5;8m2023-01-28 22:42:09[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 咋拉人来着
+[38;5;8m2023-01-28 22:42:49[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 只能搜啊
+[38;5;8m2023-01-28 22:42:58[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:43:03[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:43:07[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: ？怎么没法
+[38;5;8m2023-01-28 22:43:09[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 发
+[38;5;8m2023-01-28 22:43:17[0m [D] [38;5;113;1mmessage[0m [svc] 没有名字的空格: 还挺高级
+[38;5;8m2023-01-28 22:43:44[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:43:44[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: 发了
+[38;5;8m2023-01-28 22:43:51[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: [图片]
+[38;5;8m2023-01-28 22:43:57[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 没接收到
+[38;5;8m2023-01-28 22:44:01[0m [D] [38;5;113;1mmessage[0m [svc] 落忆: [图片]
+[38;5;8m2023-01-28 22:44:09[0m [D] [38;5;113;1mmessage[0m [svc] 落忆: [图片]
+[38;5;8m2023-01-28 22:44:14[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 6
+[38;5;8m2023-01-28 22:44:25[0m [D] [38;5;113;1mmessage[0m [svc] 落忆: 你们在测bot？
+[38;5;8m2023-01-28 22:44:27[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 呐
+[38;5;8m2023-01-28 22:44:28[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 屎
+[38;5;8m2023-01-28 22:44:39[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 是
+[38;5;8m2023-01-28 22:44:59[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: 2
+[38;5;8m2023-01-28 22:45:03[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:45:11[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 麻
+[38;5;8m2023-01-28 22:45:19[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:45:21[0m [D] [38;5;113;1mmessage[0m [svc] Tohka: @ 出来了
+[38;5;8m2023-01-28 22:45:28[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:45:40[0m [D] [38;5;113;1mmessage[0m [svc] 三千: [表情]
+[38;5;8m2023-01-28 22:45:44[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:45:52[0m [D] [38;5;113;1mmessage[0m [svc] 三千: 可是验证消息直接看不就好了
+[38;5;8m2023-01-28 22:45:55[0m [D] [38;5;113;1mmessage[0m [svc] 夜刀神十香: 好使了
+[38;5;8m2023-01-28 22:45:59[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:45:59[0m [W] [38;5;78;1mapp[0m Error: Error with request set_group_add_request, args: {"flag":"1674913833179438","sub_type":"add","approve":true}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:572:20)
+                            at OneBotBot.handleGuildMemberRequest (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\base.ts:54:3)
+[38;5;8m2023-01-28 22:46:07[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片]
+[38;5;8m2023-01-28 22:46:07[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 丢
+[38;5;8m2023-01-28 22:46:12[0m [D] [38;5;113;1mmessage[0m [svc] 落忆: 公开处刑()
+[38;5;8m2023-01-28 22:46:34[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 主要是这玩意
+[38;5;8m2023-01-28 22:46:37[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 没有mock环境
+[38;5;8m2023-01-28 22:46:38[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 难受
+[38;5;8m2023-01-28 22:47:00[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 怎么又卡消息了
+[38;5;8m2023-01-28 22:48:52[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: 我整了个对联，明天贴到机箱上
+[38;5;8m2023-01-28 22:48:53[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:48:54[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: [图片]
+[38;5;8m2023-01-28 22:49:00[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: ）每个speaker3分钟的模型train上了
+[38;5;8m2023-01-28 22:49:09[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 明天早上看看（）
+[38;5;8m2023-01-28 22:49:17[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:49:31[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: @ 我还是信玄学的[表情]
+[38;5;8m2023-01-28 22:50:00[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 加了opencpop一共20000来个file 542个speaker
+[38;5;8m2023-01-28 22:50:10[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片]
+[38;5;8m2023-01-28 22:50:10[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 给大家整个活（）
+[38;5;8m2023-01-28 22:50:11[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 他妈的
+[38;5;8m2023-01-28 22:50:20[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:50:35[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: @ @ ？
+[38;5;8m2023-01-28 22:50:56[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: [图片]
+[38;5;8m2023-01-28 22:51:13[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: rr {{Claude Monet}}
+[38;5;8m2023-01-28 22:51:13[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 在画了在画了
+[38;5;8m2023-01-28 22:51:19[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: [合并转发]你的QQ暂不支持查看[转发多条消息]，请期待后续版本。
+[38;5;8m2023-01-28 22:51:23[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 不管行不行 50000步关火 把结果告诉群友
+[38;5;8m2023-01-28 22:51:28[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: @ @ 6
+[38;5;8m2023-01-28 22:51:29[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: [图片]
+[38;5;8m2023-01-28 22:51:44[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: @ @ n
+[38;5;8m2023-01-28 22:51:48[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 6
+[38;5;8m2023-01-28 22:51:53[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: 6
+[38;5;8m2023-01-28 22:52:02[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片]
+[38;5;8m2023-01-28 22:52:02[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: tmd
+[38;5;8m2023-01-28 22:52:03[0m [D] [38;5;113;1mmessage[0m [svc] 散沙: 吃
+[38;5;8m2023-01-28 22:52:33[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: @ @ 推理指令这样写没问题吧python inference.py --config configs/svc_hubert_soft_multi_speakers.py --checkpoint diff-svc-epoch=223-valid_loss=0.00.ckpt --input E:\diff-svc-main\raw\yue(main)_Main.wav --output E:\diff-svc-main\raw --speaker_id 3
+[38;5;8m2023-01-28 22:52:36[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:52:39[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: @  6
+[38;5;8m2023-01-28 22:52:40[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ y
+[38;5;8m2023-01-28 22:52:40[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 锡君: discord群进了一个外国人 [图片]
+[38;5;8m2023-01-28 22:52:48[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 麻
+[38;5;8m2023-01-28 22:52:55[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 这下是节流出事了
+[38;5;8m2023-01-28 22:53:13[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: ？
+[38;5;8m2023-01-28 22:53:32[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 22:53:45[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 因缘而遇: [图片]
+[38;5;8m2023-01-28 22:59:31[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] を: ask 你好
+[38;5;8m2023-01-28 23:00:28[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 堇年: 网络异常或服务器关闭。
+[38;5;8m2023-01-28 23:00:40[0m [D] [38;5;113;1mmessage[0m [NovelAi playground] 嘎嘎: @ @ 围观一下
+[38;5;8m2023-01-28 23:08:00[0m [D] [38;5;113;1mmessage[0m [私聊] 多玩幻灵qwq: 588056461
+[38;5;8m2023-01-28 23:08:31[0m [W] [38;5;171;1monebot[0m Error: Error with request get_msg, args: {"message_id":"-675014751"}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:572:20)
+                            at OneBotBot.getMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\base.ts:22:25)
+                            at adaptMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:92:20)
+                            at adaptSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:154:5)
+                            at dispatchSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:141:19)
+[38;5;8m2023-01-28 23:08:31[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: @ 高中确实累@ 
+[38;5;8m2023-01-28 23:08:42[0m [D] [38;5;113;1mmessage[0m [svc] 红血球AE3803: 主要是我的数据集本身就是按照A100为标准的，要不然不可能不切。V100怕遇到44s音频直接炸
+[38;5;8m2023-01-28 23:08:45[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ 我们精确到上下午 晚读
+[38;5;8m2023-01-28 23:08:45[0m [W] [38;5;171;1monebot[0m Error: Error with request get_msg, args: {"message_id":"-1597823177"}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:572:20)
+                            at OneBotBot.getMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\base.ts:22:25)
+                            at adaptMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:92:20)
+                            at adaptSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:154:5)
+                            at dispatchSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:141:19)
+[38;5;8m2023-01-28 23:08:57[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: @ @ 你们更6
+[38;5;8m2023-01-28 23:08:59[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: ok了
+[38;5;8m2023-01-28 23:09:09[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 但我们老师刚刚通知提前一周回去上自习
+[38;5;8m2023-01-28 23:09:10[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 好哈人
+[38;5;8m2023-01-28 23:09:15[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 什么b学习
+[38;5;8m2023-01-28 23:09:27[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 什么b学校
+[38;5;8m2023-01-28 23:09:29[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 还好我之前过得是快乐高中
+[38;5;8m2023-01-28 23:09:46[0m [W] [38;5;171;1monebot[0m Error: Error with request get_msg, args: {"message_id":"1473673050"}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:572:20)
+                            at OneBotBot.getMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\base.ts:22:25)
+                            at adaptMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:92:20)
+                            at adaptSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:154:5)
+                            at dispatchSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:141:19)
+[38;5;8m2023-01-28 23:09:46[0m [D] [38;5;113;1mmessage[0m [svc] 红血球AE3803: @ @ ？
+[38;5;8m2023-01-28 23:09:47[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 无所谓 我快乐 作业一边去（）
+[38;5;8m2023-01-28 23:09:51[0m [W] [38;5;171;1monebot[0m Error: Error with request get_msg, args: {"message_id":"-1597823177"}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:572:20)
+                            at OneBotBot.getMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\base.ts:22:25)
+                            at adaptMessage (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:92:20)
+                            at adaptSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:154:5)
+                            at dispatchSession (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\utils.ts:141:19)
+[38;5;8m2023-01-28 23:09:51[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: @ @ 加油，带学轻松不少，我一天最多4节课，最少没课，暑假还有实习(公费旅游)
+[38;5;8m2023-01-28 23:09:57[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 草
+[38;5;8m2023-01-28 23:10:01[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 慕了
+[38;5;8m2023-01-28 23:10:07[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 佬在哪个大学
+[38;5;8m2023-01-28 23:10:25[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 我大学比高中还难受
+[38;5;8m2023-01-28 23:10:27[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: 末位985
+[38;5;8m2023-01-28 23:10:30[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: [图片]
+[38;5;8m2023-01-28 23:10:39[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: 我太菜了
+[38;5;8m2023-01-28 23:10:44[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: @ @ 草 您太强了
+[38;5;8m2023-01-28 23:10:46[0m [D] [38;5;113;1mmessage[0m [svc] ニア: 大一的基础课比较折磨人
+[38;5;8m2023-01-28 23:10:50[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: 不要学医
+[38;5;8m2023-01-28 23:10:58[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 我也就上个好点的211
+[38;5;8m2023-01-28 23:10:58[0m [D] [38;5;113;1mmessage[0m [svc] ニア: 后面专业课就学的很开心了
+[38;5;8m2023-01-28 23:11:02[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: 不要学法
+[38;5;8m2023-01-28 23:11:04[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: @ @ 坏了
+[38;5;8m2023-01-28 23:11:08[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 我们专业课从大一要上到大四
+[38;5;8m2023-01-28 23:11:08[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 我想学医（）
+[38;5;8m2023-01-28 23:11:24[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: [图片]
+[38;5;8m2023-01-28 23:11:30[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 想学医直接八年本硕连读加规培（）
+[38;5;8m2023-01-28 23:11:37[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: @ @ 有点累(，医学生啥都要学，课多
+[38;5;8m2023-01-28 23:11:39[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 或者学计科（）
+[38;5;8m2023-01-28 23:11:41[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: [图片]
+[38;5;8m2023-01-28 23:11:49[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 好想学医
+[38;5;8m2023-01-28 23:12:02[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: @ @ 我现在已经把医学大学教材看了几本了（）
+[38;5;8m2023-01-28 23:12:04[0m [D] [38;5;113;1mmessage[0m [svc] 束缚: 好的211分数和末位985差不多啦……
+[38;5;8m2023-01-28 23:12:11[0m [D] [38;5;113;1mmessage[0m [svc] 念: 劝人学医
+[38;5;8m2023-01-28 23:12:12[0m [D] [38;5;113;1mmessage[0m [svc] ニア: 不要来计科，计科已经够卷了😭
+[38;5;8m2023-01-28 23:12:16[0m [D] [38;5;113;1mmessage[0m [svc] 念: 天打雷劈
+[38;5;8m2023-01-28 23:12:24[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: @ @ 是这样的
+[38;5;8m2023-01-28 23:12:31[0m [D] [38;5;113;1mmessage[0m [svc] 念: 我叔医生经常昼夜颠倒
+[38;5;8m2023-01-28 23:12:41[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶:  我们高中全在自学大学课本
+[38;5;8m2023-01-28 23:12:44[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 卷的要死
+[38;5;8m2023-01-28 23:12:46[0m [D] [38;5;113;1mmessage[0m [svc] 念: 晚上有手术一个电话就得到
+[38;5;8m2023-01-28 23:12:52[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 高一就开始做高考模拟
+[38;5;8m2023-01-28 23:12:59[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: @ @ 群除我佬，我高中天天想着玩
+[38;5;8m2023-01-28 23:13:06[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: 然后发现学校用的教材不一样[表情][表情][表情]
+[38;5;8m2023-01-28 23:13:12[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 要是我能考上我大学的医学院我死而无憾了（
+[38;5;8m2023-01-28 23:13:17[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: @ @  我这不也天天在玩吗hhh
+[38;5;8m2023-01-28 23:13:31[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: @ @  统一的嘿嘿嘿
+[38;5;8m2023-01-28 23:13:41[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: @ @ 你们太卷力
+[38;5;8m2023-01-28 23:13:54[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: 学校自己出版警告
+[38;5;8m2023-01-28 23:13:57[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: [表情][表情][表情]
+[38;5;8m2023-01-28 23:14:06[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 我高中的时候每天玩📱到凌晨2点
+[38;5;8m2023-01-28 23:14:21[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: @ 还真是，被这个折磨够了
+[38;5;8m2023-01-28 23:14:34[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 现在就是边炼丹边胡乱看
+[38;5;8m2023-01-28 23:14:35[0m [D] [38;5;113;1mmessage[0m [svc] 透明パレット: 我现在就是高中牲
+[38;5;8m2023-01-28 23:14:39[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: @ @ 我们学校也干这个b事
+[38;5;8m2023-01-28 23:14:40[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: [图片]
+[38;5;8m2023-01-28 23:14:47[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 有些课甚至直接是教这课的老师编的
+[38;5;8m2023-01-28 23:14:57[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 急诊与外科医学）
+[38;5;8m2023-01-28 23:15:03[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: @ @ 是的
+[38;5;8m2023-01-28 23:15:06[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 急诊与灾难医学）
+[38;5;8m2023-01-28 23:15:10[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 你不买，在网上就别想找到了
+[38;5;8m2023-01-28 23:15:23[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 嗷 对了大佬们
+[38;5;8m2023-01-28 23:15:24[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: 生化老师：我是主编，所以你们别看书了，好多错的
+[38;5;8m2023-01-28 23:15:28[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 一直以来有个疑惑
+[38;5;8m2023-01-28 23:15:30[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: @ @ 加油，以后我猝死你来救(
+[38;5;8m2023-01-28 23:15:34[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: 我们：？？？你知道错了不改？
+[38;5;8m2023-01-28 23:15:51[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 为什么transformer要用三角函数做position encode
+[38;5;8m2023-01-28 23:16:01[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: 老师：看到xxx了吗？那句是错的
+[38;5;8m2023-01-28 23:16:07[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: 没想懂（）
+[38;5;8m2023-01-28 23:16:52[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 我们生化直接不给推荐教材了只要求看ppt
+[38;5;8m2023-01-28 23:17:40[0m [D] [38;5;113;1mmessage[0m [svc] 开小灶: @ [图片]
+[38;5;8m2023-01-28 23:17:45[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: 看完这些，我感觉趁着还初中早点享受生活吧，本来以为考上大学就解放了:（
+[38;5;8m2023-01-28 23:18:05[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: 大学卷的这么厉害:（
+[38;5;8m2023-01-28 23:18:30[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片]
+[38;5;8m2023-01-28 23:18:34[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 我有个朋友大二开始一周就只上2天课了（
+[38;5;8m2023-01-28 23:18:41[0m [D] [38;5;113;1mmessage[0m [svc] ニア: ？
+[38;5;8m2023-01-28 23:18:43[0m [D] [38;5;113;1mmessage[0m [svc] 透明パレット: ?
+[38;5;8m2023-01-28 23:18:54[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: @ @ 挺舒服的啊，学的差不多就行了，还是要多出去玩玩的
+[38;5;8m2023-01-28 23:18:54[0m [D] [38;5;113;1mmessage[0m [svc] 王小美: [表情]
+[38;5;8m2023-01-28 23:19:02[0m [D] [38;5;113;1mmessage[0m [svc] 王小美: ？？？
+[38;5;8m2023-01-28 23:19:09[0m [D] [38;5;113;1mmessage[0m [svc] 王小美: 学的差不多是要我死啊
+[38;5;8m2023-01-28 23:19:25[0m [D] [38;5;113;1mmessage[0m [svc] 王小美: 大一大二白天全满课
+[38;5;8m2023-01-28 23:19:30[0m [D] [38;5;113;1mmessage[0m [svc] 王小美: 晚上还有选秀
+[38;5;8m2023-01-28 23:19:32[0m [D] [38;5;113;1mmessage[0m [svc] 王小美: 修
+[38;5;8m2023-01-28 23:19:42[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: 选修我从来不去
+[38;5;8m2023-01-28 23:19:46[0m [D] [38;5;113;1mmessage[0m [svc] 拓扑逻辑轰炸龙: 我大二的时候
+[38;5;8m2023-01-28 23:19:48[0m [D] [38;5;113;1mmessage[0m [svc] ニア: 我大二上蛮地狱的
+[38;5;8m2023-01-28 23:19:50[0m [D] [38;5;113;1mmessage[0m [svc] 王小美: [表情]还没上大学的听我一句劝
+[38;5;8m2023-01-28 23:19:52[0m [D] [38;5;113;1mmessage[0m [svc] 拓扑逻辑轰炸龙: 一周就休息半天
+[38;5;8m2023-01-28 23:19:54[0m [D] [38;5;113;1mmessage[0m [svc] 王小美: 千万不要选自动化
+[38;5;8m2023-01-28 23:19:55[0m [D] [38;5;113;1mmessage[0m [svc] 拓扑逻辑轰炸龙: [表情]
+[38;5;8m2023-01-28 23:19:56[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: @ 好吧，我努力考个好大学吧
+[38;5;8m2023-01-28 23:20:03[0m [D] [38;5;113;1mmessage[0m [svc] 紬 ヴェンダース: 必修课选逃，选修课必逃(
+[38;5;8m2023-01-28 23:20:06[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 23:20:08[0m [D] [38;5;113;1mmessage[0m [svc] 呃呃: 只能这样说了:（
+[38;5;8m2023-01-28 23:20:12[0m [D] [38;5;113;1mmessage[0m [svc] 拓扑逻辑轰炸龙: 千万不要选任何自然科学
+[38;5;8m2023-01-28 23:20:16[0m [D] [38;5;113;1mmessage[0m [svc] 王小美: 逃课？
+[38;5;8m2023-01-28 23:20:25[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 戳啦
+[38;5;8m2023-01-28 23:20:29[0m [D] [38;5;113;1mmessage[0m [svc] 王小美: 被抓到两次直接给挂
+[38;5;8m2023-01-28 23:20:34[0m [D] [38;5;113;1mmessage[0m [svc] 尚寒洛: 自我提升
+[38;5;8m2023-01-28 23:20:39[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: oh 好了
+[38;5;8m2023-01-28 23:20:40[0m [D] [38;5;113;1mmessage[0m [svc] 王小美: 开学还要期末考
+[38;5;8m2023-01-28 23:20:44[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 节流做成了
+[38;5;8m2023-01-28 23:20:51[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mplugins\huanlin-welcome\src\index.tsx[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.2[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-28 23:43:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-welcome:qgs4qz[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78meditfile:r5cmr0[0m
+[38;5;8m2023-01-28 23:43:18[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "editfile"
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78meditor:p7tj3h[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocq-session-uploader:3o1mxt[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchat:kneswj[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot:ru8o4v[0m
+[38;5;8m2023-01-28 23:43:18[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5141[0m
+[38;5;8m2023-01-28 23:43:18[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-28 23:43:19[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-28 23:43:19[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-28 23:43:19[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-28 23:43:20[0m [W] [38;5;32;1mgocqhttp[0m 账号密码未配置, 将使用二维码登录. 
+[38;5;8m2023-01-28 23:43:34[0m [D] [38;5;113;1mmessage[0m [鼻炎患者交流会（确信）] 天下の: 憨批脏小豆把参观服的带宽设置的是 [图片]
+[38;5;8m2023-01-28 23:43:47[0m [D] [38;5;113;1mmessage[0m [鼻炎患者交流会（确信）] 天下の: 惊人的5Mbps
+[38;5;8m2023-01-28 23:43:56[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: #pack-test 1111
+[38;5;8m2023-01-28 23:44:03[0m [D] [38;5;113;1mmessage[0m [鼻炎患者交流会（确信）] 天下の: [图片]
+[38;5;8m2023-01-28 23:44:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpack-my-message:wih4zm[0m
+[38;5;8m2023-01-28 23:44:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpack-my-message:wih4zm[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.2[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-01-28 23:44:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:2oipri[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhuanlin-welcome:qgs4qz[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78meditfile:r5cmr0[0m
+[38;5;8m2023-01-28 23:44:35[0m [E] [38;5;78;1mapp[0m cannot resolve plugin "editfile"
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78meditor:p7tj3h[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocq-session-uploader:3o1mxt[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot:ru8o4v[0m
+[38;5;8m2023-01-28 23:44:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchat:kneswj[0m
+[38;5;8m2023-01-28 23:44:36[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-01-28 23:44:36[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5141[0m
+[38;5;8m2023-01-28 23:44:36[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-01-28 23:44:36[0m [I] [38;5;92;1mlocales[0m loading locale zh.yml
+[38;5;8m2023-01-28 23:44:36[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://106.52.111.188:7110/[0m
+[38;5;8m2023-01-28 23:44:37[0m [W] [38;5;32;1mgocqhttp[0m 账号密码未配置, 将使用二维码登录. 
+[38;5;8m2023-01-28 23:44:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpack-my-message:wih4zm[0m
+[38;5;8m2023-01-28 23:44:51[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: #pack-test 1111
+[38;5;8m2023-01-28 23:45:12[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: @ @ 再试试
+[38;5;8m2023-01-28 23:45:20[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: pack换成pack-test
+[38;5;8m2023-01-28 23:46:07[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: #pack-test Exception in Tkinter callbackTraceback (most recent call last):  File "tkinter\__init__.py", line 1705, in __call__  File "moe_tts_cpu.py", line 763, in &lt;lambda&gt;  File "moe_tts_cpu.py", line 683, in diff_svc_infer  File "diff_svc\infer_tools\infer_tool.py", line 129, in __init__  File "diff_svc\infer_tools\infer_tool.py", line 139, in load_ckpt  File "diff_svc\utils\__init__.py", line 202, in load_ckpt  File "torch\nn\modules\module.py", line 1605, in load_state_dict    self.__class__.__name__, "\n\t".join(error_msgs)))RuntimeError: Error(s) in loading state_dict for GaussianDiffusion:        Missing key(s) in state_dict: "fs2.encoder.layers.0.op.layer_norm1.weight", "fs2.encoder.layers.0.op.layer_norm1.bias", "fs2.encoder.layers.0.op.self_attn.in_proj_weight", "fs2.encoder.layers.0.op.self_attn.out_proj.weight", "fs2.encoder.layers.0.op.layer_norm2.weight", "fs2.encoder.layers.0.op.layer_norm2.bias", "fs2.encoder.layers.0.op.ffn.ffn_1.weight", "fs2.encoder.layers.0.op.ffn.ffn_1.bias", "fs2.encoder.layers.0.op.ffn.ffn_2.weight", "fs2.encoder.layers.0.op.ffn.ffn_2.bias", "fs2.encoder.layers.1.op.layer_norm1.weight", "fs2.encoder.layers.1.op.layer_norm1.bias", "fs2.encoder.layers.1.op.self_attn.in_proj_weight", "fs2.encoder.layers.1.op.self_attn.out_proj.weight", "fs2.encoder.layers.1.op.layer_norm2.weight", "fs2.encoder.layers.1.op.layer_norm2.bias", "fs2.encoder.layers.1.op.ffn.ffn_1.weight", "fs2.encoder.layers.1.op.ffn.ffn_1.bias", "fs2.encoder.layers.1.op.ffn.ffn_2.weight", "fs2.encoder.layers.1.op.ffn.ffn_2.bias", "fs2.encoder.layers.2.op.layer_norm1.weight", "fs2.encoder.layers.2.op.layer_norm1.bias", "fs2.encoder.layers.2.op.self_attn.in_proj_weight", "fs2.encoder.layers.2.op.self_attn.out_proj.weight", "fs2.encoder.layers.2.op.layer_norm2.weight", "fs2.encoder.layers.2.op.layer_norm2.bias", "fs2.encoder.layers.2.op.ffn.ffn_1.weight", "fs2.encoder.layers.2.op.ffn.ffn_1.bias", "fs2.encoder.layers.2.op.ffn.ffn_2.weight", "fs2.encoder.layers.2.op.ffn.ffn_2.bias", "fs2.encoder.layers.3.op.layer_norm1.weight", "fs2.encoder.layers.3.op.layer_norm1.bias", "fs2.encoder.layers.3.op.self_attn.in_proj_weight", "fs2.encoder.layers.3.op.self_attn.out_proj.weight", "fs2.encoder.layers.3.op.layer_norm2.weight", "fs2.encoder.layers.3.op.layer_norm2.bias", "fs2.encoder.layers.3.op.ffn.ffn_1.weight", "fs2.encoder.layers.3.op.ffn.ffn_1.bias", "fs2.encoder.layers.3.op.ffn.ffn_2.weight", "fs2.encoder.layers.3.op.ffn.ffn_2.bias", "fs2.encoder.layer_norm.weight", "fs2.encoder.layer_norm.bias", "fs2.decoder.pos_embed_alpha", "fs2.decoder.embed_positions._float_tensor", "fs2.decoder.layers.0.op.layer_norm1.weight", "fs2.decoder.layers.0.op.layer_norm1.bias", "fs2.decoder.layers.0.op.self_attn.in_proj_weight", "fs2.decoder.layers.0.op.self_attn.out_proj.weight", "fs2.decoder.layers.0.op.layer_norm2.weight", "fs2.decoder.layers.0.op.layer_norm2.bias", "fs2.decoder.layers.0.op.ffn.ffn_1.weight", "fs2.decoder.layers.0.op.ffn.ffn_1.bias", "fs2.decoder.layers.0.op.ffn.ffn_2.weight", "fs2.decoder.layers.0.op.ffn.ffn_2.bias", "fs2.decoder.layers.1.op.layer_norm1.weight", "fs2.decoder.layers.1.op.layer_norm1.bias", "fs2.decoder.layers.1.op.self_attn.in_proj_weight", "fs2.decoder.layers.1.op.self_attn.out_proj.weight", "fs2.decoder.layers.1.op.layer_norm2.weight", "fs2.decoder.layers.1.op.layer_norm2.bias", "fs2.decoder.layers.1.op.ffn.ffn_1.weight", "fs2.decoder.layers.1.op.ffn.ffn_1.bias", "fs2.decoder.layers.1.op.ffn.ffn_2.weight", "fs2.decoder.layers.1.op.ffn.ffn_2.bias", "fs2.decoder.layers.2.op.layer_norm1.weight", "fs2.decoder.layers.2.op.layer_norm1.bias", "fs2.decoder.layers.2.op.self_attn.in_proj_weight", "fs2.decoder.layers.2.op.self_attn.out_proj.weight", "fs2.decoder.layers.2.op.layer_norm2.weight", "fs2.decoder.layers.2.op.layer_norm2.bias", "fs2.decoder.layers.2.op.ffn.ffn_1.weight", "fs2.decoder.layers.2.op.ffn.ffn_1.bias", "fs2.decoder.layers.2.op.ffn.ffn_2.weight", "fs2.decoder.layers.2.op.ffn.ffn_2.bias", "fs2.decoder.layers.3.op.layer_norm1.weight", "fs2.decoder.layers.3.op.layer_norm1.bias", "fs2.decoder.layers.3.op.self_attn.in_proj_weight", "fs2.decoder.layers.3.op.self_attn.out_proj.weight", "fs2.decoder.layers.3.op.layer_norm2.weight", "fs2.decoder.layers.3.op.layer_norm2.bias", "fs2.decoder.layers.3.op.ffn.ffn_1.weight", "fs2.decoder.layers.3.op.ffn.ffn_1.bias", "fs2.decoder.layers.3.op.ffn.ffn_2.weight", "fs2.decoder.layers.3.op.ffn.ffn_2.bias", "fs2.decoder.layer_norm.weight", "fs2.decoder.layer_norm.b
+[38;5;8m2023-01-28 23:46:11[0m [D] [38;5;113;1mmessage[0m [svc] 邢浩: #pack-test 消息/日志Exception in Tkinter callbackTraceback (most recent call last):  File "tkinter\__init__.py", line 1705, in __call__  File "moe_tts_cpu.py", line 763, in &lt;lambda&gt;  File "moe_tts_cpu.py", line 683, in diff_svc_infer  File "diff_svc\infer_tools\infer_tool.py", line 129, in __init__  File "diff_svc\infer_tools\infer_tool.py", line 139, in load_ckpt  File "diff_svc\utils\__init__.py", line 202, in load_ckpt  File "torch\nn\modules\module.py", line 1605, in load_state_dict    self.__class__.__name__, "\n\t".join(error_msgs)))RuntimeError: Error(s) in loading state_dict for GaussianDiffusion:        Missing key(s) in state_dict: "fs2.encoder.layers.0.op.layer_norm1.weight", "fs2.encoder.layers.0.op.layer_norm1.bias", "fs2.encoder.layers.0.op.self_attn.in_proj_weight", "fs2.encoder.layers.0.op.self_attn.out_proj.weight", "fs2.encoder.layers.0.op.layer_norm2.weight", "fs2.encoder.layers.0.op.layer_norm2.bias", "fs2.encoder.layers.0.op.ffn.ffn_1.weight", "fs2.encoder.layers.0.op.ffn.ffn_1.bias", "fs2.encoder.layers.0.op.ffn.ffn_2.weight", "fs2.encoder.layers.0.op.ffn.ffn_2.bias", "fs2.encoder.layers.1.op.layer_norm1.weight", "fs2.encoder.layers.1.op.layer_norm1.bias", "fs2.encoder.layers.1.op.self_attn.in_proj_weight", "fs2.encoder.layers.1.op.self_attn.out_proj.weight", "fs2.encoder.layers.1.op.layer_norm2.weight", "fs2.encoder.layers.1.op.layer_norm2.bias", "fs2.encoder.layers.1.op.ffn.ffn_1.weight", "fs2.encoder.layers.1.op.ffn.ffn_1.bias", "fs2.encoder.layers.1.op.ffn.ffn_2.weight", "fs2.encoder.layers.1.op.ffn.ffn_2.bias", "fs2.encoder.layers.2.op.layer_norm1.weight", "fs2.encoder.layers.2.op.layer_norm1.bias", "fs2.encoder.layers.2.op.self_attn.in_proj_weight", "fs2.encoder.layers.2.op.self_attn.out_proj.weight", "fs2.encoder.layers.2.op.layer_norm2.weight", "fs2.encoder.layers.2.op.layer_norm2.bias", "fs2.encoder.layers.2.op.ffn.ffn_1.weight", "fs2.encoder.layers.2.op.ffn.ffn_1.bias", "fs2.encoder.layers.2.op.ffn.ffn_2.weight", "fs2.encoder.layers.2.op.ffn.ffn_2.bias", "fs2.encoder.layers.3.op.layer_norm1.weight", "fs2.encoder.layers.3.op.layer_norm1.bias", "fs2.encoder.layers.3.op.self_attn.in_proj_weight", "fs2.encoder.layers.3.op.self_attn.out_proj.weight", "fs2.encoder.layers.3.op.layer_norm2.weight", "fs2.encoder.layers.3.op.layer_norm2.bias", "fs2.encoder.layers.3.op.ffn.ffn_1.weight", "fs2.encoder.layers.3.op.ffn.ffn_1.bias", "fs2.encoder.layers.3.op.ffn.ffn_2.weight", "fs2.encoder.layers.3.op.ffn.ffn_2.bias", "fs2.encoder.layer_norm.weight", "fs2.encoder.layer_norm.bias", "fs2.decoder.pos_embed_alpha", "fs2.decoder.embed_positions._float_tensor", "fs2.decoder.layers.0.op.layer_norm1.weight", "fs2.decoder.layers.0.op.layer_norm1.bias", "fs2.decoder.layers.0.op.self_attn.in_proj_weight", "fs2.decoder.layers.0.op.self_attn.out_proj.weight", "fs2.decoder.layers.0.op.layer_norm2.weight", "fs2.decoder.layers.0.op.layer_norm2.bias", "fs2.decoder.layers.0.op.ffn.ffn_1.weight", "fs2.decoder.layers.0.op.ffn.ffn_1.bias", "fs2.decoder.layers.0.op.ffn.ffn_2.weight", "fs2.decoder.layers.0.op.ffn.ffn_2.bias", "fs2.decoder.layers.1.op.layer_norm1.weight", "fs2.decoder.layers.1.op.layer_norm1.bias", "fs2.decoder.layers.1.op.self_attn.in_proj_weight", "fs2.decoder.layers.1.op.self_attn.out_proj.weight", "fs2.decoder.layers.1.op.layer_norm2.weight", "fs2.decoder.layers.1.op.layer_norm2.bias", "fs2.decoder.layers.1.op.ffn.ffn_1.weight", "fs2.decoder.layers.1.op.ffn.ffn_1.bias", "fs2.decoder.layers.1.op.ffn.ffn_2.weight", "fs2.decoder.layers.1.op.ffn.ffn_2.bias", "fs2.decoder.layers.2.op.layer_norm1.weight", "fs2.decoder.layers.2.op.layer_norm1.bias", "fs2.decoder.layers.2.op.self_attn.in_proj_weight", "fs2.decoder.layers.2.op.self_attn.out_proj.weight", "fs2.decoder.layers.2.op.layer_norm2.weight", "fs2.decoder.layers.2.op.layer_norm2.bias", "fs2.decoder.layers.2.op.ffn.ffn_1.weight", "fs2.decoder.layers.2.op.ffn.ffn_1.bias", "fs2.decoder.layers.2.op.ffn.ffn_2.weight", "fs2.decoder.layers.2.op.ffn.ffn_2.bias", "fs2.decoder.layers.3.op.layer_norm1.weight", "fs2.decoder.layers.3.op.layer_norm1.bias", "fs2.decoder.layers.3.op.self_attn.in_proj_weight", "fs2.decoder.layers.3.op.self_attn.out_proj.weight", "fs2.decoder.layers.3.op.layer_norm2.weight", "fs2.decoder.layers.3.op.layer_norm2.bias", "fs2.decoder.layers.3.op.ffn.ffn_1.weight", "fs2.decoder.layers.3.op.ffn.ffn_1.bias", "fs2.decoder.layers.3.op.ffn.ffn_2.weight", "fs2.decoder.layers.3.op.ffn.ffn_2.bias", "fs2.decoder.layer_norm.weight", "fs2.decoder.layer_norm.b
+[38;5;8m2023-01-28 23:46:25[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 对味道了
+[38;5;8m2023-01-28 23:46:30[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 但是为啥你还是发不出来
+[38;5;8m2023-01-28 23:46:38[0m [E] [38;5;32;1mgocqhttp[0m 二维码过期
+[38;5;8m2023-01-28 23:46:43[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"588056461","messages":[{"type":"node","data":{"name":"多玩幻灵qwq","uin":"3509949348","content":[{"type":"text","data":{"text":"本打包消息由 3509949348 打包"}}]}},{"type":"node","data":{"name":"多玩幻灵qwq","uin":"3509949348","content":[{"type":"text","data":{"text":"Exception in Tkinter callbackTraceback (most recent call last):  File \"tkinter\\__init__.py\", line 1705, in __call__  File \"moe_tts_cpu.py\", line 763, in &lt;lambda&gt;  File \"moe_tts_cpu.py\", line 683, in diff_svc_infer  File \"diff_svc\\infer_tools\\infer_tool.py\", line 129, in __init__  File \"diff_svc\\infer_tools\\infer_tool.py\", line 139, in load_ckpt  File \"diff_svc\\utils\\__init__.py\", line 202, in load_ckpt  File \"torch\\nn\\modules\\module.py\", line 1605, in load_state_dict    self.__class__.__name__, \"\\n\\t\".join(error_msgs)))RuntimeError: Error(s) in loading state_dict for GaussianDiffusion:        Missing key(s) in state_dict: \"fs2.encoder.layers.0.op.layer_norm1.weight\", \"fs2.encoder.layers.0.op.layer_norm1.bias\", \"fs2.encoder.layers.0.op.self_attn.in_proj_weight\", \"fs2.encoder.layers.0.op.self_attn.out_proj.weight\", \"fs2.encoder.layers.0.op.layer_norm2.weight\", \"fs2.encoder.layers.0.op.layer_norm2.bias\", \"fs2.encoder.layers.0.op.ffn.ffn_1.weight\", \"fs2.encoder.layers.0.op.ffn.ffn_1.bias\", \"fs2.encoder.layers.0.op.ffn.ffn_2.weight\", \"fs2.encoder.layers.0.op.ffn.ffn_2.bias\", \"fs2.encoder.layers.1.op.layer_norm1.weight\", \"fs2.encoder.layers.1.op.layer_norm1.bias\", \"fs2.encoder.layers.1.op.self_attn.in_proj_weight\", \"fs2.encoder.layers.1.op.self_attn.out_proj.weight\", \"fs2.encoder.layers.1.op.layer_norm2.weight\", \"fs2.encoder.layers.1.op.layer_norm2.bias\", \"fs2.encoder.layers.1.op.ffn.ffn_1.weight\", \"fs2.encoder.layers.1.op.ffn.ffn_1.bias\", \"fs2.encoder.layers.1.op.ffn.ffn_2.weight\", \"fs2.encoder.layers.1.op.ffn.ffn_2.bias\", \"fs2.encoder.layers.2.op.layer_norm1.weight\", \"fs2.encoder.layers.2.op.layer_norm1.bias\", \"fs2.encoder.layers.2.op.self_attn.in_proj_weight\", \"fs2.encoder.layers.2.op.self_attn.out_proj.weight\", \"fs2.encoder.layers.2.op.layer_norm2.weight\", \"fs2.encoder.layers.2.op.layer_norm2.bias\", \"fs2.encoder.layers.2.op.ffn.ffn_1.weight\", \"fs2.encoder.layers.2.op.ffn.ffn_1.bias\", \"fs2.encoder.layers.2.op.ffn.ffn_2.weight\", \"fs2.encoder.layers.2.op.ffn.ffn_2.bias\", \"fs2.encoder.layers.3.op.layer_norm1.weight\", \"fs2.encoder.layers.3.op.layer_norm1.bias\", \"fs2.encoder.layers.3.op.self_attn.in_proj_weight\", \"fs2.encoder.layers.3.op.self_attn.out_proj.weight\", \"fs2.encoder.layers.3.op.layer_norm2.weight\", \"fs2.encoder.layers.3.op.layer_norm2.bias\", \"fs2.encoder.layers.3.op.ffn.ffn_1.weight\", \"fs2.encoder.layers.3.op.ffn.ffn_1.bias\", \"fs2.encoder.layers.3.op.ffn.ffn_2.weight\", \"fs2.encoder.layers.3.op.ffn.ffn_2.bias\", \"fs2.encoder.layer_norm.weight\", \"fs2.encoder.layer_norm.bias\", \"fs2.decoder.pos_embed_alpha\", \"fs2.decoder.embed_positions._float_tensor\", \"fs2.decoder.layers.0.op.layer_norm1.weight\", \"fs2.decoder.layers.0.op.layer_norm1.bias\", \"fs2.decoder.layers.0.op.self_attn.in_proj_weight\", \"fs2.decoder.layers.0.op.self_attn.out_proj.weight\", \"fs2.decoder.layers.0.op.layer_norm2.weight\", \"fs2.decoder.layers.0.op.layer_norm2.bias\", \"fs2.decoder.layers.0.op.ffn.ffn_1.weight\", \"fs2.decoder.layers.0.op.ffn.ffn_1.bias\", \"fs2.decoder.layers.0.op.ffn.ffn_2.weight\", \"fs2.decoder.layers.0.op.ffn.ffn_2.bias\", \"fs2.decoder.layers.1.op.layer_norm1.weight\", \"fs2.decoder.layers.1.op.layer_norm1.bias\", \"fs2.decoder.layers.1.op.self_attn.in_proj_weight\", \"fs2.decoder.layers.1.op.self_attn.out_proj.weight\", \"fs2.decoder.layers.1.op.layer_norm2.weight\", \"fs2.decoder.layers.1.op.layer_norm2.bias\", \"fs2.decoder.layers.1.op.ffn.ffn_1.weight\", \"fs2.decoder.layers.1.op.ffn.ffn_1.bias\", \"fs2.decoder.layers.1.op.ffn.ffn_2.weight\", \"fs2.decoder.layers.1.op.ffn.ffn_2.bias\", \"fs2.decoder.layers.2.op.layer_norm1.weight\", \"fs2.decoder.layers.2.op.layer_norm1.bias\", \"fs2.decoder.layers.2.op.self_attn.in_proj_weight\", \"fs2.decoder.layers.2.op.self_attn.out_proj.weight\", \"fs2.decoder.layers.2.op.layer_norm2.weight\", \"fs2.decoder.layers.2.op.layer_norm2.bias\", \"fs2.decoder.layers.2.op.ffn.ffn_1.weight\", \"fs2.decoder.layers.2.op.ffn.ffn_1.bias\", \"fs2.decoder.layers.2.op.ffn.ffn_2.weight\", \"fs2.decoder.layers.2.op.ffn.ffn_2.bias\", \"fs2.decoder.layers.3.op.layer_norm1.weight\", \"fs2.decoder.layers.3.op.layer_norm1.bias\", \"fs2.decoder.layers.3.op.self_attn.in_proj_weight\", \"fs2.decoder.layers.3.op.self_attn.out_proj.weight\", \"fs2.decoder.layers.3.op.layer_norm2.weight\", \"fs2.decoder.layers.3.op.layer_norm2.bias\", \"fs2.decoder.layers.3.op.ffn.ffn_1.weight\", \"fs2.decoder.layers.3.op.ffn.ffn_1.bias\", \"fs2.decoder.layers.3.op.ffn.ffn_2.weight\", \"fs2.decoder.layers.3.op.ffn.ffn_2.bias\", \"fs2.decoder.layer_norm.weight\", \"fs2.decoder.layer_norm.b"}}]}}]}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:583:20)
+                            at OneBotMessenger.forward (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:20:14)
+                            at OneBotMessenger.visit (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:143:9)
+                            at OneBotMessenger.render (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:33:7)
+                            at OneBotMessenger.send (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:44:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:388:7)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+[38;5;8m2023-01-28 23:46:46[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"588056461","messages":[{"type":"node","data":{"name":"邢浩","uin":"1873059434","content":[{"type":"text","data":{"text":"本打包消息由 1873059434 打包"}}]}},{"type":"node","data":{"name":"邢浩","uin":"1873059434","content":[{"type":"text","data":{"text":"消息/日志Exception in Tkinter callbackTraceback (most recent call last):  File \"tkinter\\__init__.py\", line 1705, in __call__  File \"moe_tts_cpu.py\", line 763, in &lt;lambda&gt;  File \"moe_tts_cpu.py\", line 683, in diff_svc_infer  File \"diff_svc\\infer_tools\\infer_tool.py\", line 129, in __init__  File \"diff_svc\\infer_tools\\infer_tool.py\", line 139, in load_ckpt  File \"diff_svc\\utils\\__init__.py\", line 202, in load_ckpt  File \"torch\\nn\\modules\\module.py\", line 1605, in load_state_dict    self.__class__.__name__, \"\\n\\t\".join(error_msgs)))RuntimeError: Error(s) in loading state_dict for GaussianDiffusion:        Missing key(s) in state_dict: \"fs2.encoder.layers.0.op.layer_norm1.weight\", \"fs2.encoder.layers.0.op.layer_norm1.bias\", \"fs2.encoder.layers.0.op.self_attn.in_proj_weight\", \"fs2.encoder.layers.0.op.self_attn.out_proj.weight\", \"fs2.encoder.layers.0.op.layer_norm2.weight\", \"fs2.encoder.layers.0.op.layer_norm2.bias\", \"fs2.encoder.layers.0.op.ffn.ffn_1.weight\", \"fs2.encoder.layers.0.op.ffn.ffn_1.bias\", \"fs2.encoder.layers.0.op.ffn.ffn_2.weight\", \"fs2.encoder.layers.0.op.ffn.ffn_2.bias\", \"fs2.encoder.layers.1.op.layer_norm1.weight\", \"fs2.encoder.layers.1.op.layer_norm1.bias\", \"fs2.encoder.layers.1.op.self_attn.in_proj_weight\", \"fs2.encoder.layers.1.op.self_attn.out_proj.weight\", \"fs2.encoder.layers.1.op.layer_norm2.weight\", \"fs2.encoder.layers.1.op.layer_norm2.bias\", \"fs2.encoder.layers.1.op.ffn.ffn_1.weight\", \"fs2.encoder.layers.1.op.ffn.ffn_1.bias\", \"fs2.encoder.layers.1.op.ffn.ffn_2.weight\", \"fs2.encoder.layers.1.op.ffn.ffn_2.bias\", \"fs2.encoder.layers.2.op.layer_norm1.weight\", \"fs2.encoder.layers.2.op.layer_norm1.bias\", \"fs2.encoder.layers.2.op.self_attn.in_proj_weight\", \"fs2.encoder.layers.2.op.self_attn.out_proj.weight\", \"fs2.encoder.layers.2.op.layer_norm2.weight\", \"fs2.encoder.layers.2.op.layer_norm2.bias\", \"fs2.encoder.layers.2.op.ffn.ffn_1.weight\", \"fs2.encoder.layers.2.op.ffn.ffn_1.bias\", \"fs2.encoder.layers.2.op.ffn.ffn_2.weight\", \"fs2.encoder.layers.2.op.ffn.ffn_2.bias\", \"fs2.encoder.layers.3.op.layer_norm1.weight\", \"fs2.encoder.layers.3.op.layer_norm1.bias\", \"fs2.encoder.layers.3.op.self_attn.in_proj_weight\", \"fs2.encoder.layers.3.op.self_attn.out_proj.weight\", \"fs2.encoder.layers.3.op.layer_norm2.weight\", \"fs2.encoder.layers.3.op.layer_norm2.bias\", \"fs2.encoder.layers.3.op.ffn.ffn_1.weight\", \"fs2.encoder.layers.3.op.ffn.ffn_1.bias\", \"fs2.encoder.layers.3.op.ffn.ffn_2.weight\", \"fs2.encoder.layers.3.op.ffn.ffn_2.bias\", \"fs2.encoder.layer_norm.weight\", \"fs2.encoder.layer_norm.bias\", \"fs2.decoder.pos_embed_alpha\", \"fs2.decoder.embed_positions._float_tensor\", \"fs2.decoder.layers.0.op.layer_norm1.weight\", \"fs2.decoder.layers.0.op.layer_norm1.bias\", \"fs2.decoder.layers.0.op.self_attn.in_proj_weight\", \"fs2.decoder.layers.0.op.self_attn.out_proj.weight\", \"fs2.decoder.layers.0.op.layer_norm2.weight\", \"fs2.decoder.layers.0.op.layer_norm2.bias\", \"fs2.decoder.layers.0.op.ffn.ffn_1.weight\", \"fs2.decoder.layers.0.op.ffn.ffn_1.bias\", \"fs2.decoder.layers.0.op.ffn.ffn_2.weight\", \"fs2.decoder.layers.0.op.ffn.ffn_2.bias\", \"fs2.decoder.layers.1.op.layer_norm1.weight\", \"fs2.decoder.layers.1.op.layer_norm1.bias\", \"fs2.decoder.layers.1.op.self_attn.in_proj_weight\", \"fs2.decoder.layers.1.op.self_attn.out_proj.weight\", \"fs2.decoder.layers.1.op.layer_norm2.weight\", \"fs2.decoder.layers.1.op.layer_norm2.bias\", \"fs2.decoder.layers.1.op.ffn.ffn_1.weight\", \"fs2.decoder.layers.1.op.ffn.ffn_1.bias\", \"fs2.decoder.layers.1.op.ffn.ffn_2.weight\", \"fs2.decoder.layers.1.op.ffn.ffn_2.bias\", \"fs2.decoder.layers.2.op.layer_norm1.weight\", \"fs2.decoder.layers.2.op.layer_norm1.bias\", \"fs2.decoder.layers.2.op.self_attn.in_proj_weight\", \"fs2.decoder.layers.2.op.self_attn.out_proj.weight\", \"fs2.decoder.layers.2.op.layer_norm2.weight\", \"fs2.decoder.layers.2.op.layer_norm2.bias\", \"fs2.decoder.layers.2.op.ffn.ffn_1.weight\", \"fs2.decoder.layers.2.op.ffn.ffn_1.bias\", \"fs2.decoder.layers.2.op.ffn.ffn_2.weight\", \"fs2.decoder.layers.2.op.ffn.ffn_2.bias\", \"fs2.decoder.layers.3.op.layer_norm1.weight\", \"fs2.decoder.layers.3.op.layer_norm1.bias\", \"fs2.decoder.layers.3.op.self_attn.in_proj_weight\", \"fs2.decoder.layers.3.op.self_attn.out_proj.weight\", \"fs2.decoder.layers.3.op.layer_norm2.weight\", \"fs2.decoder.layers.3.op.layer_norm2.bias\", \"fs2.decoder.layers.3.op.ffn.ffn_1.weight\", \"fs2.decoder.layers.3.op.ffn.ffn_1.bias\", \"fs2.decoder.layers.3.op.ffn.ffn_2.weight\", \"fs2.decoder.layers.3.op.ffn.ffn_2.bias\", \"fs2.decoder.layer_norm.weight\", \"fs2.decoder.layer_norm.b"}}]}}]}, retcode: 100
+                            at _Internal._get (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:546:11)
+                            at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+                            at _Internal._Internal.<computed> (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\types.ts:583:20)
+                            at OneBotMessenger.forward (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:20:14)
+                            at OneBotMessenger.visit (D:\Project\koishinew\node_modules\@satorijs\adapter-onebot\src\bot\message.ts:143:9)
+                            at OneBotMessenger.render (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:33:7)
+                            at OneBotMessenger.send (D:\Project\koishinew\node_modules\@satorijs\core\src\message.ts:44:5)
+                            at <anonymous> (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:388:7)
+                            at Session2.withScope (D:\Project\koishinew\node_modules\@koishijs\core\src\session.ts:267:14)
+                            at next (D:\Project\koishinew\node_modules\@koishijs\core\src\middleware.ts:326:16)
+[38;5;8m2023-01-28 23:46:50[0m [D] [38;5;113;1mmessage[0m [svc] 邢浩: 我不知道[表情]
+[38;5;8m2023-01-28 23:46:53[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 哦我懂了
+[38;5;8m2023-01-28 23:46:56[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 机器人风控了（
+[38;5;8m2023-01-28 23:47:00[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 撤回稍微慢一点
+[38;5;8m2023-01-28 23:47:09[0m [D] [38;5;113;1mmessage[0m [svc] 邢浩: 嗷嗷
+[38;5;8m2023-01-28 23:47:11[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: [图片]
+[38;5;8m2023-01-28 23:47:12[0m [D] [38;5;113;1mmessage[0m [svc] 邢浩: soga
+[38;5;8m2023-01-28 23:47:14[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 而且发不出来（（
+[38;5;8m2023-01-28 23:47:17[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 太长了
+[38;5;8m2023-01-28 23:47:21[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 还是建议丢到pastebin.com
+[38;5;8m2023-01-28 23:47:26[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 我回头写一个插件去
+[38;5;8m2023-01-28 23:48:03[0m [D] [38;5;113;1mmessage[0m [svc] 邢浩: @ @ okok
+[38;5;8m2023-01-28 23:49:56[0m [D] [38;5;113;1mmessage[0m [svc] 秋枫飒飒: 这咋不仅刷屏，还发不同版本
+[38;5;8m2023-01-28 23:50:11[0m [D] [38;5;113;1mmessage[0m [svc] 少灬杰: 这咋不仅刷屏，还发不同版本
+[38;5;8m2023-01-28 23:51:28[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 呃
+[38;5;8m2023-01-28 23:51:33[0m [D] [38;5;113;1mmessage[0m [svc] 多玩幻灵qwq: 我本地调试的忘记关了
+[38;5;8m2023-01-28 23:51:41[0m [D] [38;5;113;1mmessage[0m [svc] 不会飘的羽毛（9527）: 发生什么事了

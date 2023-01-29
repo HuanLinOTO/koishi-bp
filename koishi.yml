@@ -52,7 +52,13 @@ plugins:
   puppeteer:2oipri:
     headless: false
   ~spring-festival-ui:zgr8sp: {}
-  ~huanlin-welcome:qgs4qz: {}
+  huanlin-welcome:qgs4qz: {}
   editfile:r5cmr0: {}
   editor:p7tj3h: {}
   gocq-session-uploader:3o1mxt: {}
+  adapter-onebot:ru8o4v:
+    selfId: '2837314711'
+    gocqhttp:
+      enabled: true
+  chat:kneswj: {}
+  pack-my-message:wih4zm: {}

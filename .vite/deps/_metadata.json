@@ -1,77 +1,77 @@
 {
-  "hash": "c8cfabcf",
-  "browserHash": "0f047f6d",
+  "hash": "6ebdb70e",
+  "browserHash": "aa899b24",
   "optimized": {
     "vue": {
       "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "fa4c2468",
+      "fileHash": "d1f92d72",
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../node_modules/vue-router/dist/vue-router.mjs",
       "file": "vue-router.js",
-      "fileHash": "89dd51e3",
+      "fileHash": "a5354b47",
       "needsInterop": false
     },
     "element-plus": {
       "src": "../../node_modules/element-plus/es/index.mjs",
       "file": "element-plus.js",
-      "fileHash": "8037b305",
+      "fileHash": "44a56a7f",
       "needsInterop": false
     },
     "@vueuse/core": {
       "src": "../../node_modules/@vueuse/core/index.mjs",
       "file": "@vueuse_core.js",
-      "fileHash": "5072a239",
+      "fileHash": "026f9bb2",
       "needsInterop": false
     },
     "@popperjs/core": {
       "src": "../../node_modules/@popperjs/core/dist/index.mjs",
       "file": "@popperjs_core.js",
-      "fileHash": "52bea6f1",
+      "fileHash": "c14bcb19",
       "needsInterop": false
     },
     "marked": {
       "src": "../../node_modules/marked/lib/marked.esm.js",
       "file": "marked.js",
-      "fileHash": "0636c328",
+      "fileHash": "7de92644",
       "needsInterop": false
     },
     "xss": {
       "src": "../../node_modules/xss/lib/index.js",
       "file": "xss.js",
-      "fileHash": "e38dd96b",
+      "fileHash": "b6900afb",
       "needsInterop": true
     },
     "@koishijs/client": {
       "src": "../../node_modules/@koishijs/client/client/index.ts",
       "file": "@koishijs_client.js",
-      "fileHash": "71acdec1",
+      "fileHash": "d6644769",
       "needsInterop": false
     },
     "monaco-editor": {
       "src": "../../node_modules/monaco-editor/esm/vs/editor/editor.main.js",
       "file": "monaco-editor.js",
-      "fileHash": "9070b664",
+      "fileHash": "ff477190",
       "needsInterop": false
     },
     "monaco-editor/esm/vs/basic-languages/css/css.contribution": {
       "src": "../../node_modules/monaco-editor/esm/vs/basic-languages/css/css.contribution.js",
       "file": "monaco-editor_esm_vs_basic-languages_css_css__contribution.js",
-      "fileHash": "e9f04e38",
+      "fileHash": "102511c2",
       "needsInterop": false
     },
     "monaco-editor/esm/vs/basic-languages/xml/xml.contribution": {
       "src": "../../node_modules/monaco-editor/esm/vs/basic-languages/xml/xml.contribution.js",
       "file": "monaco-editor_esm_vs_basic-languages_xml_xml__contribution.js",
-      "fileHash": "b0d282fc",
+      "fileHash": "841b6723",
       "needsInterop": false
     },
     "monaco-editor/esm/vs/basic-languages/javascript/javascript.contribution": {
       "src": "../../node_modules/monaco-editor/esm/vs/basic-languages/javascript/javascript.contribution.js",
       "file": "monaco-editor_esm_vs_basic-languages_javascript_javascript__contribution.js",
-      "fileHash": "f25017e0",
+      "fileHash": "9d44a627",
       "needsInterop": false
     }
   },

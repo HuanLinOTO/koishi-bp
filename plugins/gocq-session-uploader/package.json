@@ -17,5 +17,8 @@
   ],
   "peerDependencies": {
     "koishi": "^4.11.2"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.0"
   }
 }

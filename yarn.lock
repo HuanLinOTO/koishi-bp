@@ -189,6 +189,11 @@
   resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fplugin-bind/-/plugin-bind-1.3.2.tgz#a76e51a0a97dfef47735de1fe09411d74c654dc2"
   integrity sha512-k8NQ8vehcGrGMEFsQ2hHM6LQYbXecYPZpuqFuio5po3kSobr0/rdWqPkpMhxw2K1GijaJ1sp1zQ7P54IS9dO6g==
 
+"@koishijs/plugin-chat@3.2.0":
+  version "3.2.0"
+  resolved "https://registry.npmmirror.com/@koishijs/plugin-chat/-/plugin-chat-3.2.0.tgz#561198320fbf093c40d93fe6ccf4252c8396b40d"
+  integrity sha512-Zd773HE6hfi6Ci2j2G4YE3RqF/qLbV3RW48vO9d2Yf5oua1hiF7+9ILweBUGnJTILYEAXQiKN8eeEIHbDKcShg==
+
 "@koishijs/plugin-commands@^2.3.0":
   version "2.3.0"
   resolved "https://mirrors.cloud.tencent.com/npm/@koishijs%2fplugin-commands/-/plugin-commands-2.3.0.tgz#d5312f64944fdbe3cc749794fdd572adcc15f3b4"
@@ -1818,6 +1823,15 @@ fs-extra@^10.1.0:
   version "10.1.0"
   resolved "https://mirrors.cloud.tencent.com/npm/fs-extra/-/fs-extra-10.1.0.tgz#02873cfbc4084dde127eaa5f9905eef2325d1abf"
   integrity sha512-oRXApq54ETRj4eMiFzGnHWGy+zo5raudjuxN0b8H7s/RU2oW0Wvsx9O0ACRN/kRq9E8Vu/ReskGB5o3ji+FzHQ==
+  dependencies:
+    graceful-fs "^4.2.0"
+    jsonfile "^6.0.1"
+    universalify "^2.0.0"
+
+fs-extra@^11.1.0:
+  version "11.1.0"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.1.0.tgz#5784b102104433bb0e090f48bfc4a30742c357ed"
+  integrity sha512-0rcTq621PD5jM/e0a3EJoGC/1TC5ZBCERW82LQuwfGnCa1V8w7dpYH1yNu+SLb6E5dkeCBzKEyLGlFrnr+dUyw==
   dependencies:
     graceful-fs "^4.2.0"
     jsonfile "^6.0.1"

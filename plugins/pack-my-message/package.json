@@ -1,7 +1,7 @@
 {
-  "name": "koishi-plugin-huanlin-welcome",
-  "description": "支持不同群有不同的欢迎词的群加入欢迎",
-  "version": "1.0.5",
+  "name": "koishi-plugin-pack-my-message",
+  "description": "是一个消息打包姬!",
+  "version": "1.0.7",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -16,6 +16,7 @@
     "plugin"
   ],
   "peerDependencies": {
-    "koishi": "^4.11.2"
-  }
+    "koishi": "^4.9.6"
+  },
+  "author": "HuanLin <linsmc@126.com>"
 }

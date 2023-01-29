@@ -4,14 +4,15 @@ import uploadSessionIcon from "./icons/icon.vue"
 
 icons.register("upload-session",uploadSessionIcon)
 
+
+
 export default (ctx: Context) => {
     ctx.page({
-        name: '编辑文件',
+        name: '变更登录信息',
         path: '/upload-session',
         icon: "upload-session",
         component: page
     })
-    // console.log(6666);
     
     ctx.on("dispose",()=>{
     })
