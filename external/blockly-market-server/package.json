@@ -1,0 +1,30 @@
+{
+  "name": "koishi-plugin-blockly-market-server",
+  "description": "blockly-market-server",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.12.6"
+  },
+  "koishi": {
+    "hidden": true
+  },
+  "devDependencies": {
+    "@koishijs/client": "^5.9.4"
+  },
+  "dependencies": {
+    "@koishijs/plugin-console": "^5.9.4"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "koishi-plugin-spring-festival-ui",
+  "description": "给你的控制台上一个新春皮肤吧！",
+  "version": "1.0.4",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {
+    "@koishijs/client": "^5.9.4",
+    "@koishijs/plugin-console": "^5.9.4",
+    "@types/node": "^20.2.4",
+    "koishi": "^4.13.0",
+    "typescript": "^5.0.4"
+  },
+  "peerDependencies": {
+    "koishi": "^4.11.1"
+  },
+  "homepage": "https://github.com/HuanLinOTO/koishi-bp"
+}

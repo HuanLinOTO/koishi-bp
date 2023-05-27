@@ -1,0 +1,31 @@
+{
+  "name": "koishi-plugin-koishi",
+  "description": "第二份半价",
+  "version": "1.0.3",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.11.8"
+  },
+  "dependencies": {
+    "@koishijs/plugin-console": "^5.9.4",
+    "get-port": "^6.1.2",
+    "which-pm-runs": "^1.1.0",
+    "yaml": "^2.3.1"
+  },
+  "devDependencies": {
+    "@koishijs/client": "^5.9.4"
+  },
+  "homepage": "https://github.com/HuanLinOTO/koishi-bp"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "koishi-plugin-gocq-session-uploader",
+  "description": "使用控制台上传 gocqhttp 的会话和设备文件",
+  "version": "1.0.2",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.11.2",
+    "@koishijs/client": "^4.8.1",
+    "@koishijs/plugin-console": "^4.8.1"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  },
+  "homepage": "https://github.com/HuanLinOTO/koishi-bp"
+}

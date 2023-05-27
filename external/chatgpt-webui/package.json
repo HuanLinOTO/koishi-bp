@@ -1,0 +1,27 @@
+{
+  "name": "koishi-plugin-chatgpt-webui",
+  "description": "在 Koishi 玩 ChatGPT(需要任意 GPT 服务)",
+  "version": "0.0.2",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.12.5"
+  },
+  "devDependencies": {
+    "@koishijs/client": "^5.9.4"
+  },
+  "dependencies": {
+    "@koishijs/plugin-console": "^5.9.4"
+  }
+}

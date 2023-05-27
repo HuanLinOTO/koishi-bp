@@ -1,0 +1,23 @@
+{
+  "name": "koishi-plugin-pack-my-message",
+  "description": "是一个消息打包姬!",
+  "version": "1.0.9",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.9.6"
+  },
+  "author": "HuanLin <linsmc@126.com>",
+  "homepage": "https://github.com/HuanLinOTO/koishi-bp"
+}

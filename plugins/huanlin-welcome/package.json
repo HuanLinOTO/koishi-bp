@@ -1,0 +1,22 @@
+{
+  "name": "koishi-plugin-huanlin-welcome",
+  "description": "支持不同群有不同的欢迎词的群加入欢迎",
+  "version": "1.0.10",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.11.2"
+  },
+  "homepage": "https://github.com/HuanLinOTO/koishi-bp"
+}

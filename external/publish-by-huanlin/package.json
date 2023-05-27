@@ -1,0 +1,26 @@
+{
+  "name": "koishi-plugin-publish-by-huanlin",
+  "description": "这是一个由幻灵发布的插件，它可以让插件市场的插件看起来都是幻灵开发的",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "peerDependencies": {
+    "@koishijs/plugin-console": "^5.0.0",
+    "@koishijs/plugin-market": "^1.5.5",
+    "koishi": "^4.8.3"
+  },
+  "devDependencies": {
+    "@koishijs/client": "^5.9.4",
+    "@koishijs/plugin-console": "^5.9.4",
+    "@koishijs/plugin-market": "^2.0.3",
+    "@types/node": "^20.2.4",
+    "esbuild": "^0.17.19",
+    "esbuild-register": "^3.4.2",
+    "koishi": "^4.13.0",
+    "typescript": "^5.0.4"
+  }
+}
